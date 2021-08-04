@@ -2,6 +2,21 @@
 codename:joyeuse
 ---
 =====================
+    04 August 2021
+=====================
+Source Side Changelog:
+* Merged LA.QSSI.11.0.r1-12700.01-qssi.0
+* Added Android S Clock
+* Added Network traffic
+
+Device Side Changelog:
+* Drop FM
+* Fix some GApps Bootloop for Vanila
+* Remove redudent audio configs
+* Update LA.UM.9.1.r1-09600-SMxxx0.0 blobs
+* Update QTI telephony from LA.QSSI.11.0.r1-10400-qssi.0
+
+=====================
     13 July 2021
 =====================
 Source Side Changelog:
