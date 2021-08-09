@@ -2,6 +2,16 @@
 codename:violet
 ---
 =====================
+     09 Aug 2021
+=====================
+* Merged Latest CAF Tag LA.QSSI.11.0.r1-12700.02-qssi.0
+* Fixed crashes on system suspend
+* Switched kernel to Vertigo by rokusenpai
+* Fixed low mic gain
+* Fixed echo in VoIP calls on non-mic earphones
+* Other sepolicy Fixes
+
+=====================
      12 Jul 2021
 =====================
 * Based on latest CAF Tag LA.QSSI.11.0.r1-12400.02-qssi.0
