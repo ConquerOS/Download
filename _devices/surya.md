@@ -1,7 +1,7 @@
 ---
 codename: surya
 fullname: POCO X3 NFC
-romversion: 4.4 Raven
+romversion: 4.5 Raven
 maintainer: Rizak Kamal
 newformat: true
 pling: https://www.pling.com/p/1560096/
