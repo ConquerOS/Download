@@ -1,6 +1,43 @@
 ---
 codename:z2_plus
 ---
+
+=====================
+    10 August 2021
+=====================
+ - Bumped version to 4.5 Raven
+ - Switch to LA.QSSI.11.0.r1-12700.01-qssi.0 CAF Tag
+ - Merge July Security Patch r_39
+ - Added Russian translation
+ - Use wallpaper color on Android 12 Clock
+ - Fixes on Android 12 Clock
+ - Use normal font just like real Android 12 Clock
+ - Grant suspend permission for Super Battery Saver
+ - Added OxygenOS Icon Pack
+ - Added Shapshift's Android Tweleve Clock
+ - AppLock: Fix biometric prompt disappearing if app launched from resolver
+ - fonts: Fix reference to Noto Sans Javanese 
+ - Reworked Panel and change icons
+ - QS Header item reorder
+ - Add OOS Volume icons
+ - Rework QS Drag handle
+ - Disbale blur screen off animation
+ - Added SoftAPManager. Now you can block someone used your Hotspot
+ - Ask lockscreen pass/PIN to use Hotspot, and work mode tile
+ - Use Cloudflare DNS
+ - Hide sensitive information by default
+ - Added Quick PIN Unlock. Phone will be unlocked once you enter correct PIN.
+ - Use media artwork as QS Media PLayer Background
+ - Some minor UI fixes
+ - Some minor improvemnts and fixes
+
+ * Device Side:
+ - Update some audio blobs from LA.UM.9.6.2.r1-04100-89xx.0
+ - Force disable updatable APEX
+ - Drop Iorapd properties
+ - Kernel: Remove BCL (Fix phone lag below 30%)
+ - Kernel: Enable Exfat & Ntfs
+
 =====================
     20 July 2021
 =====================
