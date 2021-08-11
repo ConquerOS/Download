@@ -1,5 +1,5 @@
 ---
-codename: wayne
+codename: jasmine_sprout
 fullname: Xiaomi Mi A2
 romversion: 4.5 Raven
 maintainer: Alif Fathur
