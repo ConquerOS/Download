@@ -2,6 +2,41 @@
 codename:joyeuse
 ---
 =====================
+    11 August 2021
+=====================
+Source Side Changelog:
+ - 4.5 Code base release
+ - Merged LA.QSSI.11.0.r1-12700.01-qssi.0
+ - Added Russian translation
+ - Use wallpaper color on Android 12 Clock
+ - Fixes on Android 12 Clock
+ - Use normal font just like real Android 12 Clock
+ - Grant suspend permission for Super Battery Saver
+ - Added OxygenOS Icon Pack
+ - Added Shapshift's Android Tweleve Clock
+ - AppLock: Fix biometric prompt disappearing if app launched from resolver
+ - fonts: Fix reference to Noto Sans Javanese 
+ - Reworked Panel and change icons
+ - QS Header item reorder
+ - Add OOS Volume icons
+ - Rework QS Drag handle
+ - Disbale blur screen off animation
+ - Added SoftAPManager. Now you can block someone used your Hotspot
+ - Ask lockscreen pass/PIN to use Hotspot, and work mode tile
+ - Use Cloudflare DNS
+ - Hide sensitive information by default
+ - Added Quick PIN Unlock. Phone will be unlocked once you enter correct PIN.
+ - Use media artwork as QS Media Player Background
+ - Some minor UI fixes
+ - Some minor improvemnts and fixes
+
+Device Side Changelog:
+ - Address some denial
+ - Change kernel to Yuki-Iridium 4.14.238
+ - Move perf configs to device tree
+ - Some minor improvemnts
+
+=====================
     04 August 2021
 =====================
 Source Side Changelog:
