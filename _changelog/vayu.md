@@ -3,8 +3,24 @@ codename:vayu
 ---
 
 =====================
+    13 August 2021
+=====================
+
+Device Side Changelog:
+* Revise init schedtune configuration
+* Align boot and runtime fs tuning to coral
+* Set new dm device runtime readahead to 128
+* Move device-mapper tuning into init.qcom.rc
+* Using Etherious Kernel (Compile with latest Azure Clang)
+* Opt-out Wifi-RTT feature
+* Address more denials
+* Force srgb over dcip3
+* Extract blobs from MIUI V12.5.3.0.RJUINXM
+
+=====================
     2 August 2021
 =====================
+
 Device Side Changelog:
 * Adapt CAF Power for vayu
 * Configure zram from separate fstab
@@ -16,9 +32,11 @@ Device Side Changelog:
 * Lots of improvement on kernel
 * Remove virtual framebuffer
 * Properly label /sys/kernel/qvr_external_sensor/fd
+
 =====================
     28 July 2021
 =====================
+
 Source Side Changelog:
 * 4.4 Code base release
 - Merged LA.QSSI.11.0.r1-12600-qssi.0
