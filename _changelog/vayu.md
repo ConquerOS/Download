@@ -41,6 +41,7 @@ Device Side Changelog:
 - Opt-out Wifi-RTT feature
 - Address more denials
 - Force srgb over dcip3
+- Fixed refresh rate junk (Always set different values for min and max)
 - Extract blobs from MIUI V12.5.3.0.RJUINXM
 
 =====================
