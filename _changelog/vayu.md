@@ -37,7 +37,7 @@ Device Side Changelog:
 - Align boot and runtime fs tuning to coral
 - Set new dm device runtime readahead to 128
 - Move device-mapper tuning into init.qcom.rc
-- Using Etherious Kernel (Compile with latest Azure Clang)
+- Using Chaldea Kernel (Compile with latest Proton Clang)
 - Opt-out Wifi-RTT feature
 - Address more denials
 - Force srgb over dcip3
