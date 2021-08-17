@@ -32,7 +32,6 @@ Source Side Changelog:
 Device Side Changelog:
 * Upstreamed with latest neXus kernel ( 4.4.281 )
 * Added Call Recording  Overlay
-* Lock screen Wallpaper fixed
 * Disable UI touch sounds by default
 * Force triple frame buffers
 * wlan: Relax WiFi re-association RSSI
