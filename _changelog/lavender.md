@@ -1,4 +1,14 @@
 ===================== 
+   19 August 2021
+=====================
+
+(4.5 v2)
+Device Side Changelog:
+* fixed instagram video issue
+* Added Mi sound ( Dirac)
+
+
+===================== 
    17 August 2021
 =====================
 
