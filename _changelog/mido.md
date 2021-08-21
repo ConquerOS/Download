@@ -33,7 +33,6 @@ Device Side Changelog:
 * Update QTI telephony from LA.QSSI.11.0.r1-12400-qssi.0
 * Disable VSync for CPU rendered apps
 * Updated GCam GO to v2.5 210726.1455
-* and more improvement
 
 
 
