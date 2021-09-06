@@ -3,6 +3,21 @@ codename:vayu
 ---
 
 =====================
+    6 September 2021
+=====================
+
+Device Side Changelog:
+- Fixed broken refresh rate after unlocking the device
+- Fixed 90hz lagging
+- Drop unused prebuilt 64bit audio HAL
+- Implement Clear Speaker
+- Disable CPU hotplug data parsing on mi_thermald
+- Using Chaldea Kernel (Compile with latest Proton Clang)
+- Kang SF phase offsets from coral
+- Fixed stuttering when opening apps
+- Import missing keylayout
+
+=====================
     13 August 2021
 =====================
 
