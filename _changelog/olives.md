@@ -1,5 +1,5 @@
 =====================
-   09 September 2021
+   11 September 2021
 =====================
 
 Source Side Changelog:
@@ -33,12 +33,15 @@ Device Side Changelog:
 * Initial Official build
 * Update fingerprint to Redfin September
 * SiLonT as default kernel
-* Revert force triple frame buffer
-* Use OpenGL for HWUI renderer
-* Revert QTI Vibrator
-* Make UI smoother
 * Enable freeform windows
 * Drop ro.surface_flinger.force_hwc_copy_for_virtual_displays
 * Update qti telephony from LA.QSSI.11.0.r1-10400-qssi.0
 * Enable qti-telephony-common injection
+* Revert force triple frame buffers
+* Use OpenGL for HWUI rendering
+* Make the UI smoother
+* Enable the pre-rendering feature 
+* Optimize build specifically for cortex-a53
+* Enable adaptive sleep
+* Increase charging temperature thresholds
 * Add libbeluga.so
