@@ -1,7 +1,7 @@
 ---
 codename: tulip
 fullname: Redmi Note 6 Pro
-romversion: 4.5 Raven
+romversion: 4.6
 maintainer: Alif Fathur
 newformat: true
 pling: https://www.pling.com/p/1410833/

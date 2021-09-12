@@ -2,6 +2,39 @@
 codename:tulip
 ---
 =====================
+  12 September 2021
+=====================
+ * Bump to 4.6
+ * Use Android 12's FOD Icon
+ * Fix touch issue on split screen
+ * Set device name to market name if available
+ * Use FileChannel#size for APK Sign verification
+ * Make entityheader transparent
+ * Add back missing FORCE_STOP_PACKAGES perm to SystemUI
+ * Added Data usage info on Expanded QS Footer
+ * Install seccomp filter even if permissive builds
+ * Sleep when proximity is covered for 3 secs
+ * Use temporary TwilightState when location is not availavle
+ * Make Battery icon on QS Panel clickable
+ * Save and use last fetched location
+ * Make Guest user avatar follow system accent
+ * Rework on the Action Buttons looks
+ * Fixed Option of conquerOS Themer being rested in every reboot
+ * Added Quick Suggestion section on conquerOS Features menu
+ * Redesign Battery Info header
+ * Fix date showing null on Shapeshift Tweleve clock face
+ * Fix some UI Bugs
+ * Added bouncy overscroll animation
+ * Move conquerOS gesture settings to system gesture option
+ * Follow system accent on SetupWizard
+ * Fix vdso32 building for 4.19 kernels
+ * Allow to use boottime as timestamp reference 
+ * Avoid calling getSystemCameraKind if the camera was not mapped yet
+ * Fix thread safety issues
+ * Some more minor UI and bug fixes
+ * New default wallpaper
+
+=====================
     08 August 2021
 =====================
  - Added Russian translation
