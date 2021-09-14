@@ -4,7 +4,7 @@ title: Downloads
 ---
 <div class="card conquer-light-bg z-depth-3">
   <div class="card-content">
-    <span class="card-title">Download ConquerOS</span>
+    <span class="card-title">Download conquerOS</span>
   </div>
 </div>
 <div class="card conquer-light-bg z-depth-3">
@@ -19,6 +19,9 @@ title: Downloads
           <div class="collapsible-body collapsible-noborder conquer-midlight-bg">
             <span>Maintainer:</span><div class="chip conquer-lighter-bg" style="margin-left:4px">{{ device.maintainer }}</div><br>
             <span>Supported Version:</span><div class="chip conquer-lighter-bg" style="margin-left:4px">{{ device.romversion }}</div><br>
+            {% if device.status %}
+              <span>Status:</span><div class="chip conquer-lighter-bg" style="margin-left:4px">{{ device.status }}</div><br>
+            {% endif %}
             <a class="waves-effect waves-light btn-small conquer-accent-btn" href="{{ device.pling }}"><i class="material-icons left">get_app</i>Download</a>
             {% if device.xdathread %}
               <a class="waves-effect waves-light btn-small conquer-accent-btn" href="{{ device.xdathread }}"><i class="material-icons left">library_books</i>XDA Thread</a>
