@@ -1,0 +1,5475 @@
+[33mcommit 4fc8c332c649ee46bbd613b50ef59464909dac87[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: HeroBuxx <herobuxx@conqueros.co>
+Date:   Wed Sep 15 00:52:32 2021 +0700
+
+    Download: RMX1921: Add discontinued status
+    
+    Signed-off-by: HeroBuxx <herobuxx@conqueros.co>
+
+[33mcommit db344a2e1b638a79607d00c8203a35af91c2a29e[m
+Author: HeroBuxx <herobuxx@conqueros.co>
+Date:   Wed Sep 15 00:50:49 2021 +0700
+
+    Download: Add device status information
+    
+    Signed-off-by: HeroBuxx <herobuxx@conqueros.co>
+
+[33mcommit 0c97a46f3f87e9ac5731cc5d7dbe64a60fc377ff[m
+Author: rijak999 <rizakkamal999@gmail.com>
+Date:   Mon Sep 13 00:23:24 2021 +0000
+
+    surya: Update to 4.6 Sept 12, 2021 build
+
+[33mcommit ade9f6d10ef0ce1b9f48d6950705187467c4f9a7[m
+Author: Chuck439 <firmankediri123@gmail.com>
+Date:   Sun Sep 12 15:18:30 2021 +0000
+
+    olives: Update to 4.6 Sept 12, 2021 build
+    
+    Signed-off-by: Chuck439 <firmankediri123@gmail.com>
+
+[33mcommit 30e09e173dc257a73b4a4f6bdf91ddce22fa931c[m
+Author: HeroBuxx <herobuxx@conqueros.co>
+Date:   Sun Sep 12 14:27:57 2021 +0000
+
+    Download: Update tulip. whyred, wayne to 4.6 Sept 12, 2021 Build
+    
+    Signed-off-by: HeroBuxx <herobuxx@conqueros.co>
+
+[33mcommit a423854a2a77c6217c5575aa2144970deeb39f07[m
+Author: Chuck439 <firmankediri123@gmail.com>
+Date:   Sat Sep 11 10:32:06 2021 +0000
+
+    olives: Update changelog
+    
+    Signed-off-by: Chuck439 <firmankediri123@gmail.com>
+
+[33mcommit 8cb73cd2aa7792cd58aa5bb287552f56c6301112[m
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Sat Sep 11 13:26:56 2021 +0700
+
+    olives: Add pling
+
+[33mcommit 9ce46a547a6ef963a8a73b2c7ef44e927103aa28[m
+Merge: 169bbe0 28669ce
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Sat Sep 11 13:26:21 2021 +0700
+
+    Merge pull request #15 from Chuck439/master
+    
+    olives: initial release
+
+[33mcommit 28669ceb3072cf639c44b72e84fead2f0568c95a[m
+Author: Chuck439 <firmankediri123@gmail.com>
+Date:   Thu Sep 9 14:22:12 2021 +0000
+
+    olives: initial release
+    
+    Signed-off-by: Chuck439 <firmankediri123@gmail.com>
+
+[33mcommit 169bbe0d9d25d9b07bc2b001f7f17ce4d4d140ab[m
+Author: InVictusXV <aradheakiki123@gmail.com>
+Date:   Mon Sep 6 15:20:28 2021 +0700
+
+    vayu: September 06, 2021
+
+[33mcommit 47cfada56748e43a4f5c3ea2e20083e6005118d5[m
+Author: Wiley Lau <henloboii@protonmail.ch>
+Date:   Tue Aug 24 18:40:14 2021 +0800
+
+    miatoll: add pling link
+    
+    Signed-off-by: Wiley Lau <henloboii@protonmail.ch>
+
+[33mcommit 4500c5618f5cdc760d95738e3dda911045bdd7d5[m
+Author: Wiley Lau <henloboii@protonmail.ch>
+Date:   Tue Aug 24 18:39:07 2021 +0800
+
+    miatoll: ConquerOS release 1
+    
+    Signed-off-by: Wiley Lau <henloboii@protonmail.ch>
+
+[33mcommit 586c847ded2b992d8636b561f88a7c9ecf8cdc37[m
+Author: BH36B <67626089+ikeh045@users.noreply.github.com>
+Date:   Sun Aug 22 06:46:28 2021 +0700
+
+    Update mido.md
+
+[33mcommit bdfa0198b2353a22a192350cc825c822f563b6b6[m
+Author: ikeh045 <njkampret@gmail.com>
+Date:   Sun Aug 22 05:52:26 2021 +0700
+
+    mido: update to raven 4.5
+
+[33mcommit 502d3e428a9f8e28be065b7b6afa8630797d767e[m
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Thu Aug 19 20:35:35 2021 +0700
+
+    dipper: Attach pling
+
+[33mcommit 569283786e8ff4cb4bb15fa48c7bf996c6437618[m
+Author: chokutomoe <rinnetenseilyfe@gmail.com>
+Date:   Thu Aug 19 13:18:59 2021 +0000
+
+    dipper: Welcome dipper to ConquerOS & Changelogs
+
+[33mcommit 37237ae09c0796496e2e7c02234544912366362a[m
+Author: Yash Aggarwal <80510443+69fsociety@users.noreply.github.com>
+Date:   Thu Aug 19 17:15:19 2021 +0530
+
+    4.5 v2
+
+[33mcommit 32fc7790e672a300c9c9f9a172916d08d5fcf333[m
+Author: Yash Aggarwal <80510443+69fsociety@users.noreply.github.com>
+Date:   Tue Aug 17 16:44:55 2021 +0530
+
+    Update lavender.md
+
+[33mcommit 94e5e1431b8dda76d96c3f8ff028a643e1fe2d66[m
+Author: Yash Aggarwal <80510443+69fsociety@users.noreply.github.com>
+Date:   Tue Aug 17 16:17:22 2021 +0530
+
+    Lavender : Update to Raven 4.5
+
+[33mcommit 55c8798a3376aa0a017785a46c0197da2a9046e7[m
+Author: tompelitem <esgedang123@gmail.com>
+Date:   Sun Aug 15 15:42:17 2021 +0000
+
+    download: update santoni raven 4.5
+
+[33mcommit 360bc0be78cf500a3dff1489ca436f37c2c1571f[m
+Merge: 2b171ee e782bdc
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Sun Aug 15 17:54:18 2021 +0700
+
+    Merge pull request #14 from mgs28-mh/master
+    
+    ulysse: Update to 4.5 - August 15, 2021
+
+[33mcommit e782bdc7d65e14a8917dbdd24b237db6ab83c3c8[m
+Author: mgs28-mh <gsaputra880@gmail.com>
+Date:   Sun Aug 15 17:01:08 2021 +0700
+
+    ulysse: Update to 4.5 - August 15, 2021
+
+[33mcommit 2b171eebf4a45e260960fb2929dfa54e0935c42f[m
+Author: InVictusXV <47210177+InVictusXV@users.noreply.github.com>
+Date:   Fri Aug 13 21:13:43 2021 +0700
+
+    vayu: add some changes
+
+[33mcommit 9d30809b81abdd5caaa5d7db7abd71977cee0174[m
+Author: InVictusXV <47210177+InVictusXV@users.noreply.github.com>
+Date:   Fri Aug 13 21:08:53 2021 +0700
+
+    vayu: fixed some chagelog
+
+[33mcommit 86921cf87fa67a539329ee0d1203ea4846374a46[m
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Fri Aug 13 19:33:49 2021 +0700
+
+    vayu: Bump 4.5
+
+[33mcommit 9b26df1bcd92da75233884026b9b7c13b525e7ef[m
+Author: InVictusXV <aradheakiki123@gmail.com>
+Date:   Thu Aug 12 23:37:37 2021 -0700
+
+    vayu: add 4.5 sources changes
+
+[33mcommit 463777526a82ffe6a321a63054ac44a97e368a54[m
+Author: InVictusXV <aradheakiki123@gmail.com>
+Date:   Thu Aug 12 21:03:59 2021 -0700
+
+    vayu: August 13, 2021
+
+[33mcommit 84a397d1a72aad56cf2643466072cfa9e06bc6a9[m
+Author: anulalat <ndra.bodoh@gmail.com>
+Date:   Thu Aug 12 13:44:33 2021 +0800
+
+    joyeuse: Bump 4.5 11082021
+
+[33mcommit 1e396811f8e60b56eb236799dad51eae9973dd62[m
+Author: ZezinhoRey <zdrakfontz0@gmail.com>
+Date:   Wed Aug 11 21:29:38 2021 -0300
+
+    ginkgo: Update to Raven 4.5 20210811
+
+[33mcommit 1caf8e6d87f946a33cb8c9a8b103b2f1f0df6a8b[m
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Wed Aug 11 11:48:01 2021 +0700
+
+    Fix device name
+
+[33mcommit 1f427796066e033f12efd1dbf5e6f7c5fb746e4c[m
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Wed Aug 11 11:47:10 2021 +0700
+
+    Fix device name
+
+[33mcommit 73b4be2a1dcfe3034fba2af954ff23d5dcbe4dce[m
+Merge: 1fd491d df8d3f7
+Author: HeroBuxx <herobuxx@conqueros.co>
+Date:   Wed Aug 11 04:44:50 2021 +0000
+
+    Update for wayne, and welcome jasmine
+
+[33mcommit df8d3f74e2bf4dd7924ef02889a6c2465da58d83[m
+Merge: ed43e83 48d5837
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Wed Aug 11 11:43:52 2021 +0700
+
+    Merge pull request #13 from hanifardhani/master
+    
+    platina: Update to Raven 4.5 20210810
+
+[33mcommit 48d5837bd2f44997f5d73042292bde7660706063[m
+Author: Hanif Ardhani <hanif.ardhani98@gmail.com>
+Date:   Wed Aug 11 06:35:28 2021 +0700
+
+    platina: Update to Raven 4.5 20210810
+    
+    Signed-off-by: Hanif Ardhani <hanif.ardhani98@gmail.com>
+
+[33mcommit ed43e835be8cccde2e5cbfa93cd6897e8a01244b[m
+Author: Pranav Temkar <pranavtemkar@gmail.com>
+Date:   Tue Aug 10 18:24:24 2021 +0000
+
+    z2_plus: Bump 4.5 Audust 10 2021 Update
+    
+     - Add changelog
+    
+    Signed-off-by: Pranav Temkar <pranavtemkar@gmail.com>
+
+[33mcommit 1fd491db2c340c0890a72afe7ca450e763e9403a[m
+Author: HeroBuxx <herobuxx@conqueros.co>
+Date:   Tue Aug 10 15:22:05 2021 +0000
+
+    Mi 6X/A2: Update and welcome Mi A2
+    
+    Signed-off-by: HeroBuxx <herobuxx@conqueros.co>
+
+[33mcommit 5a8932169b58d81225f7028c70d4d1c4f6e4ca6d[m
+Author: HeroBuxx <herobuxx@conqueros.co>
+Date:   Tue Aug 10 20:22:48 2021 +0800
+
+    tulip, whyred: August 9, 2021 Update
+    
+    Signed-off-by: HeroBuxx <herobuxx@conqueros.co>
+
+[33mcommit f3c9975a634115e05740f0b3c849fe2479ceac22[m
+Author: Shibi404 <shibisbs123@gmail.com>
+Date:   Tue Aug 10 08:20:47 2021 +0530
+
+    X01BD: Update to Raven 4.5 20210810
+
+[33mcommit 51420826ca7aefb05ba8f8d17d5024e315bc8113[m
+Author: sackclothxashes <george140201@gmail.com>
+Date:   Mon Aug 9 23:25:15 2021 +0530
+
+    violet: Bump to v4.5
+
+[33mcommit ee5e49d059cd590f5687c179eae0db0b77050b6b[m
+Author: sackclothxashes <george140201@gmail.com>
+Date:   Mon Aug 9 23:12:00 2021 +0530
+
+    violet: Add Changelogs for v4.5
+
+[33mcommit c1a7c024de8bfbba5e275211344d5660b3db3951[m
+Author: Atharva Agnihotri <86335435+Atharva-Agnihotri7115@users.noreply.github.com>
+Date:   Mon Aug 9 22:39:36 2021 +0530
+
+    Fix Typos
+
+[33mcommit cf02247f469b54f523e23e4cfc0cd239519be948[m
+Author: Atharva Agnihotri <86335435+Atharva-Agnihotri7115@users.noreply.github.com>
+Date:   Mon Aug 9 22:30:42 2021 +0530
+
+    RMX1921:-Update Changelog
+
+[33mcommit b03e9c5ec2e1b6b89f946d9c045087c1cf9fc2f4[m
+Author: Atharva Agnihotri <86335435+Atharva-Agnihotri7115@users.noreply.github.com>
+Date:   Mon Aug 9 22:26:46 2021 +0530
+
+    RMX1921:-Bump To 4.5
+
+[33mcommit 8c4f7c4f29c9cef846b7ee8384938a94d1ea40a6[m
+Author: rijak999 <rizakkamal999@gmail.com>
+Date:   Mon Aug 9 14:40:06 2021 +0000
+
+    surya: August 9, 2021
+
+[33mcommit a3660c91f6fda8469425ec294d1ee13fe073a097[m
+Author: tompelitem <esgedang123@gmail.com>
+Date:   Wed Aug 4 18:31:48 2021 +0000
+
+    Download: Welcome Mido
+
+[33mcommit b52201eb47fa192b204e5f211fb9e006c1e4b1a9[m
+Author: anulalat <ndra.bodoh@gmail.com>
+Date:   Wed Aug 4 22:02:02 2021 +0800
+
+    joyesue: August 4, 2021
+
+[33mcommit 14ae0163b493ef63a0e76857e9318891e737969a[m
+Merge: 75a460f cce0780
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Wed Aug 4 09:16:41 2021 +0700
+
+    Merge pull request #11 from mgs28-mh/master
+    
+    ulysse: August 3, 2021
+
+[33mcommit cce078003258a84275f6e5dc550d7639d52f89af[m
+Author: mgs28-mh <gsaputra880@gmail.com>
+Date:   Wed Aug 4 07:21:15 2021 +0700
+
+    ulysse: August 3, 2021
+
+[33mcommit 75a460f64f6655a83dfc90be48af3fb397a8acd1[m
+Author: InVictusXV <47210177+InVictusXV@users.noreply.github.com>
+Date:   Mon Aug 2 21:27:52 2021 +0700
+
+    vayu: August 2, 2021
+
+[33mcommit 7a1561b5623f6e68263f5e846e98c56e2ee1e3ed[m
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Thu Jul 29 21:01:35 2021 +0700
+
+    whyred: July 29, 2021
+
+[33mcommit 451331ccee937eb41dce63b3460d77d348a1f1ce[m
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Thu Jul 29 21:00:54 2021 +0700
+
+    wayne: July 29. 2021
+
+[33mcommit 0a9058a4be0b2984eeb82d416c807e0693c9052e[m
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Thu Jul 29 21:00:17 2021 +0700
+
+    tulip: July 29. 2021
+
+[33mcommit ea7b619ef3445afb926a9578e85e67f614320b9f[m
+Author: Atharva Agnihotri <86335435+Atharva-Agnihotri7115@users.noreply.github.com>
+Date:   Thu Jul 29 18:33:47 2021 +0530
+
+    Lavender:-Added Changelog For Kernel Upstream
+
+[33mcommit a9e0df9655733c3539b11895df7816f6131cf832[m
+Author: Atharva Agnihotri <86335435+Atharva-Agnihotri7115@users.noreply.github.com>
+Date:   Thu Jul 29 18:24:08 2021 +0530
+
+    Lavender:-Update To Raven 4.4 20210729
+
+[33mcommit 33eeee1937ec9e75ddabb2b572c4ca4aad600eaa[m
+Author: Atharva Agnihotri <86335435+Atharva-Agnihotri7115@users.noreply.github.com>
+Date:   Thu Jul 29 18:16:54 2021 +0530
+
+    Download: Update Mantainer Info
+
+[33mcommit ea9562854ae53f1c970684d810fbee11c845614e[m
+Author: InVictusXV <aradheakiki123@gmail.com>
+Date:   Thu Jul 29 11:44:14 2021 +0700
+
+    download: Welcome POCO X3 Pro (vayu/bhima)
+
+[33mcommit fad58b12fbb3838997b765132234e2414423f2fd[m
+Merge: 656d452 d5cbe64
+Author: X O <xtreme.ornob@gmail.com>
+Date:   Wed Jul 28 22:45:09 2021 +0600
+
+    Merge pull request #10 from XtremeOrnob/master
+    
+    beryllium: Update to Raven 4.4
+
+[33mcommit d5cbe64dbd4e7d4b8d12beda679134b9ea2c4308[m
+Author: XtremeOrnob <xtreme.ornob@gmail.com>
+Date:   Wed Jul 28 16:40:23 2021 +0000
+
+    beryllium: Update to Raven 4.4
+
+[33mcommit 656d45293356c699d793fbeb92e752b056f36f88[m
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Tue Jul 27 12:00:02 2021 +0700
+
+    Fix pling
+
+[33mcommit 1befd8812ce827021cce7e0816247b2d44bd6d69[m
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Tue Jul 27 11:45:39 2021 +0700
+
+    Add pling link
+
+[33mcommit 65d63c5d589f8e19291c4cd38f8d1d82de6aabdd[m
+Author: Atharva Agnihotri <86335435+Atharva-Agnihotri7115@users.noreply.github.com>
+Date:   Tue Jul 27 08:50:15 2021 +0530
+
+     donwload: Add Realme XT(RMX1921)
+
+[33mcommit aa04d59f1fd677edc9b05336985c0f8c4de142ed[m
+Author: Atharva Agnihotri <86335435+Atharva-Agnihotri7115@users.noreply.github.com>
+Date:   Mon Jul 26 23:35:02 2021 +0530
+
+    donwload: Add Realme XT (RMX1921)
+
+[33mcommit d107634f4b51e663b80550bb76a8ac53e47ac80c[m
+Author: HeroBuxx <herobuxx@conqueros.co>
+Date:   Thu Jul 22 21:03:04 2021 +0800
+
+    donwload: Add Redmi Note 5A/5A Prime
+    
+    Signed-off-by: HeroBuxx <herobuxx@conqueros.co>
+
+[33mcommit 6cba9dbf0a4274ae588dc7a2f47d0c4c993b5af7[m
+Author: HeroBuxx <herobuxx@conqueros.co>
+Date:   Wed Jul 21 22:20:05 2021 +0800
+
+    download: Fix Device name for z2_plus
+    
+    Signed-off-by: HeroBuxx <herobuxx@conqueros.co>
+
+[33mcommit a79f5aa57ada20a0470df9f05c01ae944e140581[m
+Author: ꦏꦸꦭꦺꦴꦤꦸꦮꦸꦤ꧀ <65087921+tompelitem@users.noreply.github.com>
+Date:   Wed Jul 21 19:12:19 2021 +0700
+
+    Raven 4.4
+
+[33mcommit fc5d3cb22f553b5948d8614d65865f47fe53058b[m
+Author: ꦏꦸꦭꦺꦴꦤꦸꦮꦸꦤ꧀ <65087921+tompelitem@users.noreply.github.com>
+Date:   Wed Jul 21 18:57:47 2021 +0700
+
+    Update santoni changlog
+
+[33mcommit 0386f0dc32daf6eb71474d34d8255b09947658f4[m
+Author: ꦏꦸꦭꦺꦴꦤꦸꦮꦸꦤ꧀ <65087921+tompelitem@users.noreply.github.com>
+Date:   Wed Jul 21 18:41:30 2021 +0700
+
+    Update santoni
+
+[33mcommit c840b5939246e113bba2c5f7e774ee3b10cd51f6[m
+Author: HeroBuxx <herobuxx@conqueros.co>
+Date:   Wed Jul 21 22:11:06 2021 +0800
+
+    Download: Add Redmi Note 8 (ginkgo)
+    
+    Signed-off-by: HeroBuxx <herobuxx@conqueros.co>
+
+[33mcommit 1a4c21aee22f6afee5fc8edb9b278f05956725e6[m
+Author: HeroBuxx <herobuxx@conqueros.co>
+Date:   Wed Jul 21 21:55:41 2021 +0800
+
+    Download: Add Zuk Z2 Plus
+    
+    Signed-off-by: HeroBuxx <herobuxx@conqueros.co>
+
+[33mcommit d6f5fd0bdd9bbc50aecc79ec60d835083848e94b[m
+Author: HeroBuxx <herobuxx@conqueros.co>
+Date:   Wed Jul 21 17:55:50 2021 +0800
+
+    devices: Add Xiaomi Mi 6X
+    
+    Signed-off-by: HeroBuxx <herobuxx@conqueros.co>
+
+[33mcommit 268d11c08d9bd56b888d47c0a143e9ca1d7b6f03[m
+Author: HeroBuxx <herobuxx@conqueros.co>
+Date:   Wed Jul 21 01:19:05 2021 +0800
+
+    changelogs: update whyred andd tulip July 20, 2021
+    
+    Signed-off-by: HeroBuxx <herobuxx@conqueros.co>
+
+[33mcommit 92b7176e0db86e2f07c71e3ac7cbfec51d9229b9[m
+Author: HeroBuxx <herobuxx@conqueros.co>
+Date:   Mon Jul 19 17:33:40 2021 +0800
+
+    download: Welcome POCO X3/X3 NFC (surya/karna)
+    
+    Signed-off-by: HeroBuxx <herobuxx@conqueros.co>
+
+[33mcommit 9297e19588e58c5b3d221f76c71820a6d1ece0f5[m
+Merge: 8bdcaa4 a623655
+Author: Pulkit Agarwal <55397005+Pulkit077@users.noreply.github.com>
+Date:   Sat Jul 17 15:33:21 2021 +0530
+
+    Merge pull request #8 from Shibi404/master
+    
+    X01BD: Update to Raven 4.4 20210717
+
+[33mcommit a6236554914fc5daee679cac36f3dafb2d059fbc[m
+Author: Shibi Krishna <shibisbs123@gmail.com>
+Date:   Sat Jul 17 15:27:10 2021 +0530
+
+    X01BD: Update to Raven 4.4 20210717
+
+[33mcommit 5e113eb0c3127f0e0c6f3444591df5cd7e18cbd7[m
+Author: Shibi Krishna <shibisbs123@gmail.com>
+Date:   Sat Jul 17 15:25:49 2021 +0530
+
+    X01BD: Update to Raven 4.4 20210717
+
+[33mcommit 8bdcaa415958802f4bad0965a3c3a9f61c2219ce[m
+Merge: 178a26d 615ec67
+Author: ꦏꦸꦭꦺꦴꦤꦸꦮꦸꦤ꧀ <65087921+tompelitem@users.noreply.github.com>
+Date:   Tue Jul 13 19:29:44 2021 +0700
+
+    Merge pull request #7 from anulalat/master
+    
+    joyeuse: Update to Raven 4.4 20210713
+
+[33mcommit 615ec67df3d16453e6a2ee1a64efdb69975c086a[m
+Author: anulalat <ndra.bodoh@gmail.com>
+Date:   Tue Jul 13 19:45:37 2021 +0800
+
+    joyeuse: Update to Raven 4.4 20210713
+
+[33mcommit 178a26d08f41236c89d741663c66b01f02489c63[m
+Merge: bb1e007 fbf48db
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Tue Jul 13 14:22:07 2021 +0700
+
+    Merge pull request #6 from hanifardhani/master
+    
+    platina: Update to Raven 4.4 20210712
+
+[33mcommit fbf48db9e550894b9a75b175eca2285143e3bd50[m
+Author: Hanif Ardhani <hanif.ardhani98@gmail.com>
+Date:   Tue Jul 13 06:56:13 2021 +0000
+
+    platina: Update to Raven 4.4 20210712
+
+[33mcommit bb1e0074986e6dd806e9e8c1e2f0c278389a58c4[m
+Author: sackclothxashes <george140201@gmail.com>
+Date:   Mon Jul 12 17:49:16 2021 +0530
+
+    Update violet to v4.4 and add Changelogs
+
+[33mcommit 3ee24165c1ffb81b8d3c383d54622164bb68dadd[m
+Author: HeroBuxx <herobuxx@conqueros.co>
+Date:   Mon Jul 12 17:55:02 2021 +0800
+
+    devices: Update whyred and tulip to 4.4
+    
+    Signed-off-by: HeroBuxx <herobuxx@conqueros.co>
+
+[33mcommit 13a6aa008278c91a3e233bd51636d5b14f8a6803[m
+Author: HeroBuxx <me@herobuxx.xyz>
+Date:   Wed Jun 23 18:07:03 2021 +0700
+
+    devucesL Fix rosy maintainer name
+    
+    Signed-off-by: HeroBuxx <me@herobuxx.xyz>
+
+[33mcommit ba6579efb7ab6b6f1c846615fd473ec6a5c683f4[m
+Author: HeroBuxx <me@herobuxx.xyz>
+Date:   Wed Jun 23 18:05:41 2021 +0700
+
+    devices: Welcome Asus Max Pro M2
+    
+    Signed-off-by: HeroBuxx <me@herobuxx.xyz>
+
+[33mcommit 49b8d32ba81a9752dc7f0de3ae2313ec26b60452[m
+Author: HeroBuxx <me@herobuxx.xyz>
+Date:   Mon Jun 21 11:38:41 2021 +0700
+
+    devices: Add beryllium
+
+[33mcommit 516437631403b95f442396d5d0455bff2c935218[m
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Sun Jun 20 20:22:03 2021 +0700
+
+    whyred: Change Maintainer Name
+
+[33mcommit fbd3a45d6e2a4f323254ceed5ccea348c28fe881[m
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Sun Jun 20 20:21:33 2021 +0700
+
+    tulip: Change Maintainer Name
+
+[33mcommit 3026cfbe50be40bb594afd220ee130fa6a65ac29[m
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Sun Jun 20 20:16:55 2021 +0700
+
+    whyre3d: Changelogs for 20 June 2021
+
+[33mcommit cb42c993662068d67f6725a721042fbb0737a247[m
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Sun Jun 20 20:16:48 2021 +0700
+
+    tulip: Changelogs for 20 June 2021
+
+[33mcommit a82ff7095926518798508dd6943aa75ac5540d39[m
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Sun Jun 20 20:14:07 2021 +0700
+
+    whyred: Updated to 4.3
+
+[33mcommit f3d860cbf53ef84c811abec5c20670d269e4f52c[m
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Sun Jun 20 20:13:42 2021 +0700
+
+    tulip: Updated to 4.3
+
+[33mcommit abae94a70bdd5bfe893276eed0f271d3f9925956[m
+Author: anulalat <ndra.bodoh@gmail.com>
+Date:   Sun Jun 20 20:51:51 2021 +0800
+
+    joyeuse: 4.3
+
+[33mcommit 3349496abae0ea3f611aa68ee5f4cade355f98bc[m
+Author: anulalat <ndra.bodoh@gmail.com>
+Date:   Sun Jun 20 20:48:34 2021 +0800
+
+    joyeuse: update changelog 4.3 200621
+
+[33mcommit 6daf4c2e5ccacdec599c17bbd8419efb77a43762[m
+Author: ꦏꦸꦭꦺꦴꦤꦸꦮꦸꦤ꧀ <65087921+tompelitem@users.noreply.github.com>
+Date:   Fri Jun 18 23:38:53 2021 +0700
+
+    Update santoni changelog
+
+[33mcommit 1fb9c4c64218ccce272078785faf4614be5ceb92[m
+Author: HeroBuxx <me@herobuxx.xyz>
+Date:   Fri Jun 18 23:36:01 2021 +0700
+
+    santoni: 4.3
+    
+    Signed-off-by: HeroBuxx <me@herobuxx.xyz>
+
+[33mcommit ece80f3873f5d31f31eb38b301dff0a03de8b662[m
+Merge: 0bf45a4 fcce805
+Author: Pulkit Agarwal <55397005+Pulkit077@users.noreply.github.com>
+Date:   Fri Jun 18 13:46:55 2021 +0530
+
+    Merge pull request #5 from hanifardhani/master
+    
+    platina: Update to Raven 4.3 20210617
+
+[33mcommit fcce805f391a0f1d72bbf32f9bb2c97770f4ab79[m
+Author: Hanif Ardhani <hanif.ardhani98@gmail.com>
+Date:   Fri Jun 18 08:05:15 2021 +0000
+
+    platina: Update to Raven 4.3 20210617
+
+[33mcommit 0bf45a45532bec3e19b16dc2c5dd4259aad5e6bb[m
+Author: Pulkit Agarwal <55397005+Pulkit077@users.noreply.github.com>
+Date:   Sat Jun 12 08:20:16 2021 +0530
+
+    rosy: update to 4.3 Raven
+
+[33mcommit f643c30b8e443d3669ffe7a305636ed8f443ed4a[m
+Author: Pulkit Agarwal <55397005+Pulkit077@users.noreply.github.com>
+Date:   Sat Jun 12 08:16:41 2021 +0530
+
+    rosy: Update 20210611
+
+[33mcommit bf1884fea1094a0fe7664d2a39c7af2369c3d7c0[m
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Thu Jun 10 11:25:06 2021 +0700
+
+    Viomet: 4.3
+
+[33mcommit 28435e6a76f85e756fc274c6dfd69021a48f7add[m
+Merge: ea21a1c 47fddf6
+Author: Alif Fathur <herobuxx@conqueros.co>
+Date:   Thu Jun 10 11:24:29 2021 +0700
+
+    Merge pull request #4 from sackclothxashes/patch-1
+    
+    violet: add Changelogs for 09062021 build
+
+[33mcommit 47fddf68ebb49e7dac6d27e9c0563a9628d1f7f8[m
+Author: sackclothxashes <george140201@gmail.com>
+Date:   Wed Jun 9 16:34:10 2021 +0000
+
+    violet: add Changelogs for 09062021 build
+    
+    Signed-off-by: sackclothxashes <george140201@gmail.com>
+
+[33mcommit ea21a1c2a222ba027488307d433f759de668cb11[m
+Author: HeroBuxx <me@herobuxx.xyz>
+Date:   Thu May 20 19:00:45 2021 +0700
+
+    download: Reorder device name
+    
+    Signed-off-by: HeroBuxx <me@herobuxx.xyz>
+
+[33mcommit 37a7c8e148b1cb889e90a488664cebfb855fb3be[m
+Author: ꦏꦸꦭꦺꦴꦤꦸꦮꦸꦤ꧀ <65087921+tompelitem@users.noreply.github.com>
+Date:   Fri May 14 06:09:24 2021 +0700
+
+    Santoni : changelog update
+
+[33mcommit 2b8831308170a4bbb21e488339d06ee4ee0bf067[m
+Author: Alif Fathur <me@herobuxx.xyz>
+Date:   Thu May 13 22:53:32 2021 +0700
+
+    fix joyeuse changelog
+
+[33mcommit 4c86c9fd71686666e94251b8a2f91b8cbc25c373[m
+Merge: 6c3a150 8dd1941
+Author: Alif Fathur <me@herobuxx.xyz>
+Date:   Thu May 13 22:14:10 2021 +0700
+
+    Merge pull request #3 from anulalat/master
+    
+    changelogs: joyeuse 130521
+
+[33mcommit 8dd1941d4704ea08e92d0201d6401699be56de79[m
+Author: anulalat <ndra.bodoh@gmail.com>
+Date:   Thu May 13 23:08:42 2021 +0800
+
+    changelogs: joyeuse 130521
+
+[33mcommit 6c3a150085db16c1fc9a4da9cf2737d3aacebb5e[m
+Merge: 595db94 918382c
+Author: Alif Fathur <me@herobuxx.xyz>
+Date:   Thu May 13 21:16:52 2021 +0700
+
+    Merge pull request #2 from sackclothxashes/patch-1
+    
+    changelog: Add violet
+
+[33mcommit 918382c0f3953b305be8758d265d45e9cb211987[m
+Author: sackclothxashes <george140201@gmail.com>
+Date:   Thu May 13 19:43:59 2021 +0530
+
+    Create violet.md
+
+[33mcommit 595db941ff5fda5889c2ba6f5f8f7e5e16988c59[m
+Author: HeroBuxx <herobuxx@conqueros.co>
+Date:   Wed May 12 14:10:33 2021 +0000
+
+    devices: Add Joyeuse
+    
+    Signed-off-by: HeroBuxx <herobuxx@conqueros.co>
+
+[33mcommit 194006f4eaa46aac609ffec16e734a2ceb3186d3[m
+Author: Alif Fathur <me@herobuxx.xyz>
+Date:   Mon May 10 23:56:56 2021 +0700
+
+    devices: Add violet XDA Thread
+
+[33mcommit cf7bc5c2c6cb0c02675419d1d4a86370a1f747ba[m
+Author: Alif Fathur <me@herobuxx.xyz>
+Date:   Mon May 10 22:37:07 2021 +0700
+
+    devices: Add XDA Thread for tulip
+
+[33mcommit 8c5c81f50cfd492c5e63a9ef091101f3dd53ef4d[m
+Author: Alif Fathur <me@herobuxx.xyz>
+Date:   Sun May 9 23:55:22 2021 +0700
+
+    devices: Add violet co-maintainer
+
+[33mcommit 54920ebe5051dc269faff7fd5fbf94110e88cb18[m
+Author: Alif Fathur <me@herobuxx.xyz>
+Date:   Sun May 9 13:05:13 2021 +0700
+
+    changelogs: Add santoni 9 May
+
+[33mcommit e5610ff6905e42865778dc1137f66548e2448a62[m
+Author: HeroBuxx <herobuxx@conqueros.co>
+Date:   Sat May 8 17:38:59 2021 +0000
+
+    devices: Add violet
+    
+    Signed-off-by: HeroBuxx <herobuxx@conqueros.co>
+
+[33mcommit fb97637bf2f75032467d7253ff7a1f0fd9922046[m
+Author: HeroBuxx <herobuxx@conqueros.co>
+Date:   Sat May 8 17:35:32 2021 +0000
+
+    devices: Add santoni
+    
+    Signed-off-by: HeroBuxx <herobuxx@conqueros.co>
+
+[33mcommit be5b6893cea47cb0f92d767d80f573dce33f40a1[m
+Author: HeroBuxx <me@herobuxx.xyz>
+Date:   Mon May 3 11:50:50 2021 +0700
+
+    Download: May 03m 2021 Update Tulip and Whyred
+    
+    Signed-off-by: HeroBuxx <me@herobuxx.xyz>
+
+[33mcommit 66416316efdef2774fb88d39340309f3dae35f03[m
+Author: Alif Fathur <me@herobuxx.xyz>
+Date:   Sat May 1 22:43:06 2021 +0700
+
+    Fix codename
+
+[33mcommit b4b7b09e635ff48e01f661a82396525fba958270[m
+Author: HeroBuxx <me@herobuxx.xyz>
+Date:   Sat May 1 15:37:47 2021 +0000
+
+    changelogs: Update changelogs
+    
+    Signed-off-by: HeroBuxx <me@herobuxx.xyz>
+
+[33mcommit 9354a5689a91970f986990d2a7fd3d0d8ae86b41[m
+Author: HeroBuxx <me@herobuxx.xyz>
+Date:   Sat May 1 15:24:21 2021 +0000
+
+    devices: Add Xioami Mi 8 Lite
+    
+    Signed-off-by: HeroBuxx <me@herobuxx.xyz>
+
+[33mcommit 710379a412049bbf2532878ad994fcbe25a58c62[m
+Author: Pulkit Agarwal <55397005+Pulkit077@users.noreply.github.com>
+Date:   Sat May 1 13:23:18 2021 +0530
+
+    rosy: update 20210501
+
+[33mcommit 51716e0a72d314be7a82092ad4dc272a4a6f4295[m
+Author: HeroBuxx <me@herobuxx.xyz>
+Date:   Fri Apr 30 18:02:32 2021 +0000
+
+    devices: 4.2
+    
+    Signed-off-by: HeroBuxx <me@herobuxx.xyz>
+
+[33mcommit 8b2bbc249c64a83b23c14cf7c6aa26f14ccf1c12[m
+Author: HeroBuxx <me@herobuxx.xyz>
+Date:   Sun Mar 21 19:38:36 2021 +0700
+
+    css: Apply Conquer Theme Color
+    
+    Signed-off-by: HeroBuxx <me@herobuxx.xyz>
+
+[33mcommit bc0158100e622cc7a44248d65531f6b2e2f05ddc[m
+Author: Pulkit077 <pulkitagarwal2k1@gmail.com>
+Date:   Sun Mar 21 10:55:24 2021 +0530
+
+    rosy: 20 March 2021 update
+    
+    Signed-off-by: Pulkit077 <pulkitagarwal2k1@gmail.com>
+
+[33mcommit ff0c37b9a7db292def5fa67e024ebe8a1329ff51[m
+Author: Alif Fathur <me@herobuxx.xyz>
+Date:   Fri Mar 19 15:19:05 2021 +0700
+
+    whyred: 19 March Update
+
+[33mcommit 1aa5bdd63f134dfc188b06c0bf1630d7813ad0a5[m
+Author: Alif Fathur <me@herobuxx.xyz>
+Date:   Fri Mar 19 15:18:41 2021 +0700
+
+    tulip: 19 March Update
+
+[33mcommit 94001188d3e428a6b30bac9e95d7dc771728ba12[m
+Author: HeroBuxx <herobuxx@conqueros.co>
+Date:   Thu Mar 18 16:54:32 2021 +0700
+
+    changelogs: Fix date
+    
+    Signed-off-by: HeroBuxx <herobuxx@conqueros.co>
+
+[33mcommit 81ae60a51729c1e4d91e84236035ab501d863222[m
+Merge: 858f366 fb0c452
+Author: Alif Fathur <me@herobuxx.xyz>
+Date:   Wed Mar 17 18:49:27 2021 +0700
+
+    Merge pull request #1 from InVictusXV/patch-1
+    
+    Device: Update maintainer for Lavender
+
+[33mcommit fb0c452e90694862b3018359cd73e3ac970ec324[m
+Author: InVictusXV <47210177+InVictusXV@users.noreply.github.com>
+Date:   Wed Mar 17 18:48:23 2021 +0700
+
+    updated maintainer
+
+[33mcommit 858f366e7ccca7a427cc2e5d18c2d533674f131f[m
+Author: HeroBuxx <me@herobuxx.xyz>
+Date:   Fri Mar 12 15:45:43 2021 +0700
+
+    device: Add Redmi Note 7/7S
+    
+    Signed-off-by: HeroBuxx <me@herobuxx.xyz>
+
+[33mcommit 11b5ce2d81c0369a7f703a603e579411f69742a6[m
+Author: HeroBuxx <me@herobuxx.xyz>
+Date:   Fri Mar 12 15:42:08 2021 +0700
+
+    device: Add Redmi 5
+    
+    Signed-off-by: HeroBuxx <me@herobuxx.xyz>
+
+[33mcommit 853a02a17b658ea3e3ce8c22da9481fe80be609d[m
+Author: HeroBuxx <me@herobuxx.xyz>
+Date:   Fri Mar 12 15:37:11 2021 +0700
+
+    download: Update devices
+    
+    Signed-off-by: HeroBuxx <me@herobuxx.xyz>
+
+[33mcommit 396c27902f2d41c29c45a341d96b5c63f4ac8ef7[m
+Author: Alif Fathur <me@herobuxx.xyz>
+Date:   Fri Mar 5 17:01:33 2021 +0700
+
+    Fix wrong title
+
+[33mcommit 438a45ca1784854dfecb5b2996a4aa249f94cf24[m
+Author: Alif Fathur <herobuxx@gmail.com>
+Date:   Fri Mar 5 17:00:12 2021 +0700
+
+    Create CNAME
+
+[33mcommit 8a1d19634faabe9ca181114006b3f19bc720e986[m
+Author: HeroBuxx <herobuxx@conqueros.co>
+Date:   Fri Mar 5 16:58:52 2021 +0700
+
+    Rebrand for ConquerOS
+    
+    Signed-off-by: HeroBuxx <herobuxx@conqueros.co>
+
+[33mcommit 93aea418b54d46c09b21d1cfdadcc7b8263b78a3[m
+Author: Bibhuti Bhushan Mohapatra <40866224+TH3GUNN3R@users.noreply.github.com>
+Date:   Sun Sep 13 07:57:22 2020 +0530
+
+    Update Realme X2 (#126)
+
+[33mcommit c78012b2a3f7b4f74d849dc7aa8029dcc0286696[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Sun Sep 6 22:27:45 2020 -0500
+
+    guacamole: 09/06/2020 update
+
+[33mcommit c3f9d9f82b70cd60564ca85997526711776679d3[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Sat Sep 5 07:50:55 2020 -0500
+
+    guacamole: initial build
+
+[33mcommit 8cbf4717eb4b2742c06dff538a6f591e420cda59[m
+Author: Sven <tribual@web.de>
+Date:   Wed Sep 2 11:45:53 2020 +0200
+
+    cepheus: add XDA Thread
+
+[33mcommit 03369096e18171b10291b379942b0bea90c4d9e4[m
+Author: Sven <tribual@web.de>
+Date:   Tue Sep 1 20:58:20 2020 +0200
+
+    cepheus: update
+
+[33mcommit 479f776e8cd3290bba9c52501f28a3f2cfb62447[m
+Author: Sven <tribual@web.de>
+Date:   Tue Sep 1 20:58:00 2020 +0200
+
+    cepheus: update changelog
+
+[33mcommit 1448d81e0761909cd32f3e87eb4a9293c7362e11[m
+Author: El Dainosor <eldainosor@gmail.com>
+Date:   Mon Aug 31 16:18:03 2020 -0400
+
+    devices: roll a lavender update
+
+[33mcommit 3a6f2a7d2a90c8bdccdffe5cc590d2f99dfb42ce[m
+Author: AyanC1 <choudhury.ayan13@gmail.com>
+Date:   Mon Aug 31 20:41:21 2020 +0530
+
+    enchilada: Push update
+
+[33mcommit f960b1520d8fb984af90a062b4a6ad89bcb3ead3[m
+Author: GeopJr <geopjr@geopjr.xyz>
+Date:   Wed Jul 29 14:38:04 2020 +0300
+
+    Drop davinci (#125)
+    
+    * Delete davinci.md
+    
+    * Delete davinci.md
+
+[33mcommit 84badff57b6164680f7b8c6a1fb4f029e1d349c7[m
+Author: IKGapirov <IKGapirov@gmail.com>
+Date:   Sun Jul 19 12:12:19 2020 +0200
+
+    devices: update klte family
+
+[33mcommit ec1a050524c5f5f3b4a5a807c174c5bd92a4ea0c[m
+Author: Ayan Choudhury <ayan@pop-os.localdomain>
+Date:   Wed Jul 15 11:59:03 2020 +0530
+
+    enchilada: Update it for july
+
+[33mcommit 8e712bcf84814d45397ea3e987dc41f869e9321a[m
+Author: Bibhuti Bhushan Mohapatra <40866224+TH3GUNN3R@users.noreply.github.com>
+Date:   Mon Jul 13 20:11:57 2020 +0530
+
+    Add x2 (#124)
+
+[33mcommit 2fa75f0c9690e94297441d0172d6b121572df065[m
+Author: El Dainosor <eldainosor@gmail.com>
+Date:   Mon Jun 15 02:11:14 2020 -0300
+
+    devices: update lavender
+
+[33mcommit 647b6454ef3ec34e52b7b6e9275c265f5b355c5b[m
+Author: dinosnore1 <dino.yash0213@gmail.com>
+Date:   Sun Jun 14 20:35:21 2020 +0530
+
+    Update bery
+    
+    Signed-off-by: dinosnore1 <dino.yash0213@gmail.com>
+
+[33mcommit 5b4ed597a4e1d528f942f448176adcf5a3febdb8[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Sat Jun 13 17:41:01 2020 +0200
+
+    Say good bye to J5.
+    No work with racists and/or groups that tolerate racism.
+    Black lives matter
+
+[33mcommit 063c32ea15af99dcbd1c6c90a5eddcadeeee6d2c[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Fri Jun 12 14:20:41 2020 +0530
+
+    Update enchilada
+
+[33mcommit e8c67cd8cce053a194ee2bef1162a0db286670d7[m
+Author: sarvesh kardekar <sarveshkardekar@gmail.com>
+Date:   Tue Jun 9 15:37:34 2020 +0530
+
+    Update phoenix! (#123)
+
+[33mcommit 0ff5211a61cb2ed65ec13bdfc1b68fad7e671b91[m
+Author: tribual <tribual@web.de>
+Date:   Mon Jun 8 22:10:53 2020 +0200
+
+    cepheus: update 08.06.2020
+
+[33mcommit 2b3119f6a7e671a48278f03a3196c25e2ba52399[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Mon Jun 8 00:06:38 2020 +0200
+
+    Update J5 devices (June sec-patch and more)
+
+[33mcommit ee09382ab752fc5812e8d28f6ec501cbc919bc2a[m
+Author: sarvesh kardekar <sarveshkardekar@gmail.com>
+Date:   Sat Jun 6 09:55:30 2020 +0530
+
+    Update phoenix (#122)
+
+[33mcommit 40d54429c2a28b3ba65e7a20039c1dff1d95fce1[m
+Author: toymakerftw <katbrigade@gmail.com>
+Date:   Sun May 31 07:52:54 2020 +0000
+
+    X00T: Its Aliveeeee !
+
+[33mcommit 78c09a0b5222f2cdf0b9ff51c56503a235b3fcca[m
+Author: Sven <tribual@web.de>
+Date:   Fri May 29 14:29:04 2020 +0200
+
+    fix derp
+
+[33mcommit 35587533d3b4260c68f3ebed61ac049eb5f728c4[m
+Author: tribual <tribual@web.de>
+Date:   Fri May 29 13:40:17 2020 +0200
+
+    cepheus: update 29.05.2020 -- lets go enforcing
+
+[33mcommit a367d9cbce8d26b82a7d3e243ca861095fcac30a[m
+Author: Madhav Saladi <33689904+bablusss@users.noreply.github.com>
+Date:   Thu May 28 08:59:59 2020 +0530
+
+    RMX1971: May update (#120)
+    
+    Signed-off-by: bablusss <baaswanthmadhav@gmail.com>
+
+[33mcommit a83f417cd5a1fead7501aa816160fed00a650897[m
+Author: GeopJr <geopjr@geopjr.xyz>
+Date:   Wed May 27 23:37:23 2020 +0300
+
+    Update davinci (#119)
+
+[33mcommit fa1086f661930fe0101a3fc6098d0db2ae6c15e8[m
+Author: sarveshrulz <sarveshkardekar@gmail.com>
+Date:   Sun May 24 15:44:30 2020 +0530
+
+    Updatephoenix
+
+[33mcommit d8ec16b7e54ae98d8a91e5c95afce6b1ea720e06[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Thu May 21 23:23:07 2020 +0200
+
+    Update for J5 devices.
+    
+    Signed-off-by: Jens Lody <jens@jenslody.de>
+
+[33mcommit fc757c365df551941dca9a90901cd344948daf12[m
+Author: El Dainosor <eldainosor@gmail.com>
+Date:   Tue May 19 02:00:05 2020 +0200
+
+    devices: Add lavender update
+    
+    For the new sp and stuff
+
+[33mcommit 0fbc401aa9233ff4cc51e20db5ab92d0ba00c202[m
+Author: Melvin <kartik3163@gmail.com>
+Date:   Tue May 19 00:05:30 2020 +0530
+
+    Drop Sanders
+    
+    Signed-off-by: Melvin <kartik3163@gmail.com>
+
+[33mcommit db36a4146edb24fa31642245979349b7b8a9e2f0[m
+Author: sarveshrulz <sarveshkardekar@gmail.com>
+Date:   Mon May 18 12:44:56 2020 +0530
+
+    Update phoenix
+
+[33mcommit 2d48f2c311546b7e8c096a5a50ef491a5d60b764[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Mon May 11 15:05:54 2020 -0500
+
+    blueline: May update
+    The ATF posed in front of the ruins of the Branch Davidian compound in Waco as if killing those people was something to be proud of. https://tmblr.co/ZsDTwt1gwWU-x
+
+[33mcommit 054ce848892f3606f866f628c5553f1af00ad879[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Mon May 11 09:29:23 2020 -0500
+
+    crosshatch: May update
+    JB Pritzker and Lori Lightfoot, LET MY PEOPLE GO!
+
+[33mcommit ac5e837e5091e2ee8ae9af34bec3de27cf8467e3[m
+Author: tribual <tribual@web.de>
+Date:   Sun May 10 20:38:10 2020 +0200
+
+    cepheus: update
+
+[33mcommit a2d09df58c05fd3537dff4618cc1516a96eb6ca9[m
+Author: Ikrom Gapirov <IKGapirov@gmail.com>
+Date:   Sun May 10 19:05:23 2020 +0500
+
+    Update for Galaxy S5
+
+[33mcommit d69c1134314a0e13fcdc6ea3d1d5e2ed38aacde4[m
+Author: Ikrom Gapirov <IKGapirov@gmail.com>
+Date:   Sun May 10 19:04:54 2020 +0500
+
+    Update for Galaxy S5
+
+[33mcommit 0dc15f72034657cbf4bdc745f1652e7af698b268[m
+Author: Ikrom Gapirov <IKGapirov@gmail.com>
+Date:   Sun May 10 19:04:29 2020 +0500
+
+    Update for Galaxy S5
+
+[33mcommit ad20703fa87a4c137a0370560e465ca8c466dbb2[m
+Author: Ikrom Gapirov <IKGapirov@gmail.com>
+Date:   Sun May 10 19:03:58 2020 +0500
+
+    Update for Galaxy S5
+
+[33mcommit 1745c092f2a76b13732fc46ba971963b5243c391[m
+Author: Ikrom Gapirov <IKGapirov@gmail.com>
+Date:   Sun May 10 19:01:20 2020 +0500
+
+    Update for Galaxy S5
+
+[33mcommit a1ab19272be46a625c5250c9d7338e9c6e913e13[m
+Author: Ikrom Gapirov <IKGapirov@gmail.com>
+Date:   Sun May 10 19:00:44 2020 +0500
+
+    Update for Galaxy S5
+
+[33mcommit e673ebf261e7f79ab7ef0ed90734db725e066920[m
+Author: Ikrom Gapirov <IKGapirov@gmail.com>
+Date:   Sun May 10 19:00:07 2020 +0500
+
+    Update for Galaxy S5
+
+[33mcommit a3ac0470ac29d5cd91dcd3d446bb118c3d7b4fcc[m
+Author: Ikrom Gapirov <IKGapirov@gmail.com>
+Date:   Sun May 10 18:59:28 2020 +0500
+
+    Update for Galaxy S5
+
+[33mcommit cbf58aaf1711bf6607bd2eacd97a0a6c7f50e0ca[m
+Author: deepak <deepakjeganathan@gmail.com>
+Date:   Sat May 9 23:42:32 2020 +0100
+
+    Update for OnePlus 3/3T
+
+[33mcommit 1bd09864044c6d99ee52e4c7082fa514b15bde5e[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Sat May 9 18:08:40 2020 +0530
+
+    Update enchilada.md
+
+[33mcommit c4507d6bd53e8b74425dc11e144ea71036ccc1a4[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Sat May 9 18:03:37 2020 +0530
+
+    Update enchilada.md
+
+[33mcommit fa4e01f8d2e67ca0988cd7dfbc78716c5ff3e0de[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Fri May 8 20:54:55 2020 +0200
+
+    Update J5 devices (may sec-patch and more)
+
+[33mcommit 4dd85c694e042afa8287c9e4cd07ef1880dddfb4[m
+Author: sarveshrulz <sarveshkardekar@gmail.com>
+Date:   Fri May 8 21:59:27 2020 +0530
+
+    Update phoenix
+
+[33mcommit 60b3f2d07fd5e5fe0d4981bc1e9b496f43eba4d9[m
+Author: PixelBoot <bootingpixels@gmail.com>
+Date:   Thu May 7 15:59:40 2020 +0200
+
+    angler: may update
+
+[33mcommit ee88a3f81b828685a6910b7eebeba9abe3effe46[m
+Author: sarvesh kardekar <sarveshkardekar@gmail.com>
+Date:   Mon May 4 19:23:52 2020 +0530
+
+    Add phoenix (#112)
+
+[33mcommit 3740c0ef415509bfb33e081231c7b34a1d3c1bed[m
+Author: dinosnore1 <dino.yash0213@gmail.com>
+Date:   Sun May 3 23:54:30 2020 +0530
+
+    beryllium: Quickfix update
+
+[33mcommit 48a8453bf3dda5144cecd89ad260f82f2886a3db[m
+Author: Deepak Jr <46277303+aquariusjr10@users.noreply.github.com>
+Date:   Sat May 2 12:58:03 2020 +0100
+
+    Include OnePlus 3/3T (#109)
+
+[33mcommit 1100d5fd953aaf4827d6d0d3fce8a7ca726c7385[m
+Author: GeopJr <geopjr@geopjr.xyz>
+Date:   Thu Apr 30 18:42:04 2020 +0300
+
+    Add davinci
+
+[33mcommit 24acf9d4dae0ce6067a454a9fc68c34b98163cf8[m
+Author: tribual <tribual@web.de>
+Date:   Wed Apr 29 14:04:33 2020 +0200
+
+    cepheus: update 29.04.2020
+
+[33mcommit d695628a1849792a9750e05bcc43d8c821da259c[m
+Author: Ikrom Gapirov <IKGapirov@gmail.com>
+Date:   Wed Apr 29 15:41:23 2020 +0500
+
+    Add Changelog for Galaxy S5.
+    
+    (klte, klteduos, kltedv, kltekor)
+
+[33mcommit b74dbd8f6a1b1b3e8c64283506a30661ffed06dc[m
+Author: Ikrom Gapirov <IKGapirov@gmail.com>
+Date:   Wed Apr 29 15:40:16 2020 +0500
+
+    Add Device Galaxy S5.
+    
+    (klte, klteduos, kltedv, kltekor)
+
+[33mcommit 53a902360ab7260279d6fa562851ad16aedeb134[m
+Author: simrat39 <simrats169169@gmail.com>
+Date:   Tue Apr 28 16:33:21 2020 -0700
+
+    whyred: 5.1 24/08/2020 update
+
+[33mcommit fdd723e8db9398308a740fddcbf3ec4fd39fc717[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Wed Apr 29 01:21:07 2020 +0530
+
+    Update enchilada.md
+
+[33mcommit 2d8056a2c04658443e40987ec9be8b77d5d76844[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Wed Apr 29 01:20:58 2020 +0530
+
+    Update enchilada.md
+
+[33mcommit 115eea4fcaecf9d070e8654f8f7df33c3d47e5ba[m
+Author: Melvin <kartik3163@gmail.com>
+Date:   Tue Apr 28 21:52:49 2020 +0530
+
+    sanders: Much Awaited 5.1 Update
+    
+    Stay Home, Stay Safe, Stay Shishufied.
+    
+    Signed-off-by: Melvin <kartik3163@gmail.com>
+
+[33mcommit 54d747f09dc843a6b9ba83c0e4b2965d0c9dad8c[m
+Author: Ragy <51971171+ragy365@users.noreply.github.com>
+Date:   Mon Apr 27 22:58:22 2020 +0200
+
+    onclite: New Shishufied Device (#106)
+
+[33mcommit 653f9ff76db261e44a000e2943d952c8fc503ed2[m
+Author: Madhav Saladi <33689904+bablusss@users.noreply.github.com>
+Date:   Mon Apr 27 17:34:13 2020 +0530
+
+    RMX1971 update (#105)
+    
+    Signed-off-by: bablusss <baaswanthmadhav@gmail.com>
+
+[33mcommit 13785f856297ba6118da0e65358a1816fb4abd11[m
+Author: 4PERTURE <38117317+4PERTURE@users.noreply.github.com>
+Date:   Mon Apr 27 04:38:56 2020 +0100
+
+    Vince updoot (#104)
+    
+    * Update for vince
+    
+    * Changelog for vince: 04/27/20
+
+[33mcommit 4f9881c82402af2444c97a0a8524efee6c158bcd[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Sun Apr 26 19:24:01 2020 +0200
+
+    Update for J5 devices, with fixed offline charging
+
+[33mcommit 1af8e5e288cf1ea37f056dc760cc306bed8b5c95[m
+Author: Madhav Saladi <33689904+bablusss@users.noreply.github.com>
+Date:   Sat Apr 25 22:48:05 2020 +0530
+
+    add RMX1971 (#103)
+    
+    Signed-off-by: bablusss <baaswanthmadhav@gmail.com>
+
+[33mcommit 1c01185fa892d9bf18eb9e6ce8dbaff16b294487[m
+Author: dinosnore1 <dino.yash0213@gmail.com>
+Date:   Sat Apr 25 22:44:51 2020 +0530
+
+    beryllium: Finally an update
+    
+    Signed-off-by: dinosnore1 <dino.yash0213@gmail.com>
+
+[33mcommit a79a05f837ad2b29b3b6564f06b6a818555083b7[m
+Author: PixelBoot <bootingpixels@gmail.com>
+Date:   Sat Apr 25 15:53:41 2020 +0200
+
+    angler: 5.1 update
+
+[33mcommit bfe863b831c5b191dd7ea47d68f00151885b9771[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Fri Apr 24 17:45:53 2020 +0200
+
+    New upload for J5 devices, fixes FM-Radio.
+
+[33mcommit 8bcc7d93f73effaa237a5c8d798a5fe35aa99862[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Fri Apr 24 06:28:33 2020 -0500
+
+    blueline: 4/20 update
+    Stay home if you sick, come over if you thick #COVID-19
+
+[33mcommit fc57ba9285d6e4f843505df6b6035ffe28b95ffc[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Fri Apr 24 12:18:13 2020 +0530
+
+    Update enchilada.md
+
+[33mcommit ec7e1cd5b185adc87fd429754c38ac8ea5045c89[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Fri Apr 24 11:59:56 2020 +0530
+
+    Update enchilada.md
+
+[33mcommit 98d87c737524d0520cd6dce103f2a67bc836e625[m
+Author: tribual <tribual@web.de>
+Date:   Thu Apr 23 21:11:26 2020 +0200
+
+    update cepheus
+
+[33mcommit 2aa34e84bd7586a7cd71d05806003ebbb9ba410a[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Thu Apr 23 13:40:52 2020 -0500
+
+    crosshatch: 4/20 update
+    Stay high and please don't forget to kill your local pedo.
+
+[33mcommit 34170cce61f1674be5be504d80532e0921a46d88[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Thu Apr 23 12:16:10 2020 -0300
+
+    lavender: add Changelog
+
+[33mcommit 65c34ecdbd074efb2c8150003f7f17405f21a0cf[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Thu Apr 23 12:14:44 2020 -0300
+
+    devices: Update Lavender
+
+[33mcommit 575bd9f4d332ec085063d8854b8aa284eb3dc48b[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Thu Apr 23 13:53:24 2020 +0200
+
+    Update for J5 2015 devices.
+    Small fix in J5 2016 changelog.
+    
+    Signed-off-by: Jens Lody <jens@jenslody.de>
+
+[33mcommit cca0aa23fe232a88234c6afe8c4113ad84dc817f[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Thu Apr 23 12:17:15 2020 +0200
+
+    Update for J5 2016
+    
+    Signed-off-by: Jens Lody <jens@jenslody.de>
+
+[33mcommit 218f9bbdbb017842552e721a6cbbfaf1b7a2e79d[m
+Author: simrat39 <simrats169169@gmail.com>
+Date:   Wed Mar 11 02:52:42 2020 +0530
+
+    whyred: Update 5.0-1 (10 march 2020)
+    
+    Signed-off-by: simrat39 <simrats169169@gmail.com>
+
+[33mcommit e943601a8a9685f03eb544a721d53ae175b494ff[m
+Author: dinosnore1 <dino.yash0213@gmail.com>
+Date:   Mon Mar 9 00:24:12 2020 +0530
+
+    drop mido
+    
+    as the guy was complete idiot
+    
+    Signed-off-by: dinosnore1 <dino.yash0213@gmail.com>
+
+[33mcommit 558edd53a8cb316eccd992f300f6165b4bd79e80[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Fri Feb 28 00:01:48 2020 +0100
+
+    Hotfix update for J5 (2015 and 2016) devices
+    sim-card was not found on clean install
+
+[33mcommit 5619cf2b6955e751586e423392cdc4d621383a32[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Thu Feb 27 07:41:01 2020 +0100
+
+    Update J5 devices (2015 and 2016)
+    Mobile data fixed.
+
+[33mcommit 46bcf6e164e7278a3cb58d68201ce231c426ee08[m
+Author: tribual <tribual@web.de>
+Date:   Tue Feb 25 08:24:35 2020 +0100
+
+    cepheus: update 25.02.2020
+
+[33mcommit 838e103c988ac76ac82827daea357383f59168e0[m
+Author: tribual <tribual@web.de>
+Date:   Tue Feb 25 08:24:09 2020 +0100
+
+    cepheus: changelog 25.02.2020
+
+[33mcommit 486fbbeef3f9175c6c0c7c3bf789bf8775c46228[m
+Author: Aarish Khan <48199170+aarish124@users.noreply.github.com>
+Date:   Sat Feb 22 01:34:42 2020 +0530
+
+    onclite:kthxbye (#100)
+
+[33mcommit 61aaaa3540735c6d11943ce232b05d4275302d9a[m
+Author: merothh <merothh@gmail.com>
+Date:   Fri Feb 21 14:15:02 2020 +0530
+
+    violet: goodbye
+    
+    * i barely get time. so long!
+
+[33mcommit 50283b5ad2c2db9b4bcd32b09033d8a099ce64ff[m
+Author: Vishal Cj <51225214+Vishalcj17@users.noreply.github.com>
+Date:   Fri Feb 21 09:26:48 2020 +0530
+
+    rosy: Go official! (#98)
+    
+    Signed-off-by: Vishalcj17 <Vishalcj17@gmail.com>
+
+[33mcommit 14b8a0258b7d7ac5404bc9ca0c9d5f974cb7b9bc[m
+Author: Shashank Patil <9945shashank@gmail.com>
+Date:   Sun Feb 16 22:46:45 2020 +0530
+
+    Update mido.md
+
+[33mcommit a87163ea67b1938d7f1801ab9e402b498579a414[m
+Author: Shashank Patil <9945shashank@gmail.com>
+Date:   Sun Feb 16 20:38:31 2020 +0530
+
+    Create mido.md
+    
+    Update mido.md
+
+[33mcommit 7972956c5987103fe1bc4df941357828d54921b3[m
+Merge: 1e3689e dc41509
+Author: jenslody <jens@jenslody.de>
+Date:   Sun Feb 16 11:59:21 2020 +0000
+
+    Merge pull request #93 from aarish124/master
+    
+    Onclite official support
+
+[33mcommit dc41509547a8861600262ae576d80e40b0734c77[m
+Author: aarish124 <aarishkhanak123@gmail.com>
+Date:   Sun Feb 16 06:51:40 2020 -0500
+
+    Onclite official
+
+[33mcommit 16695335385f7b29c9c292309434adbabfb17a6e[m
+Author: aarish124 <aarishkhanak123@gmail.com>
+Date:   Sun Feb 16 06:49:19 2020 -0500
+
+    Onclite official
+
+[33mcommit 1e3689ee513992ddc88a5fc0f15ea160cd82cb50[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Sun Feb 16 00:30:35 2020 +0100
+
+    Update J5 devices(February sec-patch)
+
+[33mcommit e31cc4ea0ec243e1b1f3f8b09b419a37dff46d0a[m
+Author: dinosnore1 <dino.yash0213@gmail.com>
+Date:   Sat Feb 15 23:08:23 2020 +0530
+
+    Trash old devices
+
+[33mcommit fffa152adf6af1d6f96f6c8cd69e4ac7b21cac24[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Sat Feb 15 22:12:18 2020 +0530
+
+    Update enchilada.md
+
+[33mcommit 4a2fa0436d23f43336b77b71ca7f3112b87edabc[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Sat Feb 15 22:12:07 2020 +0530
+
+    Update enchilada.md
+
+[33mcommit 4755a1dc9de25a4c1ace1eacdb8afdd5a3b76ee2[m
+Author: 4PERTURE <38117317+4PERTURE@users.noreply.github.com>
+Date:   Sat Feb 15 13:32:08 2020 +0000
+
+    Vince: Initial Kwerk build (#89)
+
+[33mcommit f798c9d4ec8c3b1ecfbc00109451fc761d74da87[m
+Author: Melvin <iammelvin@pm.me>
+Date:   Sat Feb 15 19:00:21 2020 +0530
+
+    sanders: Hotfix Update and Add XDA Thread (#90)
+    
+    Signed-off-by: Melvin <iammelvin@pm.me>
+
+[33mcommit ab1ef6428cd773b5dd87f6b8f958e1a0ef39e393[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Fri Feb 14 20:30:58 2020 +0100
+
+    Comeback of J5 (2015 and 2016) devices, now with Queso.
+
+[33mcommit cf320eaf74e89249b965f16afbdf8cb9066b8d66[m
+Author: Melvin <iammelvin@pm.me>
+Date:   Fri Feb 14 09:10:18 2020 +0530
+
+    sanders: Update [February] (#88)
+
+[33mcommit 3982207140084c76b96a3ee0a86244dabc1c7af7[m
+Author: dinosnore1 <dino.yash0213@gmail.com>
+Date:   Sun Feb 2 20:41:11 2020 +0530
+
+    beryllium: updoot
+    
+    Signed-off-by: dinosnore1 <dino.yash0213@gmail.com>
+
+[33mcommit e1e0f46eaecbcbcfcc0dec91343b42ddfd4e861d[m
+Author: dinosnore1 <dino.yash0213@gmail.com>
+Date:   Sun Jan 26 21:18:55 2020 +0530
+
+    beryllium: Push 5.0
+    
+    lets break volte
+
+[33mcommit 595dc1b234c4d12ff348cb8ded482c56b04240f9[m
+Author: Melvin <kartik3163@gmail.com>
+Date:   Sat Jan 25 20:56:12 2020 +0530
+
+    sanders: Initial Queso 5.0 (kwerk) Build (#87)
+    
+    Signed-off-by: Melvin <kartik3163@gmail.com>
+
+[33mcommit 4e445744f7dcde96d82f74d1801c27a44f5bd167[m
+Author: merothh <merothh@gmail.com>
+Date:   Sat Jan 25 17:11:53 2020 +0530
+
+    violet: Push 5.0-1
+
+[33mcommit d10aaf3be2312ce923b9a13e782f517f0746c205[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Fri Jan 24 07:18:28 2020 -0600
+
+    blueline: initial queso build
+
+[33mcommit bf306cb87f57acaa9edd0b3b2a2abf73c6892128[m
+Author: El Dainosor <eldainosor@gmail.com>
+Date:   Fri Jan 24 13:10:12 2020 +0100
+
+    devices: taking out the lavanda china out of it's pain >:]
+
+[33mcommit 13dc8a7ac3b22a067293ed71944a9734a7c45dba[m
+Author: Sven <tribual@web.de>
+Date:   Fri Jan 24 09:42:35 2020 +0100
+
+    cepheus: update 24.01.2019 5.0 initial build
+
+[33mcommit 34fe42e578380db1c2b9800b21577ceed58e5977[m
+Author: Sven <tribual@web.de>
+Date:   Fri Jan 24 09:38:45 2020 +0100
+
+    cepheus: update 24.01.2019 5.0 initial build
+
+[33mcommit a77e858295a9490fc4fc58d3d6a50c0a0b8ed65b[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Thu Jan 23 10:34:32 2020 -0600
+
+    crosshatch: first build since Epstein was murdered
+
+[33mcommit 2f59bd3040dfa839978baedc8ece3c9da3ac7cc6[m
+Author: simrat39 <simrats169169@gmail.com>
+Date:   Thu Jan 23 20:09:30 2020 +0530
+
+    whyred: Updoot
+    
+    F
+    
+    Signed-off-by: simrat39 <simrats169169@gmail.com>
+
+[33mcommit c9aaba38f5283b715e3c0ebecc26e7a560155505[m
+Author: simrat39 <simrats169169@gmail.com>
+Date:   Thu Jan 23 12:41:59 2020 +0530
+
+    whyred: 23/01/2020 5.0 Update
+    
+    Signed-off-by: simrat39 <simrats169169@gmail.com>
+
+[33mcommit 611a09675b61cb7862d24d6170a2d20866fe7b95[m
+Author: Call190Now <call190now@outlook.com>
+Date:   Fri Jan 10 22:49:51 2020 -0300
+
+    mido: drop it.
+    
+    i didn't want to do it at all, but here we are
+
+[33mcommit 98a8b4ba765da04a58d7f26a099b8cc2e683d33b[m
+Author: Sven <tribual@web.de>
+Date:   Mon Dec 23 22:06:58 2019 +0100
+
+    cepheus: changelog 23.12.2019
+
+[33mcommit b130ef9bbeb293959848d509815a80192d31cd53[m
+Author: Sven <tribual@web.de>
+Date:   Mon Dec 23 22:06:50 2019 +0100
+
+    cepheus: update 23.12.2019
+
+[33mcommit e6b5f21f13a1b174034b3a6f21d10a74d728c1c2[m
+Author: Sven <tribual@web.de>
+Date:   Fri Dec 6 14:04:56 2019 +0100
+
+    Update cepheus.md
+
+[33mcommit cb61cff68e8b05ee4d6688d7f415aee32dcfece7[m
+Author: Sven <tribual@web.de>
+Date:   Fri Dec 6 14:04:47 2019 +0100
+
+    Update cepheus.md
+
+[33mcommit 7d41f73ef6bb7a9c10a4db665ec646c6d59a8c7d[m
+Author: Melvin <kartik3163@gmail.com>
+Date:   Sun Dec 1 20:39:05 2019 +0530
+
+    sanders: Updated Beta Build (#85)
+    
+    * sanders: Updated Beta Build
+    
+    * sanders: Updated Date for new Build
+
+[33mcommit cb91e1265f88f3efd62812c50c476933e5fcace2[m
+Author: adi153 <singhmanohar6699@gmail.com>
+Date:   Tue Nov 26 17:00:30 2019 +0000
+
+    rolex: initial Queso build
+
+[33mcommit 7873835caee4a6c8ac047b89544d3308a3f63fc9[m
+Author: dinosnore1 <dino.yash0213@gmail.com>
+Date:   Tue Nov 26 13:02:47 2019 +0530
+
+    beryllium: Update boobleg
+
+[33mcommit 459e627d953d0af44a9efd3a3e34f4917bdab186[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Mon Nov 25 12:06:09 2019 +0100
+
+    kuntao: initial Quntao beta build #2
+
+[33mcommit 80a1cfd401b8f8072ac40bf4076ce235b757d2e2[m
+Author: Sven <tribual@web.de>
+Date:   Fri Nov 22 14:03:34 2019 +0100
+
+    cepheus: update build 22/11/2019
+
+[33mcommit 26f590e0e03963bccc98a986c177eec3062dc6d6[m
+Author: Sven <tribual@web.de>
+Date:   Fri Nov 22 14:01:21 2019 +0100
+
+    cepheus: changelog 22/11/2019
+
+[33mcommit 74a91c3aa677ea9e3cc2656443e6ee495741c736[m
+Author: Sven <tribual@web.de>
+Date:   Fri Nov 22 07:43:13 2019 +0100
+
+    Create tissot.md
+
+[33mcommit bd1b29bdedfad7751eb31e6ccb671cb9f32784fb[m
+Author: Sven <tribual@web.de>
+Date:   Fri Nov 22 07:41:54 2019 +0100
+
+    Create tissot.md
+
+[33mcommit cb775888314f2ebd9e904681f9be3df2861ca5d7[m
+Author: Melvin <kartik3163@gmail.com>
+Date:   Wed Nov 20 23:56:15 2019 +0530
+
+    sanders: Update Beta Info for sanders
+    
+    Signed-off-by: melvinstark3 <kartik3163@gmail.com>
+
+[33mcommit 95fa8e32c9a8db577c65e85231d7ae94cbdf4b7d[m
+Author: Melvin <kartik3163@gmail.com>
+Date:   Wed Nov 20 23:52:50 2019 +0530
+
+    sanders: Update Beta
+    
+    Signed-off-by: melvinstark3 <kartik3163@gmail.com>
+
+[33mcommit 75c4b2fda2e37e1d1f20d1de9892672253d69d4b[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Wed Nov 20 16:26:19 2019 +0100
+
+    kuntao: initial Quntao beta build
+
+[33mcommit 4e35921583d47cafeb33f79035f33781b39902ef[m
+Author: dinosnore1 <dino.yash0213@gmail.com>
+Date:   Tue Nov 19 17:58:31 2019 +0530
+
+    beryllium: Update beta
+
+[33mcommit d0af6525a5247e8ac67e5134a9f00f8c8d451fcc[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Mon Nov 18 23:46:18 2019 -0300
+
+    lavender beta: don't scare stoopid peple
+
+[33mcommit a5a46c7a74f1595556b7003c8865f8c835b0c4be[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Mon Nov 18 23:42:12 2019 -0300
+
+    lavender: update changelog
+
+[33mcommit 7d8aeb4d94fd20e8dc8201dcf3a6b52b69702eb9[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Mon Nov 18 23:38:48 2019 -0300
+
+    Update lavender.md
+    
+    New update because of some changes
+
+[33mcommit 2d465ed1209bf5f99fcdcb42bd5a702729811f1b[m
+Author: Melvin <kartik3163@gmail.com>
+Date:   Sun Nov 17 17:16:39 2019 +0530
+
+    devices: Add sanders beta (#81)
+    
+    Signed-off-by: melvinstark3 <kartik3163@gmail.com>
+
+[33mcommit 51f4e9b2ade421f21a4a7a15e5adbb224eea2603[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Sat Nov 16 05:41:41 2019 -0500
+
+    Update Bonito and Sargo to Android 10
+
+[33mcommit a7444260801543851909d0e4a77f4362ace356a5[m
+Author: merothh <merothh@gmail.com>
+Date:   Sat Nov 16 01:09:51 2019 +0530
+
+    violet: Initial queso beta build
+
+[33mcommit 3ebfa4cf2d2b13dbe34fedaea351ba614e469a61[m
+Author: Sven <tribual@web.de>
+Date:   Thu Nov 14 10:05:00 2019 +0100
+
+    cepheus: changelog initial build
+
+[33mcommit 1f097a58937dfc0822dd58f6720e9a7d240e1068[m
+Author: Sven <tribual@web.de>
+Date:   Thu Nov 14 09:59:48 2019 +0100
+
+    cepheus: make it right
+
+[33mcommit c821d7a9eb729b8e30378f2e2294448fef40878e[m
+Author: Sven <tribual@web.de>
+Date:   Thu Nov 14 09:58:31 2019 +0100
+
+    Delete cepheus.mk
+
+[33mcommit caf8c4916759cb88f4ce17fce30488a523739722[m
+Author: Sven <tribual@web.de>
+Date:   Thu Nov 14 09:53:03 2019 +0100
+
+    cepheus: delete mirror link
+
+[33mcommit 6e9cb7617ae510608e7972ffa120a3ff43c3f600[m
+Author: Sven <tribual@web.de>
+Date:   Thu Nov 14 09:02:31 2019 +0100
+
+    cepheus: Initial Build for Q
+
+[33mcommit 75e2c685f3076e214e87731cd45709f76b56c29e[m
+Author: Simrat Singh <simrats169169@gmail.com>
+Date:   Thu Nov 14 13:11:16 2019 +0530
+
+    whyred: Initial Queso beta build
+    
+    Signed-off-by: Simrat Singh <simrats169169@gmail.com>
+
+[33mcommit 514736a3330a3a704420965572fcab39fef5045a[m
+Author: El Dainosor <eldainosor@gmail.com>
+Date:   Thu Nov 14 05:13:31 2019 +0000
+
+    devices: add beta lavender
+
+[33mcommit d80c44faa9a315dc2a3b1e9a93b0136dbc289c9e[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Wed Nov 13 23:55:11 2019 -0300
+
+    drop surnia
+    
+    hehehehe
+
+[33mcommit 42b8b46466ffc0710f913bc1ddd9834d2eb83da4[m
+Author: El Dainosor <eldainosor@gmail.com>
+Date:   Wed Nov 13 14:06:01 2019 -0300
+
+    devices: Add beta downloads, and also, fix changelogs on beta
+
+[33mcommit 27e58f6d200defa5a6cd50f18008cca4787c4bd0[m
+Author: El Dainosor <eldainosor@gmail.com>
+Date:   Wed Nov 13 13:57:42 2019 -0300
+
+    whoops
+
+[33mcommit 8973df8fec9fa45bb3c2cdbb6f88e83a1d6af3ed[m
+Author: ディーノ <dino.yash0213@gmail.com>
+Date:   Wed Nov 13 16:46:36 2019 +0530
+
+    beryllium: Push beta
+
+[33mcommit bd28f1beab83724bac20a6c0aed832c837517e0f[m
+Author: Sven <tribual@web.de>
+Date:   Thu Oct 17 12:01:17 2019 +0200
+
+    cepheus: update 17.10.2019
+
+[33mcommit bcc6a942080aefa6e8595b19d099a3f4475cca9f[m
+Author: Sven <tribual@web.de>
+Date:   Thu Oct 17 11:59:59 2019 +0200
+
+    cepheus: update 17.10.2019
+
+[33mcommit d36a17832d59131a2240b1d013f0205e310545cb[m
+Author: Sven <tribual@web.de>
+Date:   Mon Sep 30 07:30:58 2019 +0200
+
+    cepheus: update 27.09.2019
+
+[33mcommit 0f702fd74ed20768854bfd791b8c1849098fa06f[m
+Author: Sven <tribual@web.de>
+Date:   Mon Sep 30 07:29:08 2019 +0200
+
+    cepheus: update 27.09.2019
+    
+    switch to oos vendor
+
+[33mcommit 883645f082831b17e3250e9adb670126fecaa2b5[m
+Author: dinosnore1 <dino.yash0213@gmail.com>
+Date:   Fri Sep 27 01:42:24 2019 +0530
+
+    beryllium: Update ota
+    
+    How did i fucking forgot to push ota
+
+[33mcommit b8b1eafd296746465bd202e2bc3be05969093566[m
+Author: El Dainosor <eldainosor@gmail.com>
+Date:   Tue Sep 24 16:54:42 2019 -0300
+
+    devices: Add a experimental build support
+    
+    This is now a thing due to Q builds starting to roll out soon.
+    For teasing purposes, let's attach a screenshot of the first btlg Q build for now: https://i.imgur.com/kzubwar.png
+
+[33mcommit f2c729d9c10272e5870c5471ac2bd765d8083b1f[m
+Author: Sven <tribual@web.de>
+Date:   Mon Sep 23 15:30:08 2019 +0200
+
+    lets start cepheus
+
+[33mcommit 36f06cccc1b330670e56bf6ec40728e9b90b495d[m
+Author: Sven <tribual@web.de>
+Date:   Mon Sep 23 15:24:58 2019 +0200
+
+    bring up cepheus
+
+[33mcommit 8756161b55e067fd20da240f58ccc29251f64432[m
+Author: Sven <tribual@web.de>
+Date:   Mon Sep 23 15:22:45 2019 +0200
+
+    Delete scorpio.md
+    
+    device died
+
+[33mcommit 66e8e9819af53d56ddfb7dbac7655f7b9073749e[m
+Author: Sven <tribual@web.de>
+Date:   Mon Sep 23 15:22:21 2019 +0200
+
+    Delete scorpio.md
+    
+    device died
+
+[33mcommit 720b8b578a1bf1228798d5af7735fc8f80b2e923[m
+Author: anshumanxda <anshumanpathak4@gmail.com>
+Date:   Sun Sep 22 18:58:23 2019 +0530
+
+    land: sept update
+
+[33mcommit c07f93a5a802281e3a865ec9e0f42027cb287b0d[m
+Author: merothh <merothh@gmail.com>
+Date:   Sat Sep 21 19:50:07 2019 +0530
+
+    violet: Push 4.3-1 build
+    
+    * goodbye Pie
+
+[33mcommit e35ede29c954f427e4ae7ff2f0f6ffc5d341d3ec[m
+Author: Henrique <call190now@outlook.com>
+Date:   Fri Sep 20 23:08:10 2019 -0300
+
+    tissot: push 4.3 update (#79)
+
+[33mcommit b19cfbb485257b268f40ceae7ec6a4300025bbb5[m
+Author: dinosnore1 <dino.yash0213@gmail.com>
+Date:   Wed Sep 18 16:16:06 2019 +0000
+
+    sundars: Update 4.3
+
+[33mcommit af0533eba5678531041266e826507ac804a4c58e[m
+Merge: b229d70 5d83f7e
+Author: malinathani <43471652+malinathani@users.noreply.github.com>
+Date:   Sat Sep 14 19:04:28 2019 +0530
+
+    Merge pull request #78 from Call190Now/master
+    
+    rolex: 4.3 update
+
+[33mcommit 5d83f7ea67db2e0249aa88820f70b4a16c933340[m
+Author: Call190Now <call190now@outlook.com>
+Date:   Sat Sep 14 10:27:45 2019 -0300
+
+    rolex: 4.3 update
+    
+    I'm doing this for my family (and Aarish)
+
+[33mcommit b229d703f048a072df3ed8a35cdddcc65003d4e8[m
+Merge: 772fb40 4e76a60
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Thu Sep 12 19:42:00 2019 +0200
+
+    Merge pull request #77 from Fullbustah/master
+    
+    jasmine_sprout: Update 4.3
+
+[33mcommit 4e76a60a1a7088652a8f4472adca986b69089010[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Thu Sep 12 19:40:06 2019 +0200
+
+    jasmine_sprout: Update 4.3
+
+[33mcommit 772fb409e4dd41a19e9cf2c098f544e5df8f09d8[m
+Author: Manolo <33502654+ManoloRey@users.noreply.github.com>
+Date:   Tue Sep 10 20:42:07 2019 -0300
+
+    Update Vince (#76)
+    
+    * Update vince.md
+    
+    * Update vince.md
+
+[33mcommit 9d270d47f092aeaaf86449d3b83ed361e719fa69[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Tue Sep 10 04:34:53 2019 +0000
+
+    Update enchilada.md
+
+[33mcommit d91416207ddbfc083fa0ab9781295121e93411fd[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Tue Sep 10 01:09:05 2019 +0000
+
+    Update enchilada.md
+    
+    Sept patch
+
+[33mcommit a7c2ad15f9cd6c3d60d3b35f29b781163fb68e7d[m
+Merge: e156ba8 d93fa61
+Author: PixelBoot <bootingpixels@gmail.com>
+Date:   Sun Sep 8 17:59:35 2019 +0200
+
+    Merge pull request #75 from PixelBoot/master
+    
+    angler: 4.3 update
+
+[33mcommit d93fa61799eef2dc02220b17d79afa5d08de38d0[m
+Author: PixelBoot <bootingpixels@gmail.com>
+Date:   Sun Sep 8 17:58:33 2019 +0200
+
+    angler: 4.3 update
+
+[33mcommit e156ba8f166101f7676bd839a4c96b311589145c[m
+Author: Mohammed Nathani <alinathani786@gmail.com>
+Date:   Sun Sep 8 13:47:40 2019 +0530
+
+    fajita: The myth, the legend
+    Push Bootleggers 4.3
+
+[33mcommit e283ddf6a2f79c13c34d600d37459135c4e47735[m
+Author: El Dainosor <eldainosor@gmail.com>
+Date:   Sun Sep 8 02:59:01 2019 -0300
+
+    devices: Update surnia, one last time
+    
+    Somebody put tears on my pillow, that's why i'm actually mad about. Who put all these tears here?
+
+[33mcommit 19b6e3c234e9ee8beeaa24aadf9af28e56b28566[m
+Author: Call190Now <call190now@outlook.com>
+Date:   Sat Sep 7 15:19:21 2019 -0300
+
+    mido: Update to 4.3
+    
+    can y'all finally stop spamming me? thanks
+
+[33mcommit c6423c1de6dabcab4f2538260dd6d1f774cca9d0[m
+Merge: 243855b 26dc75a
+Author: ディーノ <dino.yash0213@gmail.com>
+Date:   Sat Sep 7 13:24:37 2019 +0530
+
+    Merge pull request #73 from NXDevs/master
+    
+    z2_plus: Bootleg 4.3 update
+
+[33mcommit 243855b27880b8a28c5ebe4073605d159c757d51[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Fri Sep 6 23:33:37 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit 26dc75ac5a3586bb4aa1b13f86ca44da2c7c9dc7[m
+Author: Hameed Musharaf K <39824562+NXDevs@users.noreply.github.com>
+Date:   Fri Sep 6 17:05:06 2019 +0530
+
+    z2_plus: Update 4.3
+
+[33mcommit e2c75583d47e2d4f54f633625acf0abacce3b593[m
+Author: Hameed Musharaf K <39824562+NXDevs@users.noreply.github.com>
+Date:   Fri Sep 6 17:04:38 2019 +0530
+
+    Update z2_plus.md
+
+[33mcommit 196fc71165e050c1baa6dd6749803c668da3d8e3[m
+Author: Hameed Musharaf K <39824562+NXDevs@users.noreply.github.com>
+Date:   Fri Sep 6 16:59:44 2019 +0530
+
+    z2_plus: Update  4.3
+
+[33mcommit 2819e3d6aa93a37244c957e75a2e6cc2ff9bfe17[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Fri Sep 6 02:03:49 2019 +0000
+
+    Update enchilada.md
+
+[33mcommit 1743d4599e7a59bf06d8f08632de9e2bc3ff4d2c[m
+Merge: 75d451b 98370a7
+Author: ディーノ <dino.yash0213@gmail.com>
+Date:   Fri Sep 6 02:26:07 2019 +0530
+
+    Merge pull request #72 from anshumanxda/master
+    
+    Land : 4.3 Update
+
+[33mcommit 75d451b774ee59ad3195d391aa9e449fbcdbad51[m
+Author: dinosnore1 <dino.yash0213@gmail.com>
+Date:   Thu Sep 5 20:46:33 2019 +0000
+
+    beryllium: Update 4.3
+
+[33mcommit 33ab4d9b17577169d55d60252481c7e3e347db9f[m
+Author: amog787 <amoghmaiya@gmail.com>
+Date:   Thu Sep 5 21:26:33 2019 +0530
+
+    kenzo: September '19
+
+[33mcommit 98370a740edf1db955ca52dbed7997dbc6390a1e[m
+Author: anshumanxda <anshumanpathak4@gmail.com>
+Date:   Thu Sep 5 21:23:35 2019 +0530
+
+    Land : 4.3 Update
+
+[33mcommit 853b965701ac1bc5c19640dc4dc65614952ae1f1[m
+Author: Sven <tribual@web.de>
+Date:   Thu Sep 5 11:59:50 2019 +0200
+
+    scorpio: update 05/09/2019
+
+[33mcommit 43a174a7cebced7c9860a4e4c8197d0c9613d704[m
+Author: Sven <tribual@web.de>
+Date:   Thu Sep 5 11:57:58 2019 +0200
+
+    scorpio: update changelog 05/09/2019
+
+[33mcommit f0d93f1b823f6076a396e6289e5b92c78a0e7bb3[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Wed Sep 4 07:26:47 2019 -0500
+
+    remove changelogs from the abandoned pixels
+    (wow, those walleye bezels were hideous)
+
+[33mcommit f9e018cd381f05b28496df2ea765cdd84908bf4e[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Wed Sep 4 07:25:22 2019 -0500
+
+    resurrect blueline
+
+[33mcommit eda5db9669061c75a09b0cd806409f57c33f2872[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Wed Sep 4 07:19:53 2019 -0500
+
+    resurrect crosshatch
+
+[33mcommit 38f18cda4613f6d49e63ca9480d2320b90b82dfb[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Wed Sep 4 07:09:35 2019 -0500
+
+    drop walleye and taimen
+
+[33mcommit 29a3607b75667f5696348899082a21bf44fd9782[m
+Author: HarukeyUA <inazarrusnak@gmail.com>
+Date:   Thu Aug 29 10:05:37 2019 +0300
+
+    Drop santoni
+
+[33mcommit be455af3e960c78e38cb3d79c2e5a3f638da83ff[m
+Author: Zilberto Junior <priv.zjr@gmail.com>
+Date:   Tue Aug 27 17:17:39 2019 -0300
+
+    Remove official support for Potter
+    
+    I have no more time and server to continue compiling the ROM. Sorry.
+
+[33mcommit 6498f1ef5f8b6d37542175b8c502a484ea90e390[m
+Author: merothh <merothh@gmail.com>
+Date:   Sun Aug 11 19:24:11 2019 +0530
+
+    violet: Push 4.2-4 build
+
+[33mcommit da2b13c4ed4fba77cfc3fd56c3f53e26b369b3d3[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Mon Aug 5 07:00:56 2019 -0400
+
+    Bonito: Test OTA
+
+[33mcommit 925ad5fc76b572ac63d72804515d6c99cac41b98[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Wed Jul 31 11:16:15 2019 -0300
+
+    Update CNAME
+
+[33mcommit 77d2b9e156f4abd8f6c048e38194e4ae416f84d1[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Wed Jul 31 02:59:14 2019 -0400
+
+    Bonito: Send out first OTA :)
+
+[33mcommit 45ed8fa7d2b105eefe35c570c06b51d92e4afeaa[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Mon Jul 29 21:22:02 2019 -0400
+
+    Add Pixel 3a (Sargo) and Pixel 3a XL (Bonito)
+
+[33mcommit f6644a5bdb2a51e1d77afb5b808bd77ae9c4f02a[m
+Author: PixelBoot <bootingpixels@gmail.com>
+Date:   Sun Jul 28 20:06:07 2019 +0200
+
+    angler: official support
+
+[33mcommit 93f65c794ffd63fa858c84781be19d7870c72fe3[m
+Author: Zilberto Junior <priv.zjr@gmail.com>
+Date:   Wed Jul 24 18:01:23 2019 -0300
+
+    potter: Make it working again
+
+[33mcommit e706be1ba2e0dad7e840fd0ecb6327f5df062e7f[m
+Author: Sven <tribual@web.de>
+Date:   Wed Jul 24 21:39:03 2019 +0200
+
+    scorpio: make it work again
+
+[33mcommit 250bd714c21a44e4b9d39425fddb68c0e8e18529[m
+Author: Zilberto Junior <priv.zjr@gmail.com>
+Date:   Tue Jul 23 08:23:55 2019 -0300
+
+    potter: clean some things
+
+[33mcommit edfe805142f1331f02f3a7da3547403077464766[m
+Author: Sven <tribual@web.de>
+Date:   Mon Jul 22 13:50:48 2019 +0200
+
+    scorpio: update 22/07/2019
+
+[33mcommit e058c1aa1684575635f882f7969ebe283e792a16[m
+Author: Sven <tribual@web.de>
+Date:   Mon Jul 22 13:49:00 2019 +0200
+
+    scorpio: update changelog 22/07/2019
+
+[33mcommit 5dfbd1232f091298879e6e4c10624ddbb52c3c61[m
+Author: Manolo <33502654+ManoloRey@users.noreply.github.com>
+Date:   Mon Jul 15 23:57:10 2019 -0300
+
+    Vince: July patch update (#67)
+    
+    Update vince
+    
+    * Update vince.md
+
+[33mcommit 479492f59df9cd816c968c3ec02a0600aa1b91b4[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Sun Jul 14 22:54:57 2019 +0200
+
+    Update kuntao.md
+
+[33mcommit 407e9a885901919be1d7c2566d43f3e9f00fdf8d[m
+Author: dinosnore1 <dino.yash0213@gmail.com>
+Date:   Sun Jul 14 13:45:08 2019 +0530
+
+    Update rolex
+
+[33mcommit 619bd89539e8259456358a5651a3d8cc7fa46ba7[m
+Author: merothh <merothh@gmail.com>
+Date:   Sat Jul 13 14:04:24 2019 +0530
+
+    violet: Push 4.2-3 build
+
+[33mcommit caac324f3fc75c24bb8526e546de22512597a78f[m
+Author: simrat39 <simrats169169@gmail.com>
+Date:   Sat Jul 13 13:06:33 2019 +0530
+
+    whyred: 4.2-2 update
+    
+    13 July
+    
+    Signed-off-by: simrat39 <simrats169169@gmail.com>
+
+[33mcommit 4c1d845df3294cbd5f8d2b5203fef0b24c6f2097[m
+Author: El Dainosor <eldainosor@gmail.com>
+Date:   Sat Jul 13 03:58:54 2019 -0300
+
+    Revert "break changelog"
+    
+    This reverts commit 896a85c2542d1b8f4abb69914d94bda3f8965b72.
+
+[33mcommit 47b09b1ab4f801c8689b724713626ce543de9de7[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Sat Jul 13 03:57:57 2019 -0300
+
+    changelog: fix sanders
+
+[33mcommit 57bb2ea0e21ce022321e58c3758fb4c698b6f397[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Sat Jul 13 03:57:17 2019 -0300
+
+    changelog: fix rolex
+
+[33mcommit 896a85c2542d1b8f4abb69914d94bda3f8965b72[m
+Author: El Dainosor <eldainosor@gmail.com>
+Date:   Thu Jul 11 21:47:15 2019 -0300
+
+    break changelog
+
+[33mcommit 8e53abbd70917992424fbade1b02e3b8bb6a0440[m
+Author: anshumanxda <anshumanpathak4@gmail.com>
+Date:   Thu Jul 11 23:20:19 2019 +0530
+
+    Land July Update
+
+[33mcommit 35ba55e8ba9dad19b23e6d04649167514b840554[m
+Author: El Dainosor <eldainosor@gmail.com>
+Date:   Thu Jul 11 03:34:13 2019 -0300
+
+    site: Add a description special for devices section
+
+[33mcommit fb4f9a2afc66dbff57f6441276b85e36bdd619dc[m
+Author: El Dainosor <eldainosor@gmail.com>
+Date:   Thu Jul 11 03:01:16 2019 -0300
+
+    site: Add favicon
+    
+    generated by https://www.favicon-generator.org/
+
+[33mcommit 67b92624b310ec0f1a3095103e35a46d82f0ff6c[m
+Author: El Dainosor <eldainosor@gmail.com>
+Date:   Thu Jul 11 02:47:01 2019 -0300
+
+    site: Update logo
+
+[33mcommit ce7e3eef55e7fcc0a33eb0692d4d7d4ccb4e6dfd[m
+Author: El Dainosor <eldainosor@gmail.com>
+Date:   Tue Jul 9 19:46:04 2019 -0300
+
+    site: Add metadata to the website
+    
+    Let's display some website info when our links are being shared
+
+[33mcommit de88b5525a9300f20c64a1add0b325368303ca48[m
+Author: dinosnore1 <dino.yash0213@gmail.com>
+Date:   Wed Jul 10 12:57:06 2019 +0000
+
+    Update beryllium
+
+[33mcommit 6611734b1209733e5f1ee353e5db118af8562c9c[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Tue Jul 9 15:07:01 2019 +0200
+
+    Update kuntao.md
+
+[33mcommit a75b21ef5c0ea16d47e9b6bc3029bf3b91aecf00[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Tue Jul 9 15:06:57 2019 +0200
+
+    Update kuntao.md
+
+[33mcommit 962166a12afe6d108c92543802edd8f8f76b33c4[m
+Author: El Dainosor <eldainosor@gmail.com>
+Date:   Sun Jul 7 17:47:53 2019 -0300
+
+    devices: The purge
+    
+    This removes the devices that didn't got an update in months. So, let's say bye bye.
+
+[33mcommit e90d0bf81842b7237f743c866c89481b4b053361[m
+Author: malinathani <alinathani786@gmail.com>
+Date:   Sun Jul 7 12:39:34 2019 +0530
+
+    fajita: finally update this cus daddy get mad
+    
+    Signed-off-by: malinathani <alinathani786@gmail.com>
+
+[33mcommit 15dcf080f6c15db4e7735aeff4f47f6631e835eb[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Sun Jul 7 11:44:36 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit 9143f894e1fca4857336923902d7aefa82029db0[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Sun Jul 7 11:41:20 2019 +0530
+
+    Look at the dedication bishes
+
+[33mcommit 548baaa90c502936b1af10fc6d71c8a15c8cb46c[m
+Author: Nazar Rusnak <inazarrusnak@gmail.com>
+Date:   Sat Jul 6 11:23:05 2019 +0300
+
+    santoni: 06.07.2019 update (#63)
+
+[33mcommit 09359d652c69c6c25cd15ee4244ad27d5ac60241[m
+Author: ZJRDroid <priv.zjr@gmail.com>
+Date:   Sat Jul 6 05:43:36 2019 +0000
+
+    potter: July update
+
+[33mcommit f09b2a7f39df7b445efe5085c120489ca277ab06[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Fri Jul 5 22:59:54 2019 -0500
+
+    walleye: update
+
+[33mcommit a9ef071f424838675cc09beb835700ae8d0dbf15[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Fri Jul 5 22:55:39 2019 -0500
+
+    taimen: update
+
+[33mcommit 8bf199996cfbdfc073b6072e487d4f8e405e4d5b[m
+Author: Zilberto Junior <priv.zjr@gmail.com>
+Date:   Thu Jul 4 15:30:57 2019 -0300
+
+    Update potter.md
+
+[33mcommit e9f12a48fe6aa555959c7739bec1d5131760d139[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Thu Jul 4 14:59:06 2019 -0300
+
+    Create CNAME
+
+[33mcommit f5fed63462eb48d6ea19ffb67e59873b03dc5593[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Thu Jul 4 14:50:22 2019 -0300
+
+    Delete CNAME
+
+[33mcommit 7511c3f00295b475f8d699fa22556123cd5579a3[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Thu Jul 4 14:37:33 2019 -0300
+
+    Create CNAME
+
+[33mcommit a4af5673a956741bfedf94abd0fe68055337ac9f[m
+Author: merothh <merothh@gmail.com>
+Date:   Mon Jul 1 14:03:22 2019 +0530
+
+    violet: Push 4.2-2 build
+
+[33mcommit b85e8f9c12527b0fecb88e5e93e7bd5de9a3d3c0[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Tue Jun 25 19:49:17 2019 +0200
+
+    Step back, I can't stand that stupid talking anymore, sorry.
+    So drop J5 devices from official Bootleggers.
+
+[33mcommit 7dd9ca607245e4cb50b788c499f65bfaa725c778[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Sun Jun 23 18:39:25 2019 -0500
+
+    walleye: update
+
+[33mcommit 2ac73c3b5019b14d75c3b280983735ec428fb838[m
+Author: thetoymaker <toymaker4ever@gmail.com>
+Date:   Sun Jun 23 16:27:50 2019 +0000
+
+    X00T: 23/06/2019 Its Update time !!!
+
+[33mcommit 9530410c1c36bd42575efe742d45e9ec37b2bc81[m
+Author: UtsavisGreat <utsavbalar1231@gmail.com>
+Date:   Sun Jun 23 15:26:54 2019 +0000
+
+    potter: again new release at the end of month[23-06-2019]
+    
+    Signed-off-by: UtsavisGreat <utsavbalar1231@gmail.com>
+
+[33mcommit aa495aa957f73c38176f38e3c8401c80a8c3a401[m
+Author: shagbag913 <sh4gbag913@gmail.com>
+Date:   Sat Jun 15 10:40:31 2019 -0400
+
+    land: fix formatting
+    
+    I think
+
+[33mcommit 3e01184213f6705761b8c19b2c132849b9764652[m
+Author: Anshuman Pathak <33548423+anshumanxda@users.noreply.github.com>
+Date:   Sat Jun 15 17:42:18 2019 +0530
+
+    Land: Added Official Support (#59)
+
+[33mcommit 0d2880152cdc763c86136970be0c1f56e8e2a18c[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Sat Jun 15 03:50:07 2019 -0300
+
+    surnia: Let's u
+
+[33mcommit 4249ab2438288663a7442601ebe81ed1d3c03714[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Sat Jun 15 03:49:23 2019 -0300
+
+    surnia: let's add this changelog gamers
+
+[33mcommit 81bf143eb219da9d4dc178c4f42f8bd92d9316b9[m
+Merge: 8b29235 31d6996
+Author: Gagan <35248094+dinosnore1@users.noreply.github.com>
+Date:   Fri Jun 14 15:03:49 2019 +0530
+
+    Merge pull request #57 from melvinstark3/master
+    
+    Sanders: Add Official Support
+
+[33mcommit 31d6996722c8a413fa9316a2ebb03beac7376052[m
+Author: “melvinstark3” <“kartik40814902018@msi-ggsip.org”>
+Date:   Fri Jun 14 11:02:22 2019 +0200
+
+    Sanders: Add Official Support
+
+[33mcommit 8b2923584a0d1d7982811f54f4832c0534c2d21b[m
+Author: Aarish Khan <48199170+aarish124@users.noreply.github.com>
+Date:   Thu Jun 13 23:41:10 2019 +0530
+
+    Rolex: Add Official Support (#56)
+    
+    * Add Redmi 4A (Rolex)
+    
+    * rolex: Add Official Support
+
+[33mcommit 9598a6debe4f07f29b222fa8bcd216ec36b4fc1c[m
+Author: simrat39 <simrats169169@gmail.com>
+Date:   Thu Jun 13 17:55:17 2019 +0530
+
+    whyred: 4.2 Update (June 13)
+    
+    Signed-off-by: simrat39 <simrats169169@gmail.com>
+
+[33mcommit 9c827a903ee42e0dc118bc11f2ddcba8356663ff[m
+Author: DarkAngelGR <43799929+DarkAngelGR@users.noreply.github.com>
+Date:   Thu Jun 13 14:52:57 2019 +0300
+
+    Update markw (#54)
+
+[33mcommit fda2349b07aa5be3cd17fe58bbf517c459b7d806[m
+Merge: 8374d50 034ab6c
+Author: simrat singh <simrats169169@gmail.com>
+Date:   Thu Jun 13 15:28:00 2019 +0530
+
+    Merge pull request #53 from DarkAngelGR/master
+    
+    Add Redmi 4 Prime (markw)
+
+[33mcommit 034ab6c17211ab053dc513e06227782254fc9f80[m
+Author: DarkAngelGR <asavvo01@gmail.com>
+Date:   Thu Jun 13 09:48:18 2019 +0000
+
+    Add Redmi 4 Prime (markw)
+
+[33mcommit 8374d50fc176e34a62f7a8ad77c0fd904d79a424[m
+Author: aswin7469 <aswinas7469@gmail.com>
+Date:   Thu Jun 13 07:33:40 2019 +0000
+
+    push 4.2 for z2_plus
+
+[33mcommit b3d37bec6a964833797cfe4197daeb591cea780a[m
+Author: merothh <merothh@gmail.com>
+Date:   Thu Jun 13 12:06:24 2019 +0530
+
+    violet: Push 4.2-1 build
+
+[33mcommit 49101ac0af204e649740e75912fd58a380436610[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Wed Jun 12 17:57:37 2019 +0200
+
+    Update jasmine_sprout.md
+
+[33mcommit 0fd056643ab1d75f10e85665be269e11aaf4379d[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Wed Jun 12 17:57:31 2019 +0200
+
+    Update jasmine_sprout.md
+
+[33mcommit 4e1d86651ef9cc0014631f8852b5be1083eff994[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Wed Jun 12 07:03:19 2019 -0500
+
+    walleye: update
+
+[33mcommit e6f2526e4aa8d54af40155323997b0db4aa3adb9[m
+Author: Manolo <33502654+ManoloRey@users.noreply.github.com>
+Date:   Wed Jun 12 06:51:47 2019 -0300
+
+    Vince: welcome 4.2 (#51)
+    
+    * Vince: june update
+    
+    * Vince: june update
+
+[33mcommit 87fc88fd46096f431d4cd79266ea4834e0966c89[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Tue Jun 11 23:00:50 2019 -0500
+
+    walleye: update
+
+[33mcommit 1829b3dc3beedc7c234e84030d965a0bc0e00431[m
+Author: dinosnore1 <dino.yash0213@gmail.com>
+Date:   Wed Jun 12 03:45:04 2019 +0000
+
+    kenzo: update cuz gumogh ded
+
+[33mcommit 8153377e63fcfb54597cf0e779b836e5cca23efc[m
+Author: shagbag913 <sh4gbag913@gmail.com>
+Date:   Tue Jun 11 19:54:34 2019 -0400
+
+    sailfish: update 6/11/19
+    
+    Holy friggen smokes dawgggg update woohooooooo
+    
+    Signed-off-by: shagbag913 <sh4gbag913@gmail.com>
+
+[33mcommit 925b40ec420b2be430ba8acd6d52271c1a9909a9[m
+Author: Call190Now <call190now@outlook.com>
+Date:   Tue Jun 11 16:58:04 2019 -0300
+
+    mido: 4.2 update
+
+[33mcommit 783b056233669e1b4dcbb72dc36edee20a127292[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Tue Jun 11 19:13:33 2019 +0200
+
+    Add changelog for J5 (2016).
+
+[33mcommit c0dc13c745689693186d3030701ef3cba7e57964[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Tue Jun 11 19:12:56 2019 +0200
+
+    Update changelog for J5 (2015) devices.
+
+[33mcommit ab6ced5cdea13eddde8bf0e03ff7e2ee95d94d53[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Tue Jun 11 19:04:23 2019 +0200
+
+    Add J5 (2016).
+
+[33mcommit 9718424b60c4bb00b04dcb0b28508057c6bed7fb[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Tue Jun 11 19:04:05 2019 +0200
+
+    Update J5 (2015) devices.
+
+[33mcommit 9815c6929dc7fa9efb860a7fcb7f4e6f55423c77[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Tue Jun 11 12:26:28 2019 -0500
+
+    taimen: update
+
+[33mcommit 0212fe306caa68e6db2cb384aa1b6c0ee2c92f9c[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Tue Jun 11 21:43:45 2019 +0530
+
+    :3
+
+[33mcommit beb2f1bc475d2467e4672211e907532ac10ed39f[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Tue Jun 11 21:36:20 2019 +0530
+
+    Updating enchilada again
+    
+    Somehow i cannot remember shit
+
+[33mcommit 4796d22cfdbb61e38ccb55a4d715358599a3313c[m
+Author: Sven <tribual@web.de>
+Date:   Tue Jun 11 16:12:37 2019 +0200
+
+    scorpio: update changelog 11/06/2019
+
+[33mcommit b21cb52130503178ea55a99962580be76bbbfe1e[m
+Author: Sven <tribual@web.de>
+Date:   Tue Jun 11 16:08:37 2019 +0200
+
+    scorpio: update 11/06/2019
+
+[33mcommit cf247501dc19d4cec74f7d62127091f6b0eb2e92[m
+Merge: 4731c7b 7b0850c
+Author: Gagan <35248094+dinosnore1@users.noreply.github.com>
+Date:   Tue Jun 11 18:26:00 2019 +0530
+
+    Merge pull request #49 from HarukeyUA/master
+    
+    santoni: 11.06.2019 update
+
+[33mcommit 7b0850c28be60b53904946bc9610164b1ddaaa3b[m
+Author: HarukeyUA <inazarrusnak@gmail.com>
+Date:   Tue Jun 11 15:50:59 2019 +0300
+
+    santoni: 11.06.2019 update
+
+[33mcommit 4731c7b1440f1e478a0f64808479f6d14b44aefe[m
+Author: abhinavgupta371 <abhinavgupta371@gmail.com>
+Date:   Tue Jun 11 17:13:07 2019 +0530
+
+    tissot: update(11/06/2019)
+
+[33mcommit 4a8517189f6517e05c9eb742bf34b9f6863b65f3[m
+Author: dinosnore1 <dino.yash0213@gmail.com>
+Date:   Tue Jun 11 09:59:12 2019 +0000
+
+    beryllium: Push 4.2
+
+[33mcommit 9180db110abf95a36f00b29a57db0fbc6252ba60[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Mon Jun 10 21:53:50 2019 +0100
+
+    herolte: Update 10/06/2019
+
+[33mcommit 7f5d62391291f847bbf8d744e8aa92df892c5c6c[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Mon Jun 10 21:52:44 2019 +0100
+
+    hero2lte: Update 10/06/2019
+
+[33mcommit 18546e36a7e66f8835d30078b2a84ce42afbcf2d[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Mon Jun 10 21:45:28 2019 +0100
+
+    hero2lte: Update 10/06/2019
+
+[33mcommit 744af9da5630010e0b8b94f5c54b7d82274cb1ba[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Mon Jun 10 21:44:01 2019 +0100
+
+    herolte : Update 10/06/2019
+
+[33mcommit 816fc4a37cb7b05ebf0f5843f54d421db390aeb9[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Thu Jun 6 02:56:57 2019 -0400
+
+    Drop support for Crosshatch, Blueline and Marlin... for now...
+
+[33mcommit 2d5eb5623ed70f1e8e4d6ebaca64f6794b03626c[m
+Merge: 006b9e4 493744f
+Author: simrat singh <simrats169169@gmail.com>
+Date:   Sun Jun 2 10:06:03 2019 +0530
+
+    Merge pull request #48 from Call190Now/master
+    
+    mido: change xda thread link
+
+[33mcommit 493744f9844c89336d02195aa58e4f4379690fb2[m
+Author: Call190Now <call190now@outlook.com>
+Date:   Sun Jun 2 01:30:31 2019 -0300
+
+    mido: change xda thread link
+    
+    finally, xda decided to not be retarded with me
+
+[33mcommit 006b9e4fb81bc04985cba2874441bec45a5d93a5[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Sat Jun 1 21:56:10 2019 +0530
+
+    Update enchilada.md
+    
+    add the mirror link
+
+[33mcommit 56afd66bfa5cc8731a5f83e8c4d8584099a099b4[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Sat Jun 1 20:22:24 2019 +0530
+
+    Setting the changelog!!
+
+[33mcommit a23645cee6af2cc405c4ef25a205e072caf03f61[m
+Author: Call190Now <call190now@outlook.com>
+Date:   Sat Jun 1 01:59:09 2019 -0300
+
+    mido: May security patch - 31/05/2019
+
+[33mcommit 6c6f43831b700ec29b587c76fe4c9ec2760d0ab8[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Sat Jun 1 00:44:26 2019 +0000
+
+    Update enchilada
+
+[33mcommit f45ad972c2c5701f61e67229b4f70de76b383bd6[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Fri May 31 02:41:13 2019 +0000
+
+    devices: Drop wayne
+    
+    A lurker who wasn't building at all, but smelt like buildbot.
+
+[33mcommit a1e4840bc741c5e27beb6763583f7351337100b7[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Thu May 30 16:21:47 2019 +0200
+
+    jasmine_sprout: Correct date
+
+[33mcommit c8a072afeedb7ab3b94dbe2d971295985e1b17f9[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Thu May 30 16:19:23 2019 +0200
+
+    Update jasmine_sprout
+
+[33mcommit 4f653ac0421c42ab6ad2230d935c07f5e5198ccc[m
+Author: Utsav Balar <32286881+UtsavisGreat@users.noreply.github.com>
+Date:   Wed May 22 13:04:25 2019 +0530
+
+    potter: long awaited may update [22-05-2019] (#45)
+    
+    Signed-off-by: UtsavisGreat <utsavbalar1231@gmail.com>
+
+[33mcommit 65f445b08a2615fcaef77d7b10bc29edb0548c9f[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Mon May 20 04:11:04 2019 +0000
+
+    Fixes and rework the changelog part
+
+[33mcommit a9164a7e8daddfc971a34541845c8c97cabe9593[m
+Author: simrat39 <simrats169169@gmail.com>
+Date:   Sun May 19 19:22:03 2019 +0530
+
+    whyred: May sp update (19/05/2019)
+    
+    Signed-off-by: simrat39 <simrats169169@gmail.com>
+
+[33mcommit e6057fe9ee1dc2640b0df9c6db6d540549dcd6d0[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Fri May 17 19:23:56 2019 +0100
+
+    Update herolte: 17/05/2019
+
+[33mcommit 76ee7b529fce34669e5c7ca7a3ffa926cf00700f[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Fri May 17 19:23:53 2019 +0100
+
+    Update hero2lte: 17/05/2019
+
+[33mcommit 3ad4b239106a8b913cc80b04b8c7d78dc8f0833e[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Fri May 17 19:19:53 2019 +0100
+
+    Update hero2lte: 17/05/2019
+
+[33mcommit 64e0d322508df8f492c760df6119d5062d8363c3[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Fri May 17 19:19:50 2019 +0100
+
+    Update herolte: 17/05/2019
+
+[33mcommit 30bae19de349b843923633fb702035f3a0087a56[m
+Author: Manolo <33502654+ManoloRey@users.noreply.github.com>
+Date:   Thu May 16 17:13:33 2019 -0300
+
+    Vince: may update
+
+[33mcommit 7249d744c71520f949d14926cd323216fd7e21d6[m
+Author: Manolo <33502654+ManoloRey@users.noreply.github.com>
+Date:   Thu May 16 17:09:17 2019 -0300
+
+    Vince: may update
+
+[33mcommit 06e90d0cb70e570c3da054a4e70fd816e1940d58[m
+Author: amog787 <amoghmaiya@gmail.com>
+Date:   Thu May 16 17:34:24 2019 +0530
+
+    kenzo: may update
+
+[33mcommit a7af8fa213ea54d6a2e1f8ccf94bfdbf0a2660a1[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Tue May 14 22:03:30 2019 +0200
+
+    Update kuntao
+
+[33mcommit 0a59791eb234dec14a2d8a95b17e0739984cd90a[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Tue May 14 21:58:59 2019 +0200
+
+    Update jasmine_sprout
+
+[33mcommit 235ef1c7be516952dec336f8b4fe9e74f24f023f[m
+Author: Sven <tribual@web.de>
+Date:   Tue May 14 11:50:59 2019 +0200
+
+    scorpio: update 14/05/2019
+
+[33mcommit 703db82a4411d295d9271fdc40d2eb1931c8662b[m
+Author: Sven <tribual@web.de>
+Date:   Tue May 14 11:50:54 2019 +0200
+
+    scorpio: update changelog 14/05/2019
+
+[33mcommit d4aaa0d15b51859577e1c954609c800f9e7d2d48[m
+Author: merothh <merothh@gmail.com>
+Date:   Mon May 13 22:31:24 2019 +0530
+
+    violet: Push 4.1-4 build
+
+[33mcommit 1c63d089ea36f01d365dad0399a0ee4724dc5023[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Sat May 11 18:18:46 2019 -0500
+
+    taimen: update
+
+[33mcommit 15d909eeeda1a23a94118b2b642a633f47145d14[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Sat May 11 13:30:11 2019 -0500
+
+    update: walleye
+
+[33mcommit a6d1160ccc185e79e56cbcdf456095e5090a0c9a[m
+Author: merothh <merothh@gmail.com>
+Date:   Fri May 10 22:53:58 2019 +0530
+
+    violet: Push 4.1-3 build
+    
+    * why phone in fastboot sur ota
+
+[33mcommit b0f20f59173d93e6ad7519980b29ca45493315ae[m
+Merge: aa9d6b1 e8ea0f3
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Fri May 10 13:52:19 2019 +0530
+
+    Merge branch 'master' of https://github.com/BootleggersROM-Devices/BootleggersROM-Devices.github.io
+
+[33mcommit aa9d6b15b503c13ca33defa80be49aa257f8c5cf[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Fri May 10 13:50:00 2019 +0530
+
+    Update with nfc fixes
+
+[33mcommit e8ea0f349eaf18c651d292c05a00c258fbc6fc57[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Fri May 10 13:50:00 2019 +0530
+
+    Update with nfc fixes
+
+[33mcommit 3aa0241627f7f94da72e358755678063eb1871ee[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Fri May 10 10:59:14 2019 +0530
+
+    Update the changelog
+
+[33mcommit 8028d25ae78bc7ea3cdba02410baa32e599b59b7[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Fri May 10 06:56:27 2019 +0530
+
+    First build in ages
+
+[33mcommit 1c594b8d9d7b380a8103fa325748e6eb01f22313[m
+Author: dinosnore1 <dino.yash0213@gmail.com>
+Date:   Thu May 9 18:01:26 2019 +0000
+
+    beryllium: Time to break bholte again
+
+[33mcommit feb9674ca000081f1795d2df83276680b7e7c24e[m
+Author: jenslody <jens@jenslody.de>
+Date:   Thu May 9 14:01:40 2019 +0200
+
+    Update j53gxx.md
+
+[33mcommit 5c30fc22408cb9e8c950ba4952bc8fef6c2d1f66[m
+Author: jenslody <jens@jenslody.de>
+Date:   Thu May 9 14:01:36 2019 +0200
+
+    Update j5lte.md
+
+[33mcommit 4d9ec22c5b7d57ec366258586db4c994077f862f[m
+Author: jenslody <jens@jenslody.de>
+Date:   Thu May 9 14:01:33 2019 +0200
+
+    Update j5ltechn.md
+
+[33mcommit 2dfed84ca79ad2f68c2669f50b8ae3aef1640082[m
+Author: jenslody <jens@jenslody.de>
+Date:   Thu May 9 14:01:30 2019 +0200
+
+    Update j5nlte.md
+
+[33mcommit 73802851bc1dcc4463b986d6b436bcc169652027[m
+Merge: 33b8b9b 6077915
+Author: Aswin A S <aswinas7469@gmail.com>
+Date:   Thu May 9 13:44:51 2019 +0530
+
+    Merge pull request #43 from HarukeyUA/master
+    
+    santoni: 09/05/2019 hotfix
+
+[33mcommit 6077915007d07e91ee0dd9059a49050621da0902[m
+Author: HarukeyUA <inazarrusnak@gmail.com>
+Date:   Thu May 9 10:45:07 2019 +0300
+
+    santoni: 09/05/2019 hotfix
+
+[33mcommit 33b8b9b99164bf37d08dae573becef3d2d0ac66d[m
+Merge: a3d718c f3bd7b4
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Wed May 8 19:19:30 2019 +0530
+
+    Merge pull request #42 from HarukeyUA/master
+    
+    santoni: 08/05/2019 update
+
+[33mcommit f3bd7b465d9f7c32e2e115036c805838b0da2ecf[m
+Author: HarukeyUA <inazarrusnak@gmail.com>
+Date:   Wed May 8 16:38:52 2019 +0300
+
+    santoni: 08/05/2019 update
+
+[33mcommit a3d718c4914084dc20011993d706bc671cd1b6bf[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Mon May 6 15:36:33 2019 +0200
+
+    Update jasmine_sprout
+
+[33mcommit 5467310fbcb3a236257d2893f0fffbdbca8d4ad6[m
+Author: Akianonymus <anonymus.aki@gmail.com>
+Date:   Mon May 6 11:33:25 2019 +0530
+
+    harpia: Drop support
+    
+    * cus no tame sur
+
+[33mcommit 21f6be5fc5c888a2ba9965b5cd003f2b4f52cfbf[m
+Author: merothh <merothh@gmail.com>
+Date:   Fri May 3 16:42:57 2019 +0530
+
+    violet: Push 4.1-2 build
+
+[33mcommit 6099bc382c49dbc3acf350fc6af6477036e7dc21[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Thu May 2 23:00:18 2019 +0000
+
+    DNM: Print changelog instead of doing iframe
+
+[33mcommit ca168379a2f41ed5d0619adf8b59d90a3fb80ecd[m
+Author: merothh <merothh@gmail.com>
+Date:   Fri May 3 02:13:59 2019 +0530
+
+    violet: tehm for release
+
+[33mcommit 35ca6a92cb3d1c4f2ad966340bfda7212e19806c[m
+Author: Dinesh <43177361+droideronline@users.noreply.github.com>
+Date:   Thu May 2 08:53:55 2019 +0530
+
+    land: Drop support
+    
+    Sorry no time
+
+[33mcommit d830d65a2115aeccc152a419e65c087874e9ba46[m
+Author: merothh <merothh@gmail.com>
+Date:   Wed May 1 16:08:25 2019 +0530
+
+    mido: Drop support
+    
+    * New device and i dont have the time to do this anyways
+
+[33mcommit f4464cf68d93f10c6017387881843bf91375adc2[m
+Author: simrat39 <simrats169169@gmail.com>
+Date:   Sun Apr 28 11:58:45 2019 +0530
+
+    whyred: 28 April update
+    
+    Signed-off-by: simrat39 <simrats169169@gmail.com>
+
+[33mcommit 6f482c63ab0a497603df0c152f0f1920b690372d[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Sat Apr 27 18:02:20 2019 -0500
+
+    wayne: This is a markdown file
+    
+    not a Maya binary scene file
+
+[33mcommit ce107d74abe71e6ee633194927f59ef41fb0e629[m
+Author: Jullian14 <45278243+Jullian14@users.noreply.github.com>
+Date:   Sat Apr 27 19:29:28 2019 -0300
+
+    Create wayne.mb
+    
+    add wayne support
+
+[33mcommit 301f22bbb601b0c1f69af482144b3b2e816141bc[m
+Merge: ddfe7cb 3bb38e9
+Author: Gagan <35248094+dinosnore1@users.noreply.github.com>
+Date:   Sat Apr 27 17:01:02 2019 +0530
+
+    Merge pull request #40 from HarukeyUA/master
+    
+    santoni: 27.04.2019 update
+
+[33mcommit 3bb38e92824504acba8db63929f5f1aa4f04fff5[m
+Author: HarukeyUA <inazarrusnak@gmail.com>
+Date:   Sat Apr 27 14:09:23 2019 +0300
+
+    santoni: 27.04.2019 update
+
+[33mcommit ddfe7cb1d5519e07b70a05b24e5c5ce2b59a4a8f[m
+Author: thetoymaker <toymaker4ever@gmail.com>
+Date:   Tue Apr 23 04:48:02 2019 +0000
+
+    X00T: Its Alive !!!
+
+[33mcommit e3e4c2a3d1f8e5e4587cad4616ac69a30d49ec30[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Sun Apr 21 13:21:21 2019 -0300
+
+    Remove official support for Cedric
+    
+    F.
+    
+    Reason: He decided to stop because he got tired of this. He's going to live his life, not on the telegram.
+
+[33mcommit e57d770dd3fd551a3edcbb7db76a97a2d196a096[m
+Author: dinosnore1 <dino.yash0213@gmail.com>
+Date:   Sun Apr 21 09:38:33 2019 +0000
+
+    Update Bholte
+
+[33mcommit a9e15ffc68dad674eb061c97b77ffb34ec1604a2[m
+Author: Sven <tribual@web.de>
+Date:   Sat Apr 20 12:44:55 2019 +0200
+
+    scorpio: 2nd update changelog 18/04/2019
+
+[33mcommit 63433e75f6d486793a834834b8e21cf564d7cf2a[m
+Author: Sven <tribual@web.de>
+Date:   Sat Apr 20 12:43:14 2019 +0200
+
+    scorpio: 2nd update 18/04/2019
+
+[33mcommit e22b91ff147e44741e9ffb90536c0579c0074216[m
+Author: Sven <tribual@web.de>
+Date:   Thu Apr 18 14:23:43 2019 +0200
+
+    scorpio: update changelog 18/04/2019
+
+[33mcommit 4e4f83d1aac1bf5ea580f2ec274045c8d13076ef[m
+Author: Sven <tribual@web.de>
+Date:   Thu Apr 18 14:17:26 2019 +0200
+
+    scorpio: update 18/04/2019
+
+[33mcommit c1d2167715eb25c592933f70ac90f99c200ff179[m
+Author: merothh <merothh@gmail.com>
+Date:   Thu Apr 18 11:02:29 2019 +0530
+
+    mido: Push 4.1-1 build
+
+[33mcommit fdfd9d0fd2092b0ea091f7f83d79f70edb3ae7c8[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Thu Apr 18 00:24:58 2019 +0100
+
+    New Build 17/04/2019
+
+[33mcommit 6d3a7b70c438568f7bba36fe15c43ad097b7ab91[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Thu Apr 18 00:23:57 2019 +0100
+
+    New Build 17/04/2019
+
+[33mcommit 2584b40efe8fb6e4d0cc69a20eaca61538019ecb[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Thu Apr 18 00:03:17 2019 +0100
+
+    New Build 17/04/2019
+
+[33mcommit 5ae5e49bdc2faca70df3656bd4225b6139947d6b[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Thu Apr 18 00:00:38 2019 +0100
+
+    New Build 17/04/2019
+
+[33mcommit 00104ef2204c7e29c61c9b67175f60efe641d37d[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Sun Apr 14 19:11:48 2019 +0200
+
+    Update jasmine_sprout.md
+
+[33mcommit 691781a2adb4913f7d478ac6f74b7ecf4359f7a9[m
+Merge: 95dc1a3 86b4083
+Author: simrat singh <simrats169169@gmail.com>
+Date:   Sun Apr 14 22:40:19 2019 +0530
+
+    Merge pull request #39 from UtsavisGreat/master
+    
+    potter: update maintainer & changelog
+
+[33mcommit 86b4083f89c892134b91aa5c4c62a514c5d4909c[m
+Author: utsavbalar1231 <utsavbalar1231@gmail.com>
+Date:   Sun Apr 14 05:09:49 2019 +0000
+
+    potter: update maintainer & changelog
+
+[33mcommit 95dc1a3eb7044e82bce61dcfd98df8ba4d31bb58[m
+Merge: 55605af 59763fc
+Author: Aswin A S <aswinas7469@gmail.com>
+Date:   Sat Apr 13 19:20:52 2019 +0530
+
+    Merge pull request #37 from HarukeyUA/master
+    
+    santoni: Initial shishufied build
+
+[33mcommit 59763fce5119034fbf27f9b431e632a4878972d6[m
+Author: HarukeyUA <inazarrusnak@gmail.com>
+Date:   Sat Apr 13 16:47:33 2019 +0300
+
+    santoni: Initial shishufied build
+
+[33mcommit 55605afffc76119ef8f085e5cb1791caab9215d9[m
+Author: simrat39 <simrats169169@gmail.com>
+Date:   Fri Apr 12 15:15:04 2019 +0530
+
+    whyred: fix minor formatting
+
+[33mcommit e3846f1a6ee68d9a5062ce4d8c79584700d7a8df[m
+Author: simrat39 <simrats169169@gmail.com>
+Date:   Fri Apr 12 14:56:50 2019 +0530
+
+    whyred: 12/04/2019 update
+
+[33mcommit fb13b86ab16584849a9ea3e3f9c888d35f14d2db[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Thu Apr 11 23:56:02 2019 +0200
+
+    Update jasmine_sprout.md
+
+[33mcommit 949d250813e3a513776be8432a528b897ba040c2[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Thu Apr 11 23:55:57 2019 +0200
+
+    Update jasmine_sprout.md
+
+[33mcommit 8fbbeb0dc3a1d0b7dfeb1fdddea79bd6e5602a1c[m
+Author: simrat singh <simrats169169@gmail.com>
+Date:   Thu Apr 11 21:12:58 2019 +0530
+
+    changelog: whyred: initial build
+    
+    🤔
+
+[33mcommit dd890015a946d5119d5519dedb2f057f953f45af[m
+Author: simrat singh <simrats169169@gmail.com>
+Date:   Thu Apr 11 21:10:41 2019 +0530
+
+    devices: initial whyred build
+    
+    🤔
+
+[33mcommit 58473d24498640c28b0fe5eb888a65bd0236bccd[m
+Author: Akianonymus <anonymus.aki@gmail.com>
+Date:   Thu Apr 11 03:36:13 2019 +0000
+
+    harpia: Update xda thread
+
+[33mcommit 61399b34edb5a90685c428f13b25178842173f88[m
+Author: Akianonymus <anonymus.aki@gmail.com>
+Date:   Thu Apr 11 03:02:29 2019 +0000
+
+    harpia: Update April 11, 2k19
+
+[33mcommit de8f2691a598ee7f2d0abcfe5022d5b9fa2fc30d[m
+Merge: f1ddf71 d92a474
+Author: りﾉ刀の <35248094+dinosnore1@users.noreply.github.com>
+Date:   Wed Apr 10 07:28:38 2019 +0530
+
+    Merge pull request #36 from ManoloRey/master
+    
+    update platina
+
+[33mcommit d92a4743af96eac834d89bd050ee15376b4f5af3[m
+Author: Manolo <33502654+ManoloRey@users.noreply.github.com>
+Date:   Tue Apr 9 20:24:23 2019 -0300
+
+    Create platina.md
+
+[33mcommit bd6d2518be2bc09408be32b9ee8c4f7de1c53692[m
+Author: Manolo <33502654+ManoloRey@users.noreply.github.com>
+Date:   Tue Apr 9 20:20:54 2019 -0300
+
+    welcome 4.1 platina
+
+[33mcommit f1ddf719aec11c3acf08cf015ec26cce5f43f722[m
+Author: amog787 <amoghmaiya@gmail.com>
+Date:   Tue Apr 9 20:41:19 2019 +0530
+
+    kenzo: April Update
+
+[33mcommit f530974b61f3226af776bb8063a1334cad1da3cd[m
+Author: Ded_Boi <dhanush911gtr@gmail.com>
+Date:   Tue Apr 9 12:29:54 2019 +0000
+
+    Security update
+    
+    - coz y tf not?
+
+[33mcommit 5a758613b32b5cca49eccbc6bd18303c1294d5dc[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Sun Apr 7 16:45:11 2019 -0400
+
+    Update Crosshatch and Blueline
+
+[33mcommit 0fc8c260504b4ba7a0eaa776e0fe6b8400248519[m
+Author: dinosnore1 <dino.yash0213@gmail.com>
+Date:   Sun Apr 7 16:03:38 2019 +0000
+
+    Quickphix update69
+
+[33mcommit 7904f39cbd7294733462e9ab827f26d7d2ba16a1[m
+Author: Sven <tribual@web.de>
+Date:   Sun Apr 7 16:18:31 2019 +0200
+
+    scorpio: update 07/04/2019
+
+[33mcommit c1f53f829b292b2d256a27dbc0937cd28a4d8b6f[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Sat Apr 6 21:44:51 2019 +0100
+
+    New build 06/04/2019
+
+[33mcommit 1d4e0356aa20e9a22c70faa1e061290affd3f3dd[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Sat Apr 6 21:34:05 2019 +0100
+
+    New build 06/04/2019
+
+[33mcommit ebbef322780bf42ba1c3a0b652b914a9a92dc4e1[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Sat Apr 6 21:32:30 2019 +0100
+
+    New build 06/04/2019
+
+[33mcommit 376e31a92a891bea8c7de4f96fd411fa2fb20c64[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Sat Apr 6 21:24:53 2019 +0100
+
+    New build 06/04/2019
+
+[33mcommit 19bcdd3693bae0e93b05275c33a86f5f35f661fd[m
+Author: Manolo <33502654+ManoloRey@users.noreply.github.com>
+Date:   Sat Apr 6 15:58:11 2019 -0300
+
+    Update Changelog vince.md
+
+[33mcommit f85dada4a76c8fe7c64469d7e104aef86aec4776[m
+Author: Manolo <33502654+ManoloRey@users.noreply.github.com>
+Date:   Sat Apr 6 15:49:54 2019 -0300
+
+    Update vince.md
+
+[33mcommit 73279d3650809e0c2725a07aa769566824576168[m
+Author: aswin7469 <aswinas7469@gmail.com>
+Date:   Sat Apr 6 15:46:20 2019 +0000
+
+    lets do april update for z2_plus
+
+[33mcommit 4de44d130125836a5107e429fa09257c1c673057[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Sat Apr 6 03:36:07 2019 -0400
+
+    Update Marlin, Crosshatch and Blueline for April and 4.1 hotfixes
+
+[33mcommit 11e20155ad26f48308e4f289a81cce43b7b04d71[m
+Author: りﾉ刀の <35248094+dinosnore1@users.noreply.github.com>
+Date:   Fri Apr 5 12:33:47 2019 +0530
+
+    Update beryllium.md
+
+[33mcommit 7a0a18dfef18025ef47cf0ddc26cc0e66a63e3d8[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Thu Apr 4 20:43:04 2019 -0500
+
+    derp my balls
+
+[33mcommit dca51cc571d132e8b606e710fef3cd351cba2bbd[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Thu Apr 4 20:41:27 2019 -0500
+
+    walleye: update
+
+[33mcommit 5aaa2fd00c285b1d3e219356c89310fb75978492[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Thu Apr 4 20:18:58 2019 +0000
+
+    taimen: update
+
+[33mcommit b1de54ad588edf836bb5750d8bf073a1d3577e9b[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Thu Apr 4 19:04:26 2019 +0200
+
+    Update j53gxx.
+
+[33mcommit 7e7320fc29d744cef0832e25eb8a86859a2eb868[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Thu Apr 4 18:45:50 2019 +0200
+
+    Update j5ltechn.
+
+[33mcommit d3ccaa36ff0317a17b5df0d0c79a4805b47c2b46[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Thu Apr 4 18:40:02 2019 +0200
+
+    Update j5lte.
+
+[33mcommit e60ff00ddfdf1ae9c3a9b5dcf9e2449750bacf7e[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Thu Apr 4 18:29:51 2019 +0200
+
+    Update j5nlte.
+
+[33mcommit 728cb9af3ab588629bc9aff26d9b4598f0737e57[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Thu Apr 4 12:29:38 2019 -0300
+
+    Let's update surnia for april patch
+
+[33mcommit 302f6d75f304d766066701c0773990b1ac04352a[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Thu Apr 4 17:38:05 2019 +0530
+
+    Changelog updated
+
+[33mcommit 90383ef636fbfaac462490010c433e3a85760d1c[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Thu Apr 4 17:31:33 2019 +0530
+
+    enchilada: Updating April patches
+
+[33mcommit 679712f2f4468e94db4c39376d17c83527801c80[m
+Author: IKGapirov <IKGapirov@gmail.com>
+Date:   Thu Apr 4 07:53:09 2019 +0200
+
+    Update Kltexx.md
+
+[33mcommit 31e411f999f0dea72d860101c9cfc9a4147cdebe[m
+Author: IKGapirov <IKGapirov@gmail.com>
+Date:   Thu Apr 4 07:48:43 2019 +0200
+
+    Update Kltexx.md
+
+[33mcommit 59c10ae7f5dead7ce131fd5438f7d444ad987345[m
+Author: jenslody <jens@jenslody.de>
+Date:   Wed Apr 3 12:51:12 2019 +0200
+
+    Update j5nlte.md
+
+[33mcommit ac33986728ed8a73418216dbd757f2985ced73d9[m
+Author: jenslody <jens@jenslody.de>
+Date:   Wed Apr 3 12:51:02 2019 +0200
+
+    Update j5ltechn.md
+
+[33mcommit 1e01adb563b84ec97088eb24eafbec62b1f6b17e[m
+Author: jenslody <jens@jenslody.de>
+Date:   Wed Apr 3 12:50:51 2019 +0200
+
+    Update j5lte.md
+
+[33mcommit fe32988dd93672001d9a63afb4ff58e398acf28b[m
+Author: jenslody <jens@jenslody.de>
+Date:   Wed Apr 3 12:50:40 2019 +0200
+
+    Update j53gxx.md
+
+[33mcommit b10516fa71c0c620ba4218cf9ee86e6a39ac3011[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Mon Apr 1 17:45:19 2019 +0200
+
+    Update kuntao.md
+
+[33mcommit 472885f2dd49995895611aaa81c49988375e3e2c[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Mon Apr 1 17:44:27 2019 +0200
+
+    Update kuntao.mk
+
+[33mcommit 637e1242844159d6b20136b1cf3d5a81b63e7e14[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Sun Mar 31 01:52:39 2019 -0400
+
+    Update Crosshatch and Blueline to 4.1
+
+[33mcommit b38470cd6cd3020c965e5965b8db3e4af37ceeca[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Sat Mar 30 21:55:02 2019 -0400
+
+    Update Marlin to 4.1
+
+[33mcommit 6197bea1840bc968a74f85834addef87732979bf[m
+Author: abhinav13 <abhinavgupta371@gmail.com>
+Date:   Sun Mar 31 01:41:44 2019 +0530
+
+    Welcome 4.1
+
+[33mcommit be152e678baf1335bce5265bd174b9e997e94f89[m
+Author: abhinav13 <abhinavgupta371@gmail.com>
+Date:   Sun Mar 31 01:40:17 2019 +0530
+
+    Welcome 4.1
+
+[33mcommit e04136fff1e9ca4f77d91ce3a34e2d81a8d31dd9[m
+Author: Manolo <33502654+ManoloRey@users.noreply.github.com>
+Date:   Sat Mar 30 14:34:46 2019 -0300
+
+    Update Changelog vince.md
+
+[33mcommit a18b61b9403bf84e6f737836e86508a1f0a7b1b4[m
+Author: Manolo <33502654+ManoloRey@users.noreply.github.com>
+Date:   Sat Mar 30 14:15:46 2019 -0300
+
+    Update vince.md
+
+[33mcommit 751ea4574ed04e3458a64b1f90118a4ba9ee4fc9[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Sat Mar 30 17:32:19 2019 +0100
+
+    Update jasmine_sprout.md
+
+[33mcommit ebfdc471a8db26fa9d1f87a25b9c58306d0d4b99[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Sat Mar 30 17:29:40 2019 +0100
+
+    Update jasmine_sprout.md
+
+[33mcommit 9d5bef94569c04af8ed1a28343cd4d8bbed87569[m
+Author: りﾉ刀の <35248094+dinosnore1@users.noreply.github.com>
+Date:   Sat Mar 30 21:05:37 2019 +0530
+
+    Update beryllium.md
+
+[33mcommit 0bc907b48a7720c054ef6caec92ab5087da73de0[m
+Author: aswin7469 <aswinas7469@gmail.com>
+Date:   Sat Mar 30 07:32:31 2019 +0000
+
+    lets do 4.1
+
+[33mcommit b4f06e63473efbc873d4fcaba4b526e835136df3[m
+Author: Ded_Boi <dhanush911gtr@gmail.com>
+Date:   Sat Mar 30 06:07:53 2019 +0000
+
+    4.1 Update
+
+[33mcommit 7aabd35f5efc416f9a789a6632a14f1cf1e193c1[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Fri Mar 29 20:46:27 2019 -0500
+
+    walleye: update
+
+[33mcommit 68ae6c9fb300561a77f2ed6130db8866bc9e6952[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Fri Mar 29 20:32:47 2019 -0500
+
+    taimen: update
+
+[33mcommit a9a1ffc2e714d3aabbbbe42ac47a6cb2bcc3c649[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Fri Mar 29 18:03:35 2019 +0000
+
+    Fix typo
+
+[33mcommit 3d588305680378e422945c8334da80f651224171[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Fri Mar 29 18:01:55 2019 +0000
+
+    New build 29/03/2019
+
+[33mcommit ec73c5b54671d955d49b1a377e8e39862c65536d[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Fri Mar 29 19:00:40 2019 +0100
+
+    Update changelogs for J5 (2015) devices.
+
+[33mcommit ac43b69a7500de1af01ac0fb815862560647ed67[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Fri Mar 29 17:57:04 2019 +0000
+
+    New Build 29/03/2019
+
+[33mcommit e27fcd924fa37e9a069caf9862f25979eed43662[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Fri Mar 29 17:45:43 2019 +0000
+
+    Fix formatting
+
+[33mcommit 880058ea1348bbf17d42191a2956d40781f4199a[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Fri Mar 29 17:45:01 2019 +0000
+
+    New build 29/03/2019
+
+[33mcommit 15a60f6ad8ce468a8a2ff5e25d82ba01f5c3739e[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Fri Mar 29 17:27:01 2019 +0000
+
+    New build 29/03/2019
+
+[33mcommit f16a3bcd7609326975230058dc0f2d781731da27[m
+Author: Sven <tribual@web.de>
+Date:   Fri Mar 29 16:16:14 2019 +0100
+
+    scorpio: 29/03/2019
+
+[33mcommit e13e81ba6c9d32994e22d311faabd3a0f85fafc4[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Fri Mar 29 20:19:40 2019 +0530
+
+    Update Changelog
+
+[33mcommit 69b924a15f77b8196d563916bee2ce8d5f36dca3[m
+Author: りﾉ刀の <35248094+dinosnore1@users.noreply.github.com>
+Date:   Fri Mar 29 20:12:20 2019 +0530
+
+    Update beryllium.md
+
+[33mcommit 4bca3031222df1741b07776419a1889aae9338d8[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Fri Mar 29 11:05:28 2019 -0300
+
+    Update surnia.md
+    
+    yipes, i didn't even had the newformat stuff
+
+[33mcommit 50bb377217f3bc20105bd02a807ec10bdf508fb7[m
+Author: りﾉ刀の <35248094+dinosnore1@users.noreply.github.com>
+Date:   Fri Mar 29 19:27:56 2019 +0530
+
+    Create beryllium.md
+
+[33mcommit 144999fbda1df60588be1117c9b6a64e08408055[m
+Author: りﾉ刀の <35248094+dinosnore1@users.noreply.github.com>
+Date:   Fri Mar 29 19:27:00 2019 +0530
+
+    Update beryllium.md
+
+[33mcommit 0ebe0019df1aa222362d84eda2b1de867124616c[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Fri Mar 29 19:15:31 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit 50fd9885f6c3b31165d10e82772115e19bda7c68[m
+Author: jenslody <jens@jenslody.de>
+Date:   Fri Mar 29 11:42:21 2019 +0100
+
+    Update j5nlte.md
+
+[33mcommit 167c7b12e044d1c53d42fc6620cf3ce76dc004ca[m
+Author: jenslody <jens@jenslody.de>
+Date:   Fri Mar 29 11:41:01 2019 +0100
+
+    Update j53gxx.md
+
+[33mcommit 5f6567bddf810c87c2f2a3409a26b083d55e0ef3[m
+Author: jenslody <jens@jenslody.de>
+Date:   Fri Mar 29 11:39:31 2019 +0100
+
+    Update j5ltechn.md
+
+[33mcommit 300886a9ceaaffc72d05f51ee9ca94dfa9581c25[m
+Author: jenslody <jens@jenslody.de>
+Date:   Fri Mar 29 11:37:44 2019 +0100
+
+    Update j5lte.md
+
+[33mcommit ed9bc640e83f39311d442a56150d930e6502a9d3[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Sun Mar 24 17:02:47 2019 +0100
+
+    Update kuntao.md
+
+[33mcommit 6e32f825088b36a0a13d68d33700381fbd985d57[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Sun Mar 24 16:51:13 2019 +0100
+
+    Update kuntao
+
+[33mcommit cb7c01adc38bb00a4db36a98979cbbb6f0bbbe0e[m
+Author: Manolo <33502654+ManoloRey@users.noreply.github.com>
+Date:   Tue Mar 19 21:12:19 2019 -0300
+
+    Update vince.md
+
+[33mcommit 0f647892631969cb11994cc5556099dcb27f0953[m
+Author: Manolo <33502654+ManoloRey@users.noreply.github.com>
+Date:   Tue Mar 19 21:09:19 2019 -0300
+
+    vince: Changelog
+
+[33mcommit 59c1b4de996d359d9930fff741f7e8f109fa280b[m
+Author: Sven <tribual@web.de>
+Date:   Mon Mar 18 16:04:50 2019 +0100
+
+    scorpio: fix derp
+
+[33mcommit 2d72aea84ebb2ee217ee748296d80ec42a3760b3[m
+Author: Sven <tribual@web.de>
+Date:   Mon Mar 18 15:59:49 2019 +0100
+
+    scorpio: update 18/03/2019
+
+[33mcommit 6aceeb272f6bc7d7b63366fef5e1ef899ecb93b7[m
+Author: Sven <tribual@web.de>
+Date:   Mon Mar 18 15:59:45 2019 +0100
+
+    scorpio: update 18/03/2019
+
+[33mcommit af753eb8f50746ca80d0a347fbbbd8a0c6c9eb76[m
+Author: amog787 <amoghmaiya@gmail.com>
+Date:   Sat Mar 16 22:52:46 2019 +0530
+
+    kenzo: CHangelog
+
+[33mcommit e9313d37465aec9cd9a6525f6a00308aa2f60989[m
+Author: Amogha Maiya <amoghmaiya@gmail.com>
+Date:   Sat Mar 16 22:36:10 2019 +0530
+
+    Update kenzo
+
+[33mcommit 745f41f2022c2ce199cc5b2652b6cb1bbd10f612[m
+Author: aswin7469 <aswinas7469@gmail.com>
+Date:   Thu Mar 14 04:19:07 2019 +0000
+
+    march update for z2_plus
+
+[33mcommit a4271ba5723128932af4bcb14b9ba5a7eb401d2f[m
+Merge: d5da0d6 027453f
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Mon Mar 11 19:50:43 2019 +0100
+
+    Merge pull request #30 from Fullbustah/patch-1
+    
+    Update jasmine_sprout.md
+
+[33mcommit d5da0d6ac5089c629208b6deeb92d7c4c65697c0[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Mon Mar 11 16:09:50 2019 +0100
+
+    Update jasmine_sprout.md
+
+[33mcommit 027453f750f855a1919f41022f5ed3b0ffeaca25[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Mon Mar 11 16:09:38 2019 +0100
+
+    Update jasmine_sprout.md
+
+[33mcommit 0da118b0dd186c9b630122d28446171f4e9cc534[m
+Author: Ikrom Gapirov <IKGapirov@gmail.com>
+Date:   Sun Mar 10 22:14:47 2019 +0500
+
+    Add changelog for kltexx
+
+[33mcommit 10bf8bce465f551bcc48e605007ee1c01ffe5195[m
+Author: Ikrom Gapirov <IKGapirov@gmail.com>
+Date:   Sun Mar 10 18:27:57 2019 +0500
+
+    Add kltexx
+
+[33mcommit 50d8b1c1f8ff7b9c8bf285f31e94717ef23a05e7[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Mon Mar 11 03:29:22 2019 +0100
+
+    Add kuntao (#28)
+    
+    * Add kuntao
+    Make kuntao great again!
+    
+    * Update kuntao.md
+
+[33mcommit 14f2b9ad63f64f8a1418e6ab0ca74f4d45bea3c5[m
+Author: shagbag913 <sh4gbag913@gmail.com>
+Date:   Sun Mar 10 11:35:29 2019 -0400
+
+    marlin: update 3/10/19
+    
+    Signed-off-by: shagbag913 <sh4gbag913@gmail.com>
+
+[33mcommit 8feb1038059b35155bf02c8debb3a40922a6b2f7[m
+Author: wrongway213 <tropeazy@gmail.com>
+Date:   Sun Mar 10 09:21:37 2019 -0400
+
+    dumpling: Update build, add changelog and update to new XDA thread
+
+[33mcommit 228ce2b974d79c0652b0aae999f06852c9ef4a6b[m
+Author: wrongway213 <tropeazy@gmail.com>
+Date:   Sun Mar 10 07:32:28 2019 -0400
+
+    cheeseburger: Update build and add changelog
+
+[33mcommit 25bf271dace7785e5a4f15bd9af69e7acc532cc1[m
+Author: merothh <merothh@gmail.com>
+Date:   Sun Mar 10 14:47:08 2019 +0530
+
+    mido: Push 4.0-6
+
+[33mcommit d90332cb2b1d8776a15cf2e46698444863f0d888[m
+Author: merothh <merothh@gmail.com>
+Date:   Sat Mar 9 16:21:53 2019 +0530
+
+    mido: Push 4.0-5
+
+[33mcommit 2624c81f19107e02f33e2ef03b95420dfe0c8c43[m
+Author: shagbag913 <sh4gbag913@gmail.com>
+Date:   Thu Mar 7 20:15:19 2019 -0500
+
+    sailfish: update to 3/7/19
+    
+    Signed-off-by: shagbag913 <sh4gbag913@gmail.com>
+
+[33mcommit 56f9ec7c99c472b13aca5794d3478e45dc32945c[m
+Author: Manolo <33502654+ManoloRey@users.noreply.github.com>
+Date:   Thu Mar 7 22:07:16 2019 -0300
+
+    add platina
+
+[33mcommit d6373022d456451761d801ab62ab65e2cb14fa86[m
+Author: Manolo <33502654+ManoloRey@users.noreply.github.com>
+Date:   Thu Mar 7 22:06:01 2019 -0300
+
+    add vince
+
+[33mcommit 4cddf08a68db39120915cd94c44aeefa9a8d78d6[m
+Author: Sven <tribual@web.de>
+Date:   Thu Mar 7 16:12:59 2019 +0100
+
+    scorpio: update changelog
+
+[33mcommit a85887e89721332a2d4c7f5535128e9f844ef8b5[m
+Author: Sven <tribual@web.de>
+Date:   Thu Mar 7 16:08:15 2019 +0100
+
+    scorpio: update build
+
+[33mcommit 0251c0a1cdcc449baa74114fe756f292d9a4dc71[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Thu Mar 7 14:29:51 2019 +0000
+
+    walleye: update
+
+[33mcommit df01ccf80738ea4718611291822207c316744e32[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Thu Mar 7 14:25:55 2019 +0000
+
+    taimen: update
+
+[33mcommit 6096a82ac41292eb2f14195d66c624d0ee532636[m
+Author: AyanC1 <choudhury.ayan13@gmail.com>
+Date:   Thu Mar 7 10:46:51 2019 +0530
+
+    enchilada: Update it
+
+[33mcommit 3f3fe62b72c54363de5534358f247429bfb06001[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Thu Mar 7 00:00:17 2019 +0100
+
+    Fix date layuot of J5 changelogs for smaller devices.
+
+[33mcommit 4eebb70f38e1db7272c2fc431f3a024fc74b52a2[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Wed Mar 6 23:49:55 2019 +0100
+
+    Added changelogs for J5 devices.
+
+[33mcommit 3d610eff9f03bf8a04676a86df4ebcf16c5e3d66[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Wed Mar 6 22:38:40 2019 +0100
+
+    Update for J5 devices.
+
+[33mcommit e9e406349f3e2259252f80031eb62debc6f21195[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Thu Mar 7 00:03:29 2019 +0530
+
+    enchilada: Update the changelog
+
+[33mcommit 3cd3a55fd6c22cc54e3f37ea9b02c2c3ab177ee6[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Tue Mar 5 16:37:11 2019 +0000
+
+    dumpling/cheesy: Fix formt and adapt to new format
+
+[33mcommit bdecb90bc86818145b20179ef9c64f6791ee7a4d[m
+Author: wrongway213 <tropeazy@gmail.com>
+Date:   Tue Mar 5 04:14:43 2019 -0500
+
+    Add Cheeseburger and Dumpling
+
+[33mcommit 2928f9c437c5bf4006b7191cb37eb85899829df9[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Mon Mar 4 22:41:35 2019 +0000
+
+    Add changelog for hero2lte
+
+[33mcommit 71c50493bc0c97926f44b5950dec10ea26b40df6[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Mon Mar 4 22:40:37 2019 +0000
+
+    Update hero2lte
+
+[33mcommit abd301c89bd5cb4240d512707aa4d195b6029d0f[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Mon Mar 4 22:24:06 2019 +0000
+
+    Correct date
+
+[33mcommit 9a38c7bd8a5570973176afe751a7779ca3daa41e[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Mon Mar 4 22:22:50 2019 +0000
+
+    Add changelog for herolte
+
+[33mcommit 1251a7848184fcf6953db07f9448efb5e6c9a3df[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Mon Mar 4 22:16:45 2019 +0000
+
+    Update herolte
+
+[33mcommit 30675d9bd571524e08544a775192548631e25ea1[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Sun Mar 3 11:04:44 2019 +0100
+
+    Update jasmine_sprout
+    apparently "jasmine" is some crappy zte device, so moving to proper name
+
+[33mcommit 72f7520951bd6a7e0e4bc8b8c3260355cf1da9a7[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Fri Mar 1 18:52:26 2019 +0000
+
+    Add S7
+
+[33mcommit eaf624fae0d51bf4905ca44402b015714d1298d2[m
+Author: Gibran Mather <39566883+gibranmather@users.noreply.github.com>
+Date:   Sat Mar 2 00:55:32 2019 +0000
+
+    Add S7 Edge
+
+[33mcommit 136799caeab9ac0bbb96a701154e36ad00a127be[m
+Author: abhinavgupta371 <abhinavgupta371@gmail.com>
+Date:   Fri Mar 1 18:38:16 2019 +0530
+
+    Update tissot
+
+[33mcommit 3c18f0c47356832eb9b8bd2f340782fc1a8eca87[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Fri Mar 1 01:58:14 2019 +0000
+
+    devices.json: Add a download folder dir generator
+    
+    This is for adding the device folder list
+
+[33mcommit 0d91b9aa03fe049d424591df215c0334fc49437b[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Thu Feb 28 13:51:40 2019 -0300
+
+    begone helium
+
+[33mcommit 2d6d2b339c70392ec8aa5fb702f4ee8fd3369aac[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Thu Feb 28 13:51:14 2019 -0300
+
+    begone hydrogen
+
+[33mcommit ad748359cbe2203247571812e3d2af8685f71e5c[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Thu Feb 28 12:30:11 2019 -0300
+
+    Small funny update for surnia to make github build
+
+[33mcommit e36762d3e01bedad5364a30475227ec5b2d18bb8[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Thu Feb 28 06:53:49 2019 -0500
+
+    Update Crosshatch
+
+[33mcommit b5e8ee1bf1f3161cf4494de6934f03ed036ade47[m
+Author: Sven <tribual@web.de>
+Date:   Thu Feb 28 10:49:51 2019 +0100
+
+    scorpio: update build
+
+[33mcommit 1f0215652f71f10708d7ca28df40698555c0295b[m
+Author: Sven <tribual@web.de>
+Date:   Thu Feb 28 10:46:05 2019 +0100
+
+    scorpio: update changelog
+
+[33mcommit 7cc09786efbec75da86a8428bd2ccb2008cf60fe[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Thu Feb 28 00:43:14 2019 +0530
+
+    For the last time
+    
+    I have finally fixed the stuff and it should work henceforth sorry for the pings thank you!! :)
+
+[33mcommit 27138d1092496727767fa36f15eb047a5209622a[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Thu Feb 28 00:20:17 2019 +0530
+
+    Update the changelog
+
+[33mcommit dc059509203d4d600663c826cdfd89af32442843[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Wed Feb 27 19:32:17 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit d315324aa3a0914469d60c200bbd42e1e8ff8a66[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Wed Feb 27 18:53:06 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit 7529944022634b94229bf36b6a34f3a118875889[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Tue Feb 26 16:04:07 2019 -0500
+
+    Update Marlin
+
+[33mcommit dcd89c7cba17303d94fa67aa78ea8cd844eae40b[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Tue Feb 26 21:59:05 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit 79de21a24fcd5591efae6489bec9e0d94fc3921e[m
+Author: AyanC1 <choudhury.ayan13@gmail.com>
+Date:   Tue Feb 26 15:13:59 2019 +0530
+
+    Revert "Revert "Update enchilada.md""
+    
+    This reverts commit beea7302adb9f6ce8b8124489913a3888e0d2ed3.
+
+[33mcommit beea7302adb9f6ce8b8124489913a3888e0d2ed3[m
+Author: AyanC1 <choudhury.ayan13@gmail.com>
+Date:   Tue Feb 26 14:31:36 2019 +0530
+
+    Revert "Update enchilada.md"
+    
+    This reverts commit 2cc0efc84bd0c98cc03ead55c2ac367a4cd55aac.
+
+[33mcommit 2cc0efc84bd0c98cc03ead55c2ac367a4cd55aac[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Tue Feb 26 13:37:52 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit 3be51142e2cf813947c566b9192123cb8584e99b[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Tue Feb 26 13:36:19 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit 922fc1d49e4d053a931aec87404cabb297fca47b[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Tue Feb 26 13:35:11 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit dcb3ea4b23b47951a81c54a2fbd2c05cc0405e6b[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Tue Feb 26 12:47:24 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit b60617bba3160ad2e6957a7d22b0c924ddc121c2[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Tue Feb 26 12:42:52 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit 5850308aab30babfbe6bdbc8879cad6ab5c1e4ce[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Tue Feb 26 01:19:43 2019 +0000
+
+    Devices: Let's see to show actual MB sizes
+
+[33mcommit 11e10abc9b6806d9e4871d595013e6822f94744c[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Mon Feb 25 23:24:59 2019 +0000
+
+    Devices: Add changelog button
+
+[33mcommit 403f406969839b48a9b3da2da28dd2b60af904c4[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Mon Feb 25 13:36:52 2019 -0300
+
+    The device with the w that took the L
+    
+    * drop whyred
+
+[33mcommit 634d43d52d8af7f12587957203d0d061e7353b53[m
+Author: Sven <tribual@web.de>
+Date:   Mon Feb 25 13:10:06 2019 +0100
+
+    hopefully correct changelog
+
+[33mcommit a7e5ad2afa0a07fb85264a808f274f8d90ae36da[m
+Author: Sven <tribual@web.de>
+Date:   Mon Feb 25 13:07:01 2019 +0100
+
+    Update scorpio.md
+
+[33mcommit 20c54fa7c67cee9ac4be3ddc434ec5f03eb16fd3[m
+Author: Sven <tribual@web.de>
+Date:   Mon Feb 25 13:00:17 2019 +0100
+
+    fix derp
+
+[33mcommit cb3aca502cfe3a79cc691ffa2bfc023cf8f82dd6[m
+Author: Sven <tribual@web.de>
+Date:   Mon Feb 25 12:59:01 2019 +0100
+
+    update scorpio
+
+[33mcommit 01f9d89abad89398db86561d0ec1ed4672edba43[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sat Feb 23 14:57:16 2019 +0100
+
+    Update whyred.md
+
+[33mcommit 8b9cf042ebb9ce7afc0bc160c2eb581d05354b52[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sat Feb 23 14:54:35 2019 +0100
+
+    Update whyred.md
+
+[33mcommit 7bfc2ba1deafa2b15da038f6ff2bacbe5cb53971[m
+Author: Aswin A S <aswinas7469@gmail.com>
+Date:   Fri Feb 22 23:35:54 2019 +0530
+
+    Update z2_plus.md
+
+[33mcommit bc03f9cc4ee9c3e7d637ff3c00fe96e6e8d2833d[m
+Author: Aswin A S <aswinas7469@gmail.com>
+Date:   Fri Feb 22 23:34:20 2019 +0530
+
+    Update z2_plus.md
+
+[33mcommit 192fc16711c09cdf2394b936bcc69e5a0e6041ce[m
+Author: Aswin A S <aswinas7469@gmail.com>
+Date:   Fri Feb 22 23:32:22 2019 +0530
+
+    Add files via upload
+
+[33mcommit 1fe0560fa3c3327038a88aba9114b303888c386c[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Thu Feb 21 17:32:18 2019 -0500
+
+    Update Crosshatch and Blueline
+
+[33mcommit 40fdcb822f2d57e6b25e896e28c6985c4dd23222[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Wed Feb 20 23:11:17 2019 -0500
+
+    Revert "Update Crosshatch and Blueline"
+    
+    This reverts commit 1ffe253c76b19bf4a7aa9d877cdce5635b67c53d.
+
+[33mcommit 1ffe253c76b19bf4a7aa9d877cdce5635b67c53d[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Wed Feb 20 23:02:41 2019 -0500
+
+    Update Crosshatch and Blueline
+
+[33mcommit b4a6717ad48d3c601213e2d74b822767a4640743[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Wed Feb 20 18:06:22 2019 -0500
+
+    Update Marlin
+
+[33mcommit bdb56ba968bc24e2badcacad76538dc51a37f695[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Tue Feb 19 20:25:32 2019 -0500
+
+    Update Blueline
+
+[33mcommit dc7da9a437e3f662a1da5ed20295734b62b146f6[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Tue Feb 19 13:06:55 2019 -0500
+
+    Add changelog for Marlin, Blueline and crosshatch
+
+[33mcommit 73f0e35130b4302ca28caf039c66be2f4095c69f[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Tue Feb 19 12:18:13 2019 -0500
+
+    Add Blueline and Crosshatch
+
+[33mcommit de7d56d3cc92c1e97e712b1234e35c9fd0aacf19[m
+Merge: e3e1997 a59df8a
+Author: Steven <stevn4127@gmail.com>
+Date:   Mon Feb 18 16:45:58 2019 -0500
+
+    Merge pull request #22 from stebomurkn420/master
+    
+    newformat: true
+
+[33mcommit a59df8aa0fea7825ba2d6177e169258cd4443442[m
+Merge: 91d1694 796d23b
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Mon Feb 18 16:44:00 2019 -0500
+
+    Merge branch 'master' of https://github.com/stebomurkn420/BootleggersROM-Devices.github.io
+
+[33mcommit 91d16943ce1eafec5d2a903d187818e2a6eb0c59[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Mon Feb 18 16:43:17 2019 -0500
+
+    cmon maaaaaannn
+
+[33mcommit 796d23b4ec234e05ebb7354ee6532815070ff62e[m
+Merge: 8482f4e e3e1997
+Author: Steven <stevn4127@gmail.com>
+Date:   Mon Feb 18 16:39:12 2019 -0500
+
+    Merge branch 'master' into master
+
+[33mcommit e3e1997af488177686f9509686571596c3c254bc[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Mon Feb 18 16:32:22 2019 -0500
+
+    Update Marlin
+
+[33mcommit 8482f4e9e8dd28835f3c52fd0a42a3712be7284b[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Mon Feb 18 16:36:41 2019 -0500
+
+    newformat: true
+
+[33mcommit 5ec7340675246fc7b5b62a5754c62c155500cce9[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Mon Feb 18 16:32:22 2019 -0500
+
+    Update Marlin
+
+[33mcommit 474429c57430cd1a97a65a874cfb6b1a1fdcd127[m
+Merge: 26660ee 6de7602
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Fri Feb 15 23:58:31 2019 +0530
+
+    Merge pull request #19 from malinathani/master
+    
+    for the safety
+
+[33mcommit 6de760200b109ae6c08d574bad233a3acd70b495[m
+Author: malinathani <alinathani786@gmail.com>
+Date:   Fri Feb 15 23:54:35 2019 +0530
+
+    Revert "Update fajita.md"
+    
+    This reverts commit 4355ba7491215953acc004b88663a38f3a1c3692.
+
+[33mcommit d6c298ad470e79303787b2299e03a5a4ee3bb986[m
+Author: malinathani <alinathani786@gmail.com>
+Date:   Fri Feb 15 23:54:22 2019 +0530
+
+    Revert "Update fajita.md"
+    
+    This reverts commit 634c11b0ecd6b4e5ae48cb21f76ad47088b989fe.
+
+[33mcommit 26660eeafa0bd67d440f1fcc7500c18c8338632a[m
+Merge: 349457d 4355ba7
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Fri Feb 15 23:33:32 2019 +0530
+
+    Merge pull request #18 from malinathani/master
+    
+    Sur plis
+
+[33mcommit 4355ba7491215953acc004b88663a38f3a1c3692[m
+Author: malinathani <alinathani786@gmail.com>
+Date:   Fri Feb 15 23:28:41 2019 +0530
+
+    Update fajita.md
+
+[33mcommit 634c11b0ecd6b4e5ae48cb21f76ad47088b989fe[m
+Author: malinathani <alinathani786@gmail.com>
+Date:   Fri Feb 15 23:14:33 2019 +0530
+
+    Update fajita.md
+
+[33mcommit 349457dc041a587a88cb886c7f27584da6b1e63e[m
+Author: Ded_Boi <dhanush911gtr@gmail.com>
+Date:   Fri Feb 15 14:59:54 2019 +0100
+
+    op3: Hotfix
+
+[33mcommit a3f25093831c4a25cb11d652017ade5b5c5bcd12[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Fri Feb 15 07:24:53 2019 +0100
+
+    Update whyred.md
+
+[33mcommit 2d3c0652bf9f2c1366c5cf6cfd48989b569b234e[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Fri Feb 15 07:13:22 2019 +0100
+
+    Update whyred.md
+
+[33mcommit e259802dd4e5bc6cde1bc828c339810a27538041[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Fri Feb 15 06:08:11 2019 +0100
+
+    Update J5 (2015) devices
+
+[33mcommit 665660de2ca1f354d2fc2f8125e7f84e28b1020f[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Thu Feb 14 20:53:47 2019 +0530
+
+    Revert "Update enchilada.md"
+    
+    This reverts commit 58b3227623fa615b4f4ec3404bb7b6f32c624191.
+
+[33mcommit 54fc099c5ad9bb20fe80ebfd989ac0d3af8b923e[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Thu Feb 14 20:53:35 2019 +0530
+
+    Revert "Update enchilada.md"
+    
+    This reverts commit 8519aa337698b49335f62ac725208a4c21e3384c.
+
+[33mcommit 58b3227623fa615b4f4ec3404bb7b6f32c624191[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Thu Feb 14 19:47:31 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit 8519aa337698b49335f62ac725208a4c21e3384c[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Thu Feb 14 19:45:54 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit 11e1817436105d1af3da586761758753ceffa370[m
+Author: merothh <merothh@gmail.com>
+Date:   Wed Feb 13 10:38:02 2019 +0530
+
+    mido: Push 4.0-4
+    
+    * also update the maintainers while we are at it, since Vitor is no longer maintaining.
+
+[33mcommit 28160aae4787e07a431740b2444f26da6c748727[m
+Author: shagbag913 <sh4gbag913@gmail.com>
+Date:   Tue Feb 12 21:51:34 2019 -0500
+
+    sailfish: update 2/12/19
+    
+    Signed-off-by: shagbag913 <sh4gbag913@gmail.com>
+
+[33mcommit 84f3d6ceb9981d95c3a901a4cada08fab190c6c9[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Sun Feb 10 17:18:14 2019 +0000
+
+    devices: drop 3 devices
+    
+    blueline/crosshatch by squid
+    osprey by subinsmani
+
+[33mcommit ead241258196d4c1df88b896d3b194935050fe7d[m
+Author: Ded_Boi <dhanush911gtr@gmail.com>
+Date:   Sat Feb 9 15:25:32 2019 +0100
+
+    Its in bytes, you moron
+
+[33mcommit 4e34d4f3c49cb0bd0b5db13b5b0c64ae7a880e7e[m
+Author: Ded_Boi <dhanush911gtr@gmail.com>
+Date:   Sat Feb 9 15:14:41 2019 +0100
+
+    Despacito 2
+
+[33mcommit 6a51d16d9e4f6b050f6fa071e3585fed773577a2[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sat Feb 9 15:07:47 2019 +0100
+
+    Update whyred.md
+
+[33mcommit 060f41a6ca8773108dbd971d650ca669e1cf9950[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sat Feb 9 15:07:21 2019 +0100
+
+    Hotfix Update4whyred
+
+[33mcommit 6e3f1d817df8970d8e51bd2b0aa6efe1a88bff87[m
+Author: Ded_Boi <dhanush911gtr@gmail.com>
+Date:   Sat Feb 9 15:03:04 2019 +0100
+
+    Update oneplus3
+
+[33mcommit aea3e0aab2558025e58e1208bb81e8af6dba5a98[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Fri Feb 8 21:52:20 2019 -0300
+
+    Un-formatify
+    
+    Let's make it simpler to pick it from our file
+
+[33mcommit dd1525849492253b14b6a17dcb134b823582c2e0[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Fri Feb 8 21:50:10 2019 -0300
+
+    surnialog: Let's markdown the heck out of it
+
+[33mcommit 01b91e7d4652d2c8c18cf59b42652dcdbad7accb[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Fri Feb 8 21:47:24 2019 -0300
+
+    Update surnia.md
+
+[33mcommit fa973f6e07cf6504110afd8ae7fb5260eb10f3a8[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Fri Feb 8 21:45:21 2019 -0300
+
+    sailfishlog: Let's remove everything extra
+    
+    let's make it clean for the ######
+
+[33mcommit d08703dc2a804aca09516bd3a04d3032540add56[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Fri Feb 8 19:10:29 2019 +0100
+
+    Update Changelog4whyred
+
+[33mcommit db4f82de5c87013c167f822fde7cc7caca3ff83a[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Fri Feb 8 19:09:24 2019 +0100
+
+    Update whyred.md
+
+[33mcommit 37108536e624fae0f4c9e5f0f2f763ff1f1e52e3[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Fri Feb 8 19:05:40 2019 +0100
+
+    Create whyred.md
+
+[33mcommit 6cb2d1196608c6da19182401939544bd463c0b5d[m
+Merge: 9af6217 d66e82c
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Fri Feb 8 22:43:01 2019 +0530
+
+    Merge pull request #17 from malinathani/master
+    
+    fajita: make some room for the boi
+
+[33mcommit d66e82c1583e0977911f8dca7284757f9e88e173[m
+Author: malinathani <alinathani786@gmail.com>
+Date:   Fri Feb 8 22:26:10 2019 +0530
+
+    fajita: make some room for the boi
+
+[33mcommit 9af62173d6bdc1fb1dadfdbe1f7724f11516e386[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Fri Feb 8 10:31:00 2019 +0530
+
+    Update tissot.md
+
+[33mcommit f818af157d958b776af68d3ddedd56304c31a0a9[m
+Merge: 9917f87 17721da
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Fri Feb 8 10:20:20 2019 +0530
+
+    Merge pull request #16 from Abhinavgupta371/master
+    
+    add tissot
+
+[33mcommit 17721da169bd4ddaaffe18d8da81308ecbc7df9b[m
+Author: abhinavgupta371 <abhinavgupta371@gmail.com>
+Date:   Fri Feb 8 09:59:01 2019 +0530
+
+    add tissot
+
+[33mcommit 9917f875f4863db60f8bd6c620c73c22ad644bfa[m
+Author: ShagBag913 <sh4gbag913@gmail.com>
+Date:   Thu Feb 7 23:25:05 2019 -0500
+
+    reeeeeeee
+
+[33mcommit 56da98ca4b5f55c8f226c554ca16e38c105b24ab[m
+Author: shagbag913 <sh4gbag913@gmail.com>
+Date:   Thu Feb 7 21:28:48 2019 -0500
+
+    sailfish: update yay
+    
+    Signed-off-by: shagbag913 <sh4gbag913@gmail.com>
+
+[33mcommit 4a2aca2910e2e029682871138bb19e9bee73712e[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Thu Feb 7 19:58:49 2019 -0600
+
+    new walleye build
+
+[33mcommit 430ac19e45d27c4a1e148ad15deace48ced54f2a[m
+Author: りﾉ刀の <35248094+dinosnore1@users.noreply.github.com>
+Date:   Thu Feb 7 21:56:36 2019 +0530
+
+    Time to update
+
+[33mcommit 505517ca7689dff9879568a3f48b2bc98ed84e6e[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Thu Feb 7 09:32:43 2019 -0600
+
+    this stunad derped
+
+[33mcommit 17808460211dafacb712ada9996c26f9156d1c34[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Thu Feb 7 09:28:24 2019 -0600
+
+    taimen: update
+
+[33mcommit de37e422d71cb950281e3e6a51b1e01b90ea7835[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Thu Feb 7 20:16:24 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit ea76d8f2958610ac139aba12d3c7eca7c95cd628[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Thu Feb 7 20:11:54 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit 6b97c7b1d25a0e54e993675ac0d717dbb54dd3a9[m
+Author: Sven <tribual@web.de>
+Date:   Thu Feb 7 11:22:05 2019 +0100
+
+    scorpio: update new build 07.02.2019 hopefully with OTA now
+    
+    hopefully i now got ShishuOTA included...
+
+[33mcommit 44dfe14bdaa8f282e214ade8f4e9d7a6d6ddc956[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Thu Feb 7 10:38:50 2019 +0100
+
+    Update j5ltechn and j53gxx
+
+[33mcommit 25cb9a2ba2ed2b01303d9ec800029baaba3ba2bd[m
+Author: Sven <tribual@web.de>
+Date:   Thu Feb 7 09:47:47 2019 +0100
+
+    scorpio: changelog build from 07.02.2019
+
+[33mcommit d331a643a61106532a812d806dcad64e7d1de762[m
+Author: Sven <tribual@web.de>
+Date:   Thu Feb 7 09:41:03 2019 +0100
+
+    scorpio: update new build 07.02.2018
+
+[33mcommit 86498f3bbb379510a59c0c4406ce48523f9850eb[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Thu Feb 7 12:30:04 2019 +0530
+
+    Add all existing changelog
+
+[33mcommit d3ccfd24b18bc5b5974d602c142f40f42c222ab2[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Thu Feb 7 07:46:00 2019 +0100
+
+    Update j5lte.
+
+[33mcommit 7c73476fe2a27e8dddd8bdf392fb1b3a8e6f2ab5[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Thu Feb 7 12:05:52 2019 +0530
+
+    enchilada: Use the new format
+
+[33mcommit c468bfc54aa66dbfc4cf90603090a70f2cac17e6[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Thu Feb 7 06:02:24 2019 +0000
+
+    devices api: optimize the mirror linking
+    
+    let's just make it the direct file url, for better usage
+
+[33mcommit 748612848561718250097162a91bba59d052a21e[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Thu Feb 7 06:56:54 2019 +0100
+
+    Update j5nlte.
+
+[33mcommit d8d93d73a45b3e2771d2eed92217331eeb201c72[m
+Author: Sven <tribual@web.de>
+Date:   Thu Feb 7 05:57:17 2019 +0100
+
+    scorpio: use new format
+
+[33mcommit 1349388137a2a319723b15672fdcbb16e471f144[m
+Author: ShagBag913 <sh4gbag913@gmail.com>
+Date:   Wed Feb 6 20:05:14 2019 -0500
+
+    marlin: use new format
+
+[33mcommit 1680d016ad8a82fd2847dad5273a92b71709dfca[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Thu Feb 7 00:54:11 2019 +0000
+
+    Devices: Add changelog section
+
+[33mcommit c541a93d94b9d602a4f2627bb622644d1b24d6bb[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Thu Feb 7 00:24:15 2019 +0000
+
+    Devices: Rework OTA
+    
+    For new updates, maintainers should put the following line: newformat: true to get their updates taken with the right date, else, it'll be
+    pre-generated just to avoid breaking, maybe?
+    
+    Also, maintainers can put a direct link on their servers or another faster provider in case that sourceforge fucking dies: if
+    directmirror: https://muhserver.io/volte/
+    is set, it'll get the following url to download the new build:
+    https://muhserver.io/volte/surnia/BootleggersROM4surnia-blablabla.zip
+
+[33mcommit 84bfad3e541c73939cde94c615f69c003fb9abf7[m
+Author: Sven <tribual@web.de>
+Date:   Tue Feb 5 10:05:47 2019 +0100
+
+    update 03
+
+[33mcommit 2dafa7cc04175bd19d607e7fd27b85a55bb2af4e[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Tue Feb 5 07:46:50 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit b4935c75260e7f8bd7f425d272dfbafb3a4a7819[m
+Author: Sven <tribual@web.de>
+Date:   Mon Feb 4 16:19:11 2019 +0100
+
+    update 02
+
+[33mcommit 75bc0f75a2588356ab8ed960be94d778d16700cb[m
+Author: Sven <tribual@web.de>
+Date:   Mon Feb 4 13:11:33 2019 +0100
+
+    update 01
+
+[33mcommit 06ee16f95506e72e81c2a0e0aa39ab3725bc9d9e[m
+Author: Sven <tribual@web.de>
+Date:   Mon Feb 4 13:02:36 2019 +0100
+
+    scorpio: first ota test
+
+[33mcommit c6bff1b76bfc32b5794841bf82d2128f847281c7[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Mon Feb 4 11:27:09 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit 49ee4322c4a36f2ddc70e3ad48743d7997de1807[m
+Author: ShagBag913 <sh4gbag913@gmail.com>
+Date:   Sun Feb 3 18:19:44 2019 -0500
+
+    Update sailfish.md
+
+[33mcommit 778440627663bf9dbc211c5ff682c6878f099e7a[m
+Author: ShagBag913 <sh4gbag913@gmail.com>
+Date:   Sun Feb 3 16:28:31 2019 -0500
+
+    Update sailfish.md
+
+[33mcommit 8fa795c2e87d208c39f2e9c74a3e9222e8bb47be[m
+Author: ShagBag913 <sh4gbag913@gmail.com>
+Date:   Sun Feb 3 16:26:44 2019 -0500
+
+    Update sailfish.md
+
+[33mcommit 0b95cfc335ae849c55719e3108cbe9a93ff8f42c[m
+Author: ShagBag913 <sh4gbag913@gmail.com>
+Date:   Sun Feb 3 15:54:20 2019 -0500
+
+    Update sailfish.md
+
+[33mcommit 1c212265afb4d05a23317e3282615d3a249f206e[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sun Feb 3 21:37:58 2019 +0100
+
+    whyded ota
+
+[33mcommit c21ec1dc5ff12889ad77dfdb99b1f6cea278743a[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sun Feb 3 20:43:00 2019 +0100
+
+    ota
+
+[33mcommit 2225a56923bfd6d8aff837944c7309a6b562d689[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sun Feb 3 12:33:34 2019 +0100
+
+    Update whyred.md
+
+[33mcommit ad3ef6baa8b924afe9af6fe2461ce58281475f9f[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sun Feb 3 12:32:11 2019 +0100
+
+    Update whyred.md
+
+[33mcommit b7fe5af0ebd63f768825cf8704b5c88e4cd5132d[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sun Feb 3 12:11:46 2019 +0100
+
+    Update whyred.md
+
+[33mcommit 13bd33e3efd33506027fa8a0338deacdcdbec3f0[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sun Feb 3 12:08:42 2019 +0100
+
+    Update whyred.md
+
+[33mcommit 9c3229f45e49e376f71ef68b58790b683e3d46f3[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sun Feb 3 12:05:03 2019 +0100
+
+    Update whyred.md
+
+[33mcommit bb964ed116b1286637d0fca6111ff51bb552231d[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sun Feb 3 12:02:07 2019 +0100
+
+    .
+
+[33mcommit 8c634fa579481ccfc3c5d8578abd0ff8a3ae875d[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sun Feb 3 12:00:26 2019 +0100
+
+    test
+
+[33mcommit 7208f37bb218eb89cba331fac055887f02fb7110[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sun Feb 3 11:53:54 2019 +0100
+
+    new Ota4whyred
+
+[33mcommit 38e7a1420e9c55b66d949aabafcce41ae89acfcd[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Sun Feb 3 10:37:05 2019 +0100
+
+    J5nlte: Groundhog Day
+
+[33mcommit 8d34591862a98df07eee58f8a9d4eb213776e948[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sun Feb 3 07:33:33 2019 +0100
+
+    Test again
+
+[33mcommit 1f1d19887a2bad5c895262232804039a1a0c928e[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Sun Feb 3 03:18:23 2019 -0300
+
+    layoutetst
+
+[33mcommit 54d6257d6b24c9ad1038c4be0d74bbdc74a7dbda[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Sun Feb 3 08:46:45 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit 9906947c6f44dbd11e6071daea1ab6e8825b8f0e[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Sat Feb 2 23:49:45 2019 -0300
+
+    Straight up final fam
+
+[33mcommit 62525328b1f62c4ac78cce6ad86a7cbf1d5fdc05[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sat Feb 2 20:50:55 2019 +0100
+
+    .
+
+[33mcommit ec05449615dd8dc3e17758c05f1dc4430caa40b2[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sat Feb 2 20:48:53 2019 +0100
+
+    Test
+
+[33mcommit 7c3e4463c4cf2394a58d9a60e4fe2eecaf84689d[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Sat Feb 2 20:41:39 2019 +0100
+
+    Update j5nlte.
+
+[33mcommit 573578e5d0263efe43f06dc28d2d60d195dacf9d[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sat Feb 2 20:31:24 2019 +0100
+
+    Test again Ota whyred
+
+[33mcommit 8111a684da271b2f1d9d01b95667a8c455da9cf8[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sat Feb 2 20:27:48 2019 +0100
+
+    Mistake
+
+[33mcommit de69ebc4959b36e403cefba42a98b5662300d57b[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sat Feb 2 19:21:37 2019 +0100
+
+    Test OTA4whyred
+
+[33mcommit 5c12b8bb489021b8fda27bd7fade45aec61251de[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sat Feb 2 19:19:20 2019 +0100
+
+    Test OTA again4whyred
+
+[33mcommit 7d8fd06472024c7f3a6cabed395bee6089f5986b[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Sat Feb 2 23:27:43 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit 94e5bec6914d28f60693204006a21649623e52fb[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sat Feb 2 16:28:12 2019 +0100
+
+    Testing v2 whyred
+
+[33mcommit ed4a454128abc2dfdd5940dd6d8de2583eece43f[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Sat Feb 2 12:22:24 2019 -0300
+
+    Let's c
+
+[33mcommit b3f6ebafe6a2afb07a3018ae5a194814c1309997[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Sat Feb 2 11:50:53 2019 -0300
+
+    Update surnia.md
+
+[33mcommit 2afa54b1a5ec1f286cc9b62ada4cc7a0c4ef7169[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Sat Feb 2 15:18:20 2019 +0100
+
+    whyred ota
+
+[33mcommit 4069572a3196eb07d57baa14e443e79586093a58[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Sat Feb 2 13:58:55 2019 +0100
+
+    J5nlte (otatest): try with later time, just 5 minutes does not work.
+
+[33mcommit 34ca7a27b5ef06a224de7e5a7264bdc1e7cba068[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Sat Feb 2 13:42:08 2019 +0100
+
+    Withoud words.
+
+[33mcommit a8e1c3c1fc867bd0886f2fc1fcdccd93b1cefb82[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Sat Feb 2 13:07:09 2019 +0100
+
+    J5nlte again.
+
+[33mcommit 7a14ef6f7989346409267abf23b5cdfdc8cf9ee9[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Sat Feb 2 10:38:18 2019 +0100
+
+    ANother update for j5nlte.
+    It seems to be too hard to coypasta
+
+[33mcommit 8fe555aaeb18a03c5d3bc9895f30f34f39da968c[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Sat Feb 2 10:35:46 2019 +0100
+
+    Update j5nlte ota-test.
+
+[33mcommit 29999c7a3d10f3fd5960ce8ee0354ca9b7f5c6a0[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Sat Feb 2 09:13:23 2019 +0100
+
+    Update j5nlte ota-test.
+
+[33mcommit cd2b5b1d03f020f2a0f1e6f2afda9ea42b0c0cfa[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Sat Feb 2 11:54:48 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit bce3ed176fe6eb85a97a2d348ad6ae43edc14c24[m
+Author: ShagBag913 <sh4gbag913@gmail.com>
+Date:   Fri Feb 1 20:09:41 2019 -0500
+
+    Update sailfish.md
+
+[33mcommit f21128c27bee65bbce7b93fb39af75a12fc1b8a4[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Fri Feb 1 20:33:59 2019 -0300
+
+    Let's take seconds into consideration
+
+[33mcommit b6215167574b7b2cf27c2cdd629c41b140e737d9[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Fri Feb 1 20:24:29 2019 -0300
+
+    Let's bring an update
+
+[33mcommit 91ef4c9b798e28bef7d033144d64ae98514a2730[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Fri Feb 1 23:29:04 2019 +0100
+
+    Testing Ota whyred
+
+[33mcommit 93a83b9c559d9d459dfd394041c938ba2a426bce[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Fri Feb 1 22:26:52 2019 +0100
+
+    update whyred.md
+
+[33mcommit 1f1f5a821f5f27159ad540e2a02bc2c7155492dd[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Fri Feb 1 22:23:07 2019 +0100
+
+    test whyred's ota
+
+[33mcommit 4d4e1880efa0097946db5f7a71ba93e8e3aad4a6[m
+Author: adi8900 <44721258+adi8900@users.noreply.github.com>
+Date:   Fri Feb 1 22:20:25 2019 +0100
+
+    test ota for whyred
+
+[33mcommit 59ddbae70b6e8e375db2175b88ab606676f19ffc[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Fri Feb 1 16:52:31 2019 -0300
+
+    Initial build with seconds
+
+[33mcommit 71b5d51366d897712ff38975736f8517296f5575[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Fri Feb 1 16:12:50 2019 -0300
+
+    so many triplets
+
+[33mcommit 1dbda1de2f4ba90a368021aaef528b4ec5cb6ee3[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Fri Feb 1 04:45:42 2019 -0300
+
+    test4me
+
+[33mcommit f9b8bf65f7b7bb1aab711f2237fb76b9dbc13047[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Fri Feb 1 10:52:05 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit 19f1992614ad3062cbca806c6e982297d2cc9af8[m
+Author: ShagBag913 <sh4gbag913@gmail.com>
+Date:   Wed Jan 30 15:56:15 2019 -0500
+
+    Update sailfish.md
+
+[33mcommit 6140a9979161f08bb0eee45d8d89674f31d58946[m
+Author: ShagBag913 <sh4gbag913@gmail.com>
+Date:   Wed Jan 30 13:16:53 2019 -0500
+
+    Update sailfish.md
+
+[33mcommit d6bf3a778c2d337b86c835d5da67afb64dc2d095[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Wed Jan 30 20:06:18 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit 3d422b6f3fa11827e5ebc426e930dd6e15536279[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Wed Jan 30 15:29:40 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit 6f498def741df911131eb63bf165258630114522[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Wed Jan 30 11:25:17 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit 288a0e06b70a9e1b50794059d251191fab29dfd3[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Wed Jan 30 06:24:49 2019 +0100
+
+    Test j5nlte ota.
+
+[33mcommit 6c16318a9d2a6c4c2a2cb4d32a3e24044cd6dae5[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Wed Jan 30 09:46:02 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit 3e550a159aeda6094d9835d14b43bdf72b66cf1a[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Wed Jan 30 06:48:32 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit 8646f21727838d8bd48cc2bcfafc33a3f37a8535[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Wed Jan 30 06:47:52 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit 79783a14293f321a9a39b6fe61fd1d784075f902[m
+Author: ShagBag913 <sh4gbag913@gmail.com>
+Date:   Tue Jan 29 20:16:19 2019 -0500
+
+    Update sailfish.md
+
+[33mcommit 38509164e23951a599c44d965a88853a6871b850[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Wed Jan 30 06:41:54 2019 +0530
+
+    Create enchilada.md
+
+[33mcommit eb260e11e74e1e8f7e7197e9361372c6f1066503[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Wed Jan 30 01:03:58 2019 +0000
+
+    final nitpick
+
+[33mcommit 5ae4b5176d45778cc48ef4bd8bc9d1b06de24c41[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Wed Jan 30 01:02:33 2019 +0000
+
+    another margin nitpick
+
+[33mcommit 03bf876a75be0378d00003d275af0c28c5965090[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Wed Jan 30 01:01:22 2019 +0000
+
+    unspacify
+
+[33mcommit 68eeb944cc1ada05d3a2c0178c129a32d0e9ee2a[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Tue Jan 29 21:55:27 2019 -0300
+
+    letstest.bmp
+
+[33mcommit 84f62dc4cb79d2403d89f0c5c2edba0ac1f6954f[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Wed Jan 30 00:50:39 2019 +0000
+
+    Let's check if it has time, else we'll lie
+
+[33mcommit db1d8a1cd3961bd08f89230e4c934abda1a550d8[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Tue Jan 29 16:47:50 2019 +0000
+
+    let's test by removing the clutter
+
+[33mcommit ccc790c0161bfdf0c768fa2dee05e678c2c077c0[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Tue Jan 29 16:19:30 2019 +0000
+
+    ok, the link is not epic
+
+[33mcommit 531f8a2f010f693babdeeda4faf3a14ae35e1901[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Tue Jan 29 13:12:41 2019 +0000
+
+    WIP: Let's add a time
+
+[33mcommit 1634e2bb91ceb4def4e21eeaa8559400842204d1[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Tue Jan 29 09:01:27 2019 -0300
+
+    um
+
+[33mcommit 8a6b193dbf7f8adec9ce8b84f1476e5c9bfff56a[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Mon Jan 28 23:06:19 2019 -0300
+
+    Can you please ignore this?
+
+[33mcommit 875d13c19eff4274b95bb1f51c369bed7daaaa79[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Tue Jan 29 00:32:28 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit 747ced351a4e5bca7ecb3827faf01ea1acfbe1e6[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Mon Jan 28 04:33:44 2019 +0000
+
+    add download id just to test
+
+[33mcommit 34b4a7a4034ee5a1eb40e204833ffa862976c174[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Mon Jan 28 03:40:35 2019 +0000
+
+    [TBR] Add OTA testing json
+
+[33mcommit bb67a0766bfe21d2af3c1fa17ea81d20942058d4[m
+Author: ShagBag913 <sh4gbag913@gmail.com>
+Date:   Sat Jan 26 10:48:36 2019 -0500
+
+    Sailfish: update 1/24
+
+[33mcommit 78dc613057aece80216a4213e4dc038a33e1b31f[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Tue Jan 22 08:47:15 2019 +0100
+
+    Fix J5 derp.
+
+[33mcommit e75539c40109ec8668ec0b755b1c5e22fdff9a6d[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Tue Jan 22 00:59:51 2019 +0100
+
+    Update J5 (2015) devices.
+
+[33mcommit 0f95e80158e5b89d40639a9fc29243798ca4259b[m
+Author: Julien T <perso.julien.terral@gmail.com>
+Date:   Mon Jan 21 12:52:44 2019 +0100
+
+    devices : Update Blueline informations
+
+[33mcommit fc7448cfacc327e7c2d999599a068f08a45ecac9[m
+Author: Julien T <perso.julien.terral@gmail.com>
+Date:   Mon Jan 21 11:40:24 2019 +0100
+
+    devices : Update Crosshatch informations
+
+[33mcommit e96245379d36224198865ea4c2beec838bb9f67b[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Sun Jan 20 21:59:42 2019 -0600
+
+    add walleye build
+
+[33mcommit ffc9b6e7c5eb7e7562b15d4961aa327ec0e9b23f[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Sun Jan 20 21:16:08 2019 +0000
+
+    devices: Let's add build date
+
+[33mcommit b0db9e6057ecc433e9a2d2d80874df3aea815e43[m
+Author: Sven <tribual@web.de>
+Date:   Sat Jan 19 14:26:52 2019 +0100
+
+    .new build 17.01.2019
+
+[33mcommit ac0d66287dea56cada58b5fa7b670c9e2aca22c2[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Thu Jan 17 15:24:11 2019 -0300
+
+    re-format cedric
+
+[33mcommit 66215ffc2badc2724a096543e57156941d8c4149[m
+Author: Henrique Tavares <45185835+HenriqueTc90@users.noreply.github.com>
+Date:   Thu Jan 17 16:21:26 2019 -0200
+
+    Create cedric.md (#12)
+    
+    * Create cedric.md
+    
+    =)
+    
+    * Fix typos
+
+[33mcommit 604f739171de6fa938844ba2a315ca57e22fa190[m
+Author: Ded_Boi <dhanush911gtr@gmail.com>
+Date:   Thu Jan 17 07:15:46 2019 +0530
+
+    Add oneplus3
+
+[33mcommit c397efa5670b80012b68268eefe4a8b1921be05d[m
+Author: Fullbustah <adam.melicharek@gmail.com>
+Date:   Thu Jan 17 19:19:24 2019 +0100
+
+    devices: add jasmine (#11)
+    
+    * devices: add jasmine
+    
+    * Update jasmine.md
+
+[33mcommit eb87bb26dd9fd23bf87e9b8dfb7e1f613075a73a[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Wed Jan 16 21:31:57 2019 -0600
+
+    new taimen build
+
+[33mcommit 050eeddfceada3c989367bcf8190a1d6106848a1[m
+Merge: afc2081 fb01724
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Wed Jan 16 22:00:20 2019 +0530
+
+    Merge pull request #14 from AyanC1/master
+    
+    Update enchilada.md
+
+[33mcommit fb01724eac0882ba195d25e70304191660f6d6c6[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Wed Jan 16 21:59:45 2019 +0530
+
+    Update enchilada.md
+
+[33mcommit afc208198da324ca2c39c90e05b9f15296be96e2[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Fri Jan 11 01:07:32 2019 +0100
+
+    Update J5 (2015) devices.
+
+[33mcommit ef28abd7da9929d6344206cf81e50bb4ef5519cd[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Wed Jan 9 19:41:19 2019 -0600
+
+    new taimen build
+
+[33mcommit d5815af545a4143e471b51bdb28fd0c94ddfa0b5[m
+Author: Dinesh <43177361+droideronline@users.noreply.github.com>
+Date:   Wed Jan 9 09:55:57 2019 -0800
+
+    Update land.md
+
+[33mcommit 899440725ca818f123dc1bf73c6ae8c4a0c58616[m
+Author: Hammered-Cannibal <hammeredcannibal@gmail.com>
+Date:   Wed Jan 9 17:31:11 2019 +0000
+
+    Add potter
+
+[33mcommit 6231d87c0a0b89e74af2c186d18efad28b8532b1[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Wed Jan 9 13:40:47 2019 +0000
+
+    new taimen build
+
+[33mcommit c3983186d55b6f89a6923407b952ed6c87f8f65f[m
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Wed Jan 9 13:20:17 2019 +0000
+
+    update for Enchilada
+
+[33mcommit 48a4861cf2dedd550786c5cc666201e7d149c3e6[m
+Author: Julien T <perso.julien.terral@gmail.com>
+Date:   Wed Jan 9 11:54:02 2019 +0100
+
+    devices : Update Blueline informations
+
+[33mcommit a7d424980b379c3ed043193afad44846215941c2[m
+Author: Julien T <perso.julien.terral@gmail.com>
+Date:   Wed Jan 9 11:53:37 2019 +0100
+
+    devices : Update Crosshatch informations
+
+[33mcommit 2e5728104fbe4fd203272de7ddada0bddbc92339[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Sun Jan 6 17:13:25 2019 +0100
+
+    Update J5 (2015) devices.
+
+[33mcommit 20c0f568fe312f2294ed5ed3135f63242bc52a4e[m
+Author: Sven <tribual@web.de>
+Date:   Sun Jan 6 10:10:40 2019 +0100
+
+    Update scorpio.md
+
+[33mcommit c19131349edd14173c3c1fc22abdfe4ccdc78140[m
+Author: Sven <tribual@web.de>
+Date:   Thu Jan 3 21:01:08 2019 +0100
+
+    Update from stinky to stable
+
+[33mcommit 74364a9595c194caf1fa657ac3c59fb76cb54e65[m
+Merge: c2c18b0 70f9287
+Author: Ayan Choudhury <choudhury.ayan13@gmail.com>
+Date:   Thu Jan 3 12:32:54 2019 +0530
+
+    Merge pull request #10 from sayan-tan/patch-2
+    
+    Update for Stable Release
+
+[33mcommit 70f92872cd4b574b9fe13fed1bd9673ec25e10b3[m
+Author: Sayantan Dasgupta <36020912+sayan-tan@users.noreply.github.com>
+Date:   Thu Jan 3 12:17:27 2019 +0530
+
+    Update for Stable Release
+
+[33mcommit c2c18b0c940feaa4f4fc5f2f5a59ab41265bee45[m
+Author: merothh <merothh@gmail.com>
+Date:   Thu Jan 3 12:11:50 2019 +0530
+
+    devices: add mido
+
+[33mcommit 6d644a02c56a5dd7db350803e1659a12b870e262[m
+Author: Julien T <perso.julien.terral@gmail.com>
+Date:   Wed Jan 2 14:02:08 2019 +0100
+
+    devices : Update Blueline informations
+
+[33mcommit 561c7c2ffc5517ed108adaaee399e30663b5051c[m
+Author: Julien T <perso.julien.terral@gmail.com>
+Date:   Wed Jan 2 10:56:16 2019 +0100
+
+    devices : Update Crosshatch informations
+
+[33mcommit f64c4b0e968b81efa0db5d1d1d95fe5b1d2bef58[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Tue Jan 1 22:30:24 2019 -0600
+
+    new walleye build
+
+[33mcommit 7305d9c0c49f0d82a2212f417813611e1250969d[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Tue Jan 1 19:24:26 2019 -0600
+
+    new taimen build
+
+[33mcommit 562f69894d2f20cb12f289fb4708d8394f8989c8[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Sun Dec 30 18:43:39 2018 -0300
+
+    Fix json parser
+
+[33mcommit bbb269ef6a8241b095182fcb51e56932ab1e9565[m
+Author: Julien T <perso.julien.terral@gmail.com>
+Date:   Sun Dec 30 15:45:14 2018 +0100
+
+    devices : Update Crosshatch informations
+
+[33mcommit 91d151e6c0edbd35daf484ee0e27ed7e9fbad2fb[m
+Author: Julien T <perso.julien.terral@gmail.com>
+Date:   Sun Dec 30 15:43:52 2018 +0100
+
+    devices : Update Blueline informations
+
+[33mcommit 5bd2c5ddfe95692da611599b13a0d49663f19de3[m
+Author: Aswin A S <aswinas7469@gmail.com>
+Date:   Sat Dec 29 21:33:27 2018 +0530
+
+    Update z2_plus.md
+
+[33mcommit 7d9f86de636d2c6c33b2a45c074512b6ea11b6a9[m
+Author: Dinesh <43177361+droideronline@users.noreply.github.com>
+Date:   Sat Dec 29 01:38:11 2018 -0800
+
+    Update land.md
+
+[33mcommit d89c359c97e94a2efceae260e78cf9ad2ff843e9[m
+Author: Jens Lody <jens@jenslody.de>
+Date:   Sat Dec 29 10:09:50 2018 +0100
+
+    Update J5 2015 devices.
+
+[33mcommit b2d1993ede46559a4fc9ba25c7c622d8617aa7b1[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Sat Dec 29 00:46:36 2018 -0600
+
+    welcome walleye
+
+[33mcommit 894c744b34273673df01365012f3ac6b283e505e[m
+Author: ShagBag913 <sh4gbag913@gmail.com>
+Date:   Sat Dec 29 00:29:52 2018 -0500
+
+    sailfish: new build
+
+[33mcommit 74f0250cdf33257fa70bd46d0c68f22a0aca53a8[m
+Merge: 1b98fe9 f339250
+Author: りﾉ刀の <35248094+dinosnore1@users.noreply.github.com>
+Date:   Sat Dec 29 08:47:01 2018 +0530
+
+    Merge pull request #9 from pranavaryans1987/patch-7
+    
+    Update helium.md
+
+[33mcommit 1b98fe98d80d8342547b13ecce06b6bbcf7d430d[m
+Merge: 38d033a 95c1b79
+Author: りﾉ刀の <35248094+dinosnore1@users.noreply.github.com>
+Date:   Sat Dec 29 08:46:22 2018 +0530
+
+    Merge pull request #8 from pranavaryans1987/patch-6
+    
+    Update hydrogen.md
+
+[33mcommit f33925043727c197f88a04955b14136c7cfd63a5[m
+Author: Pranav Trivedi <pranavaryans@gmail.com>
+Date:   Sat Dec 29 08:41:36 2018 +0530
+
+    Update helium.md
+
+[33mcommit 95c1b7940491511f6d5985f90e46dc393de56458[m
+Author: Pranav Trivedi <pranavaryans@gmail.com>
+Date:   Sat Dec 29 08:39:55 2018 +0530
+
+    Update hydrogen.md
+
+[33mcommit 38d033a652fc8083e3ffa1c37894b0d796b394c7[m
+Author: Squid7331 <perso.julien.terral@gmail.com>
+Date:   Sat Dec 29 01:11:16 2018 +0000
+
+    crosshatch: update informations
+
+[33mcommit 68a5a478673b173c2e81705c4597d098c9d4593f[m
+Author: Pranav Trivedi <pranavaryans@gmail.com>
+Date:   Fri Dec 28 12:29:05 2018 +0530
+
+    Update hydrogen.md
+
+[33mcommit f37e6d012fc38bf887bc935eba7bd65fc37aa998[m
+Author: Pranav Trivedi <pranavaryans@gmail.com>
+Date:   Fri Dec 28 12:41:22 2018 +0530
+
+    Create helium.md
+
+[33mcommit 55a87c77850adfc4123f0bc2675f67db1023701b[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Fri Dec 28 11:52:30 2018 -0600
+
+    new taimen build
+
+[33mcommit c5c4face0ef6d13321ba9054d632c457df121c6f[m
+Author: Pranav Trivedi <pranavaryans@gmail.com>
+Date:   Fri Dec 28 11:18:40 2018 +0530
+
+    Create hydrogen.md
+
+[33mcommit a1cba44cd1550215915bcc335da7b086548211c2[m
+Merge: 12f25f6 e10ae99
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Wed Dec 26 17:55:54 2018 -0300
+
+    Merge pull request #2 from stebomurkn420/master
+    
+    devices: add marlin to the roster
+
+[33mcommit e10ae990a38c7064a2664c6a5d2806ef598507b7[m
+Author: stebomurkn420 <stevn4127@gmail.com>
+Date:   Wed Dec 26 14:35:38 2018 -0500
+
+    devices: add marlin to the roster
+
+[33mcommit 12f25f6d62ba2fd839a17d8ba31098e16898e6a2[m
+Author: Squid7331 <perso.julien.terral@gmail.com>
+Date:   Mon Dec 24 14:58:07 2018 +0000
+
+    devices : change some blueline informations
+
+[33mcommit 994f08a23f73513dd3afd7ae6abaa769c0f60d41[m
+Author: Squid7331 <perso.julien.terral@gmail.com>
+Date:   Mon Dec 24 14:38:06 2018 +0000
+
+    Remove crosshatch save file
+
+[33mcommit 38e8771917240904ab164db9ab227666e9e2ce4f[m
+Author: Squid7331 <perso.julien.terral@gmail.com>
+Date:   Mon Dec 24 14:36:08 2018 +0000
+
+    devices : add blueline to the roster
+
+[33mcommit 2653a4e0e2c789e119f2c25f1b61acbc054a41b2[m
+Author: Squid7331 <perso.julien.terral@gmail.com>
+Date:   Sun Dec 23 17:30:53 2018 +0000
+
+    devices : add crosshatch to the roster
+
+[33mcommit 801128159b43f28639baf82ebb2d997e0b7889f8[m
+Merge: 9c34a5a 0c2fdf7
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Thu Dec 13 00:48:42 2018 -0300
+
+    Merge pull request #1 from aswin7469/patch-1
+    
+    Ship new update for z2_plus
+
+[33mcommit 0c2fdf74e3b7f04a6b108a747ae6157390c5c481[m
+Author: Aswin A S <aswinas7469@gmail.com>
+Date:   Thu Dec 13 08:30:30 2018 +0530
+
+    Update z2_plus.md
+
+[33mcommit 9c34a5a11bed9c894914b0641511dfe36df2a9e1[m
+Author: shagbag913 <sh4gbag913@gmail.com>
+Date:   Mon Dec 10 19:52:26 2018 -0500
+
+    devices: add sailfish to the roster :)
+    
+    Signed-off-by: shagbag913 <sh4gbag913@gmail.com>
+
+[33mcommit 79f924e4b181ad2771a2e344e87d8decc8fbf377[m
+Author: karthikkm007 <jacksparrow941994@gmail.com>
+Date:   Mon Dec 10 23:13:15 2018 +0530
+
+    Update Redmi 2 device
+    
+     * Build will be available when volte is ready
+    
+    Signed-off-by: karthikkm007 <jacksparrow941994@gmail.com>
+
+[33mcommit b8668e98021a46c3a31e0e8b0635dd99c660f065[m
+Author: slothdabski <allthatsleft169@gmail.com>
+Date:   Mon Dec 10 11:16:30 2018 -0600
+
+    new taimen build
+
+[33mcommit 02c012871dd2b4e1382d082ed0ad0c2e228ed360[m
+Author: ElDainosor <eldainosor@gmail.com>
+Date:   Mon Dec 10 15:50:29 2018 +0000
+
+    Initial devices list
