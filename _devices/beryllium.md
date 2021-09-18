@@ -1,7 +1,7 @@
 ---
 codename: beryllium
 fullname: POCO F1
-romversion: 4.4 Raven
+romversion: 4.6
 maintainer: Sadman Sakib Alam
 newformat: true
 pling: https://www.pling.com/p/1525763/
