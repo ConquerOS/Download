@@ -3,6 +3,17 @@ codename:vayu
 ---
 
 =====================
+    21 September 2021
+=====================
+Device Side Changelog:
+- Migrate to Xiaomi power AIDL HAL
+- Import powerhint json from coral
+- Using Chaldea Kernel (Compile with latest Proton Clang)
+- Kang SF phase offsets from coral
+- Fixed stuttering when opening apps
+- Update XiaomiParts
+
+=====================
     6 September 2021
 =====================
 
