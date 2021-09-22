@@ -1,6 +1,15 @@
 ---
 codename:violet
 ---
+
+=====================
+     22 Sept 2021
+=====================
+* Used latest source of vertigo kernel
+* Fixed audio issue with vertigo kernel
+* Other sepolicy Fixes
+
+
 =====================
      09 Aug 2021
 =====================
