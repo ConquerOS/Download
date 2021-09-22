@@ -3,6 +3,17 @@ codename:surya
 ---
 
 =====================
+  21 September 2021
+=====================
+Device Side Changelog:
+* Fixed stuttering when opening apps
+* overlay: Set 90 as default refresh rate
+* props: Disable metadata dynamic_fps
+* BoardConfig: Set arch variant to armv8-2a
+* Import hotword enrollment blobs
+* Etc
+
+=====================
   12 September 2021
 =====================
 
