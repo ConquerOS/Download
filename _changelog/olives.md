@@ -1,3 +1,17 @@
+=====================
+  23 September 2021
+=====================
+
+Device Side Changelog:
+* Import PowerHAL from LA.UM.9.6.3.r1-04500-89xx.0
+* Import QTI Perf component from AOSPA
+* Add MIUI Camera
+* Revert Enable sys.use_fifo_ui prop if EAS is present
+* Disable surfaceflinger backpressure
+* Build QTI Thermal HIDL
+* Drop dummy libqti-perfd-client
+* WifiOverlay: Disable 5GHz option
+
 
 =====================
   12 September 2021
