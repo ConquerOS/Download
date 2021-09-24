@@ -5,37 +5,6 @@ codename:beryllium
   18 September 2021
 =====================
 
-Source Side Changelog:
- * Bump to 4.6
- * Use Android 12's FOD Icon
- * Fix touch issue on split screen
- * Set device name to market name if available
- * Use FileChannel#size for APK Sign verification
- * Make entityheader transparent
- * Add back missing FORCE_STOP_PACKAGES perm to SystemUI
- * Added Data usage info on Expanded QS Footer
- * Install seccomp filter even if permissive builds
- * Sleep when proximity is covered for 3 secs
- * Use temporary TwilightState when location is not availavle
- * Make Battery icon on QS Panel clickable
- * Save and use last fetched location
- * Make Guest user avatar follow system accent
- * Rework on the Action Buttons looks
- * Fixed Option of conquerOS Themer being rested in every reboot
- * Added Quick Suggestion section on conquerOS Features menu
- * Redesign Battery Info header
- * Fix date showing null on Shapeshift Tweleve clock face
- * Fix some UI Bugs
- * Added bouncy overscroll animation
- * Move conquerOS gesture settings to system gesture option
- * Follow system accent on SetupWizard
- * Fix vdso32 building for 4.19 kernels
- * Allow to use boottime as timestamp reference 
- * Avoid calling getSystemCameraKind if the camera was not mapped yet
- * Fix thread safety issues
- * Some more minor UI and bug fixes
- * New default wallpaper
-
 Device Side Changelog:
  * Reverted back to Xiaomi PowerHAL
  * Tweaked hints for more battery backup
@@ -64,12 +33,15 @@ Device Side Changelog:
 	- Widevine from OP6 RKQ1.201217.002/2106301530
 	- DPM, IMS, RIL from LA.QSSI.11.0.r1-12100-qssi.0
 and LA.UM.9.8.r1-02700-SDM710.0
-	- Uprev ESEPowerManager
-	- Configure cpusets for dex2oat
-	- Build servicetracker HAL from source
-	- Kang dexpreopt bits from OnePlus 7 tree
-	- Fix VoLTE/Data SIM Slot switching issue
-	- Use blueline power profile
+ * Uprev ESEPowerManager
+ * Configure cpusets for dex2oat
+ * Build servicetracker HAL from source
+ * Kang dexpreopt bits from OnePlus 7 tree
+ * Fix VoLTE/Data SIM Slot switching issue
+ * Use blueline power profile
+ * Boost GPU to max for Expensive Rendering
+ * Import Pixel2016Exclusive (Unlimited Photos)
+ * Allow thermal-engine to read /sys/devices
 
 =====================
     28 July 2021
