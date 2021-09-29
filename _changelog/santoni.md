@@ -50,6 +50,10 @@ Include 4.6 version update Changelog:
 Device Side Changelog:
  * Updated blobs from LA.UM.9.6.3.r1-04400-89xx.0
  * Upstream kernel ( GengKapak clang 14 )
+ * Enabled low RAM flag on 2GB RAM model
+ * Enabled dex2oat64 support
+ * Updated dalvik values (More adapted from 2GB RAM)
+ * Updated ZRAM size to half RAM size
  * Fixed some bug and minor improvement
 
 =====================
