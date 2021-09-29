@@ -1,6 +1,78 @@
 ---
 codename:ginkgo
 ---
+
+=====================
+   29 September 2021
+=====================
+Source Side Changelog:
+* Bump to 4.7
+* Merged 'LA.QSSI.11.0.r1-13200-qssi.0' CAF Tag
+* Merged August Security Patch
+* Allow to hide VPN icons in the statusbar 
+* Some changes for PixelPropUtils to pass SafetyNet 
+* Fix Battery Usage Header layout
+* Limit Keyguard charging stats updates
+* Fix some UI Crashes that really annoying
+* Set OpenGL Skia as default renderer
+* Add proper config for WiFi 5GHz support
+
+Include 4.6 version update Changelog:
+* Use Android 12's FOD Icon
+* Fix touch issue on split screen
+* Set device name to market name if available
+* Use FileChannel#size for APK Sign verification
+* Make entityheader transparent
+* Add back missing FORCE_STOP_PACKAGES perm to SystemUI
+* Added Data usage info on Expanded QS Footer
+* Install seccomp filter even if permissive builds
+* Sleep when proximity is covered for 3 secs
+* Use temporary TwilightState when location is not availavle
+* Make Battery icon on QS Panel clickable
+* Save and use last fetched location
+* Make Guest user avatar follow system accent
+* Rework on the Action Buttons looks
+* Fixed Option of conquerOS Themer being rested in every reboot
+* Added Quick Suggestion section on conquerOS Features menu
+* Redesign Battery Info header
+* Fix date showing null on Shapeshift Tweleve clock face
+* Fix some UI Bugs
+* Added bouncy overscroll animation
+* Move conquerOS gesture settings to system gesture option
+* Follow system accent on SetupWizard
+* Fix vdso32 building for 4.19 kernels
+* Allow to use boottime as timestamp reference
+* Avoid calling getSystemCameraKind if the camera was not mapped yet
+* Fix thread safety issues
+* Some more minor UI and bug fixes
+* New default wallpaper
+
+Device Side Changelog:
+* Upstreamed kernel to v4.14.246 (android-4.14-stable)
+* Updated MIUI blobs to V12.0.2.0.RCOMIXM
+* Fixed random reboots during widevine L1 playback
+* Removed widevine firmware hack, R firmware is mandatory
+* Boost I/O during bootup to improve boot speed
+* Boost CPU during wake for faster faceunlock
+* Increased default f2fs checkpoint interval
+* Increased hispeed freq for big cluster
+* Disabled conservative PL boost
+* Reverted AOSP's old VM settings tweaks
+* Misc optimizations and fixes in kernel
+* Fixed safetynet CTS profile for all
+* Added LCD HBM and CABC in XiaomiParts
+* Added missing qti_whitelist sysconfig
+* Disabled useless cnss-diag service
+* Improved schedutil governor ratelimits
+* Updated clear speaker audio from MIUI12
+* Removed notification and battery LED settings on willow
+* Removed TM symbol in kernel name (required by some apps)
+* Merged LA.UM.9.11.r1-04700.02 CAF tag in kernel
+* Fixed IR sensor
+* Enabled idle_state mechanism
+* Checkout audio policy config from MIUI Global Stable
+* Implemented vibration control under Sound settings
+
 =====================
     11 August 2021
 =====================
