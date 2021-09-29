@@ -1,4 +1,30 @@
 ===================== 
+   29 September 2021
+=====================
+
+Source Side Changelog:
+* Bump to 4.7
+* Merged 'LA.QSSI.11.0.r1-13200-qssi.0' CAF Tag
+* Merged August Security Patch
+* Allow to hide VPN icons in the statusbar ( Some changes for PixelPropUtils to pas SafetyNet ( Fix Battery Usage Header layout
+* Limit Keyguard charging stats updates
+* Fix some UI Crashes that really annoying
+* Set OpenGL Skia as default renderer
+* Add proper config for WiFi 5GHz support
+
+Device Side Changelog:
+* Added PockeMode 
+* Switch to LZ4 for better performance
+* Complied With ProtonClang
+* PredatorX Edition 4.7 Customized Kernel With latest Upstream 4.4.285
+* Gboard: Remove navbar spacing
+* Tune Zram and swappines
+* Resolved Some Selinux Denials 
+* Removed Dirac
+* added some Ui tweaks for better experience
+
+
+===================== 
    19 August 2021
 =====================
 
