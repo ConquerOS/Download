@@ -1,4 +1,15 @@
 =====================
+   04 October 2021
+=====================
+
+Device Side Changelog:
+* Rebased and cleaned up tree
+* Merge tag LA.UM.8.6.2.r1-09500-89xx.0 into Display, Media, & Audio HALs
+* Update libsdm-color from PAN_sprout RKQ1.200928.002
+* Fixed GPS can't lock location
+* Soft reboot issue should been fixed
+
+=====================
   23 September 2021
 =====================
 
