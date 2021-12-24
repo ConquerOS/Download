@@ -4,6 +4,6 @@ fullname: Redmi Note 10 Pro
 romversion: twelve
 maintainer: Pulkit Agarwal
 newformat: true
-pling: https://sourceforge.net/projects/conqueros/files/twelve/sweet/conquerOS-5.0-sweet-20211212-1645-OFFICIAL-gapps.zip/download
+pling: https://sourceforge.net/projects/conqueros/files/twelve/sweet/conquerOS-5.0-sweet-20211224-1712-OFFICIAL-gapps.zip/download
 xdathread:
 ---
