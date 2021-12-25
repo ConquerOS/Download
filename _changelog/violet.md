@@ -3,6 +3,12 @@ codename:violet
 ---
 
 =====================
+     25 Dec 2021
+=====================
+* Initial a12 build
+
+
+=====================
      22 Sept 2021
 =====================
 * Used latest source of vertigo kernel
