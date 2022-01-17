@@ -1,6 +1,13 @@
 ---
 codename:violet
 ---
+=====================
+     17 Jan 2022
+=====================
+* conquerOS 5.1 release
+* labled some sepolicy
+* Used latest source of vertigo kernel
+
 
 =====================
      25 Dec 2021
