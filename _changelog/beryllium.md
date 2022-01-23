@@ -1,6 +1,38 @@
 ---
 codename:beryllium
 ---
+
+=====================
+  23 January 2022
+=====================
+
+ * conquerOS 5.1 release
+ * Added few missing 64bit blobs
+ * Fixed SystemUI misalignment (QQS/QS/Statusbar)
+ * Updated perf HAL, stack
+ * Vulkan UI Renderer
+ * QTI Bluetooth stack
+ * Fixed UI Glitches / Flickers
+ * Fixed Google Photos unlimited backup @ original quality
+ * Removed CAF's ugly unaligned emergency button on lockscreen
+ * Added machine learning back gesture
+ * Added Separate Wi-Fi & Mobile Data QS tiles
+ * Fixed battery stats
+ * Fixed nearby sharing
+ * Fixed laggy live wallpaper
+ * stripped down gapps
+ * Added Alarm and Vibrate status bar icons
+ * Added scramble Pin and Quick Unlock Pin options
+ * Added option to allow tethering via VPN upstream
+ * Added Smart Space (at a glance on lockscreen/ambient)
+ * Added Google's advanced battery prediction based on Turbo
+ * removed AOSP's system update setting from system settings
+ * switched to Google's SettingsIntelligenec for suggestions provider
+ * switched to Pixel's Google Sans Clock font
+ * fixed navbar padding after removing bottom pill
+ * monet styled power menu 
+ * added adb root
+
 =====================
   25 September 2021
 =====================
